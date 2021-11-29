@@ -1,0 +1,342 @@
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:17"]
+[Variant "Standard"]
+[ECO "D58"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. e3 { [%eval 0.0] } 7... b6 { [%eval 0.07] } 8. Rc1 { [%eval 0.15] } 8... Bb7 { [%eval 0.12] } 9. Be2 { [%eval 0.0] } 9... Nbd7 { [%eval 0.48] } 10. cxd5 { [%eval 0.49] } 10... exd5 { [%eval 0.42] } 11. O-O { [%eval 0.46] } 11... c5 { [%eval 0.63] } 12. dxc5 { [%eval 0.33] } 12... bxc5 { [%eval 0.45] } 13. Qc2 { [%eval 0.61] } 13... Rc8 { [%eval 0.48] } 14. Rfd1 { [%eval 0.37] } 14... Qb6 { [%eval 0.28] } 15. Qb1 { [%eval 0.0] } 15... Rfd8 { [%eval -0.08] } 16. Rc2 { [%eval 0.0] } 16... Qe6 { [%eval 0.02] } 17. Bg3?! { [%eval -0.71] } { Inaccuracy. h3 was best. } (17. h3 Bd6) 17... Nh5 { [%eval -0.74] } 18. Rcd2 { [%eval -0.7] } 18... Nxg3 { [%eval -0.76] } 19. hxg3 { [%eval -0.59] } 19... Nf6 { [%eval -0.73] } 20. Qc2 { [%eval -0.78] } 20... g6 { [%eval -0.7] } 21. Qa4 { [%eval -0.82] } 21... a6 { [%eval -0.9] } 22. Bd3 { [%eval -0.89] } 22... Kg7 { [%eval -0.73] } 23. Bb1?! { [%eval -1.32] } { Inaccuracy. Qb3 was best. } (23. Qb3) 23... Qb6 { [%eval -1.09] } 24. a3?? { [%eval -3.14] } { Blunder. Qb3 was best. } (24. Qb3 Qxb3) 24... d4 { [%eval -3.0] } 25. Ne2?? { [%eval -7.07] } { Blunder. exd4 was best. } (25. exd4) 25... dxe3 { [%eval -6.7] } 26. fxe3 { [%eval -7.07] } 26... c4 { [%eval -6.7] } 27. Ned4 { [%eval -6.93] } 27... Qc7 { [%eval -5.5] } 28. Nh4 { [%eval -7.03] } 28... Qe5 { [%eval -5.4] } 29. Kh1?! { [%eval -7.21] } { Inaccuracy. Ndf5+ was best. } (29. Ndf5+ gxf5) 29... Kg8 { [%eval -5.85] } 30. Ndf3 { [%eval -5.92] } 30... Qxg3 { [%eval -5.76] } 31. Rxd8+ { [%eval -5.87] } 31... Bxd8 { [%eval -6.07] } 32. Qb4 { [%eval -6.46] } 32... Be4 { [%eval -6.51] } 33. Bxe4 { [%eval -6.45] } 33... Nxe4 { [%eval -6.26] } 34. Rd4 { [%eval -6.55] } 34... Nf2+ { [%eval -6.91] } 35. Kg1 { [%eval -6.72] } 35... Nd3 { [%eval -6.2] } 36. Qb7 { [%eval -8.22] } 36... Rb8 { [%eval -8.38] } 37. Qd7 { [%eval -9.36] } 37... Bc7 { [%eval -8.47] } 38. Kh1? { [%eval #-10] } { Checkmate is now unavoidable. Rxd3 was best. } (38. Rxd3) 38... Rxb2 { [%eval #-9] } 39. Rxd3 { [%eval -61.26] } 39... cxd3 { [%eval #-8] } 40. Qxd3 { [%eval #-8] } 40... Qd6? { [%eval -8.15] } { Lost forced checkmate sequence. g5 was best. } (40... g5 41. Qd1 gxh4 42. Qg1 Kf8 43. e4 h3 44. Nd2 Rxd2 45. Qc5+ Kg8 46. Qg5+ hxg5 47. a4) 41. Qe4 { [%eval -10.26] } 41... Qd1+ { [%eval -9.1] } 42. Ng1 { [%eval -8.52] } 42... Qd6 { [%eval -8.97] } 43. Nhf3? { [%eval #-6] } { Checkmate is now unavoidable. Qf4 was best. } (43. Qf4 Qxf4 44. exf4 Bxf4 45. Nhf3 Ra2 46. Nd4 Rxa3 47. g4 Ra2 48. Ngf3 Kf8 49. g5 hxg5) 43... Rb5? { [%eval -8.51] } { Lost forced checkmate sequence. Qg3 was best. } { 0-1 White resigns. } (43... Qg3 44. Qg4 Qxg4 45. Ne1 Qh4+ 46. Nh3 Qxe1+ 47. Ng1 Qh4+ 48. Nh3 Rb1#) 0-1
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:17"]
+[Variant "Standard"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio de Janeiro Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... Nf6 { [%eval 0.39] } 4. O-O { [%eval 0.12] } 4... Nxe4 { [%eval 0.21] } 5. d4 { [%eval 0.28] } 5... Be7 { [%eval 0.49] } 6. Qe2 { [%eval 0.51] } 6... Nd6 { [%eval 0.45] } 7. Bxc6 { [%eval 0.39] } 7... bxc6 { [%eval 0.58] } 8. dxe5 { [%eval 0.7] } 8... Nb7 { [%eval 0.51] } 9. Nc3 { [%eval 0.62] } 9... O-O { [%eval 0.62] } 10. Re1 { [%eval 0.57] } 10... Nc5 { [%eval 0.68] } 11. Be3 { [%eval 0.62] } 11... Ne6 { [%eval 0.58] } 12. Rad1 { [%eval 0.66] } 12... d5 { [%eval 0.65] } 13. exd6 { [%eval 0.39] } 13... cxd6 { [%eval 0.54] } 14. Nd4 { [%eval 0.55] } 14... Bd7 { [%eval 0.96] } 15. Nf5 { [%eval 1.12] } 15... d5 { [%eval 0.92] } 16. Nxe7+ { [%eval 1.06] } 16... Qxe7 { [%eval 0.91] } 17. Qd2 { [%eval 0.87] } 17... Qh4 { [%eval 1.07] } 18. Ne2 { [%eval 1.19] } 18... Rfe8 { [%eval 1.14] } 19. b3 { [%eval 1.31] } 19... Re7 { [%eval 1.8] } 20. Ng3 { [%eval 1.79] } 20... Qf6 { [%eval 1.68] } 21. f3 { [%eval 1.32] } 21... Be8? { [%eval 2.56] } { Mistake. h6 was best. } (21... h6 22. f4 Nc7 23. a4 a6 24. Rf1 Bf5 25. Bd4 Qg6 26. Qc3 Ne6 27. Nxf5 Qxf5 28. Qxc6) 22. Ne2? { [%eval 1.15] } { Mistake. f4 was best. } (22. f4 h6) 22... h6 { [%eval 1.04] } 23. Bf2 { [%eval 1.05] } 23... Qg6?! { [%eval 1.64] } { Inaccuracy. Rd8 was best. } (23... Rd8 24. Nd4 a6 25. Nxe6 Rxe6 26. Qa5 Ra8 27. Qb6 Bd7 28. Qb7 Rd8 29. Qxa6 Rxe1+ 30. Rxe1) 24. Nc1 { [%eval 1.37] } 24... d4 { [%eval 1.52] } 25. Nd3 { [%eval 1.62] } 25... Qf6 { [%eval 1.62] } 26. Bg3 { [%eval 1.68] } 26... Rd7 { [%eval 1.87] } 27. Re5 { [%eval 1.34] } 27... Qd8 { [%eval 1.23] } 28. Rde1 { [%eval 1.33] } 28... Rd5 { [%eval 1.29] } 29. Rxd5 { [%eval 1.32] } 29... Qxd5 { [%eval 1.56] } 30. Re5 { [%eval 1.55] } 30... Qd7 { [%eval 1.73] } 31. Qe1 { [%eval 1.72] } 31... Rc8?! { [%eval 2.39] } { Inaccuracy. Qc8 was best. } (31... Qc8) 32. b4? { [%eval 0.79] } { Mistake. f4 was best. } (32. f4) 32... Qd8?! { [%eval 1.76] } { Inaccuracy. c5 was best. } (32... c5) 33. Ra5?! { [%eval 1.12] } { Inaccuracy. Bh4 was best. } (33. Bh4 Qd6) 33... Qd7?! { [%eval 1.81] } { Inaccuracy. c5 was best. } (33... c5 34. bxc5 Qd5 35. Qb4 a6 36. a4 Qa2 37. Qb7 Rd8 38. Qb2 Qxb2 39. Nxb2 Ra8 40. Nd3) 34. h3 { [%eval 1.9] } 34... f6? { [%eval 3.2] } { Mistake. Ra8 was best. } (34... Ra8 35. Qe4) 35. Rxa7 { [%eval 3.33] } 35... Qd5 { [%eval 3.56] } 36. Ra5 { [%eval 3.48] } 36... Qd7 { [%eval 3.48] } 37. Ra7 { [%eval 3.25] } 37... Qd5 { [%eval 3.3] } 38. Ra5 { [%eval 3.35] } 38... Qd7 { [%eval 3.43] } 39. Qe4 { [%eval 3.17] } 39... Bf7 { [%eval 3.27] } 40. Qf5 { [%eval 2.82] } 40... Re8 { [%eval 2.93] } 41. Kh2 { [%eval 3.15] } 41... Qb7 { [%eval 3.43] } 42. a3 { [%eval 3.5] } 42... Rd8 { [%eval 3.55] } 43. h4 { [%eval 3.0] } 43... h5 { [%eval 3.53] } 44. Nf2 { [%eval 3.11] } 44... Qd7 { [%eval 3.8] } 45. Ra6 { [%eval 3.85] } 45... Qe8 { [%eval 4.02] } 46. Qa5 { [%eval 4.36] } 46... Bg6?! { [%eval 6.0] } { Inaccuracy. Kh7 was best. } (46... Kh7 47. Nd3) 47. Nd3?! { [%eval 4.53] } { Inaccuracy. b5 was best. } (47. b5) 47... Kh7 { [%eval 5.11] } 48. Qb6 { [%eval 4.71] } 48... Rc8 { [%eval 4.87] } 49. a4 { [%eval 4.91] } 49... Bf5 { [%eval 5.08] } 50. a5 { [%eval 5.4] } 50... c5 { [%eval 5.45] } 51. bxc5 { [%eval 5.36] } 51... Bxd3 { [%eval 5.3] } 52. cxd3 { [%eval 5.08] } 52... Nxc5 { [%eval 5.26] } 53. Ra7 { [%eval 5.44] } 53... Qg6 { [%eval 6.87] } 54. Rc7 { [%eval 6.75] } 54... Rxc7 { [%eval 7.27] } 55. Bxc7 { [%eval 7.38] } 55... Nxd3 { [%eval 7.54] } 56. Qxd4 { [%eval 7.38] } 56... Ne5 { [%eval 8.11] } 57. Bxe5 { [%eval 7.77] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:17"]
+[Variant "Standard"]
+[ECO "D58"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. e3 { [%eval 0.0] } 7... b6 { [%eval 0.07] } 8. Rc1 { [%eval 0.15] } 8... Bb7 { [%eval 0.12] } 9. Be2 { [%eval 0.0] } 9... dxc4 { [%eval 0.04] } 10. Bxc4 { [%eval 0.08] } 10... Nbd7 { [%eval 0.02] } 11. O-O { [%eval 0.12] } 11... c5 { [%eval -0.02] } 12. Qe2 { [%eval 0.08] } 12... a6 { [%eval 0.09] } 13. a4 { [%eval 0.08] } 13... Ne4 { [%eval 0.19] } 14. Nxe4 { [%eval 0.07] } 14... Bxe4 { [%eval 0.52] } 15. Bg3 { [%eval 0.44] } 15... Qc8 { [%eval 0.34] } 16. dxc5 { [%eval 0.56] } 16... bxc5 { [%eval 0.49] } 17. Nd2 { [%eval 0.47] } 17... Bc6 { [%eval 0.58] } 18. b3 { [%eval 0.56] } 18... Rd8 { [%eval 0.62] } 19. Bd3 { [%eval 0.49] } 19... Qb7 { [%eval 0.54] } 20. f3 { [%eval 0.35] } 20... Nf6 { [%eval 0.56] } 21. Rfd1 { [%eval 0.14] } 21... Nd5 { [%eval 0.28] } 22. e4 { [%eval 0.08] } 22... Nb4 { [%eval 0.07] } 23. Bb1 { [%eval -0.26] } 23... Be8 { [%eval -0.37] } 24. e5 { [%eval -0.2] } 24... Nc6 { [%eval -0.18] } 25. Bf2?! { [%eval -0.82] } { Inaccuracy. Qe4 was best. } (25. Qe4) 25... Nd4 { [%eval -0.91] } 26. Bxd4 { [%eval -0.87] } 26... Rxd4 { [%eval -0.93] } 27. Be4 { [%eval -0.55] } 27... Bc6 { [%eval -0.68] } 28. Bxc6 { [%eval -0.79] } 28... Qxc6 { [%eval -0.43] } 29. Nc4 { [%eval -0.56] } 29... Rad8 { [%eval -0.68] } 30. Rxd4 { [%eval -0.82] } 30... cxd4 { [%eval -0.69] } 31. Qd3 { [%eval -0.52] } 31... Bb4 { [%eval -0.78] } 32. g3 { [%eval -0.32] } 32... Rb8 { [%eval -0.66] } 33. Kg2 { [%eval -0.54] } 33... Bc3 { [%eval -0.38] } 34. Rb1 { [%eval -0.27] } 34... Qd5 { [%eval -0.47] } 35. h4 { [%eval -0.4] } 35... h5 { [%eval -0.31] } 36. Kf2 { [%eval -0.47] } 36... Bb4 { [%eval -0.55] } 37. Kg2 { [%eval -0.48] } 37... Be7 { [%eval -0.95] } 38. Rd1 { [%eval -0.62] } 38... Qb7 { [%eval -0.49] } 39. Rb1 { [%eval -0.49] } 39... Qd5 { [%eval -0.7] } 40. Rb2 { [%eval -0.35] } 40... Bb4 { [%eval -0.59] } 41. Rb1 { [%eval -0.38] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:17"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Russian Game: Classical Attack, Chigorin Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nf6 { [%eval 0.51] } 3. Nxe5 { [%eval 0.31] } 3... d6 { [%eval 0.26] } 4. Nf3 { [%eval 0.29] } 4... Nxe4 { [%eval 0.25] } 5. d4 { [%eval 0.13] } 5... d5 { [%eval 0.58] } 6. Bd3 { [%eval 0.28] } 6... Be7 { [%eval 0.48] } 7. O-O { [%eval 0.24] } 7... Nc6 { [%eval 0.56] } 8. Re1 { [%eval 0.39] } 8... Bf5 { [%eval 0.8] } 9. Bb5?! { [%eval 0.02] } { Inaccuracy. Nbd2 was best. } (9. Nbd2 Nxd2 10. Qxd2 Bg6 11. Bxg6 hxg6 12. Qd3 Qd7 13. Bg5 O-O 14. Bxe7 Nxe7 15. Ne5 Qd6) 9... Bf6 { [%eval 0.42] } 10. Nbd2 { [%eval 0.4] } 10... O-O { [%eval 0.52] } 11. Nf1 { [%eval 0.29] } 11... Ne7 { [%eval 0.24] } 12. c3 { [%eval 0.22] } 12... Ng6 { [%eval 0.2] } 13. Bd3 { [%eval 0.19] } 13... Nd6 { [%eval 0.34] } 14. Bxf5 { [%eval 0.17] } 14... Nxf5 { [%eval 0.04] } 15. Qb3 { [%eval 0.28] } 15... b6 { [%eval 0.16] } 16. Qb5 { [%eval 0.14] } 16... a6 { [%eval 0.32] } 17. Qd3 { [%eval 0.45] } 17... Qd7 { [%eval 0.47] } 18. Ng3 { [%eval 0.21] } 18... Nxg3 { [%eval 0.26] } 19. hxg3 { [%eval 0.12] } 19... a5 { [%eval 0.25] } 20. Bg5 { [%eval 0.14] } 20... Bxg5 { [%eval 0.22] } 21. Nxg5 { [%eval 0.23] } 21... Rfe8 { [%eval 0.15] } 22. b3 { [%eval 0.0] } 22... Rad8 { [%eval 0.16] } 23. Nf3 { [%eval 0.15] } 23... f6 { [%eval 0.48] } 24. Nd2 { [%eval 0.41] } 24... Kf7 { [%eval 0.62] } 25. Nf1 { [%eval 0.58] } 25... h5 { [%eval 0.4] } 26. Rxe8 { [%eval 0.35] } 26... Rxe8 { [%eval 0.37] } 27. Qf3 { [%eval 0.44] } 27... Rh8 { [%eval 0.39] } 28. Ne3 { [%eval 0.47] } 28... Ne7 { [%eval 0.51] } 29. Re1 { [%eval 0.35] } 29... g6 { [%eval 0.55] } 30. Qf4 { [%eval 0.25] } 30... Kg7 { [%eval 0.45] } 31. g4 { [%eval 0.34] } 31... g5 { [%eval 0.47] } 32. Qf3 { [%eval 0.5] } 32... hxg4 { [%eval 0.43] } 33. Nxg4 { [%eval 0.36] } 33... Qd6?! { [%eval 0.89] } { Inaccuracy. Nf5 was best. } (33... Nf5 34. c4 c6 35. cxd5 cxd5 36. Nxf6 Kxf6 37. g4 Qh7 38. Qxf5+ Qxf5 39. gxf5 a4 40. Re6+) 34. g3 { [%eval 0.62] } 34... c6 { [%eval 0.93] } 35. c4 { [%eval 0.5] } 35... f5 { [%eval 0.68] } 36. Qe3 { [%eval 0.67] } 36... Ng6 { [%eval 0.62] } 37. c5 { [%eval 0.86] } 37... Qd8 { [%eval 0.85] } 38. Ne5 { [%eval 1.0] } 38... bxc5 { [%eval 0.75] } 39. Nxc6 { [%eval 0.79] } 39... Qf6 { [%eval 0.62] } 40. Qe6 { [%eval 0.69] } 40... cxd4?? { [%eval 5.0] } { Blunder. Qxe6 was best. } (40... Qxe6 41. Rxe6 c4 42. bxc4 dxc4 43. d5 Kf7 44. Kg2 Re8 45. Rxe8 Kxe8 46. Kf3 c3 47. Nxa5) 41. Qxd5 { [%eval 4.39] } 41... d3 { [%eval 4.86] } 42. Qd7+ { [%eval 4.67] } 42... Qf7 { [%eval 4.48] } 43. Ne7 { [%eval 4.62] } 43... Kh7 { [%eval 5.25] } 44. Kg2 { [%eval 4.82] } 44... Re8 { [%eval 5.3] } 45. Rh1+ { [%eval 5.43] } 45... Nh4+ { [%eval 5.29] } 46. gxh4 { [%eval 5.28] } 46... Qxe7 { [%eval 5.41] } 47. Qxf5+ { [%eval 4.78] } 47... Kg7 { [%eval 4.86] } 48. hxg5 { [%eval 4.81] } 48... Qb7+? { [%eval 26.13] } { Mistake. Qe4+ was best. } (48... Qe4+ 49. Qxe4) 49. f3 { [%eval 11.75] } 49... Re2+ { [%eval 58.57] } 50. Kf1 { [%eval 56.69] } 50... Kg8 { [%eval 14.62] } 51. Qxd3 { [%eval 62.53] } 51... Re6?! { [%eval #9] } { Checkmate is now unavoidable. Qg7 was best. } (51... Qg7 52. Kxe2) 52. Qd8+ { [%eval #8] } 52... Kg7 { [%eval #8] } 53. Qd4+ { [%eval #7] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:17"]
+[Variant "Standard"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Charousek Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. Rc1 { [%eval -0.07] } 7... b6 { [%eval 0.2] } 8. cxd5 { [%eval 0.28] } 8... Nxd5 { [%eval -0.04] } 9. Nxd5 { [%eval 0.05] } 9... exd5 { [%eval 0.12] } 10. Bxe7 { [%eval 0.18] } 10... Qxe7 { [%eval 0.24] } 11. g3 { [%eval 0.4] } 11... Ba6 { [%eval 0.23] } 12. e3 { [%eval 0.25] } 12... c5 { [%eval 0.3] } 13. dxc5 { [%eval 0.38] } 13... bxc5 { [%eval 0.23] } 14. Bxa6 { [%eval 0.33] } 14... Nxa6 { [%eval 0.45] } 15. Qxd5 { [%eval 0.36] } 15... Nb4 { [%eval 0.72] } 16. Qc4 { [%eval 0.46] } 16... Qf6 { [%eval 0.51] } 17. Nh4?! { [%eval 0.0] } { Inaccuracy. Qe2 was best. } (17. Qe2 Qf5) 17... Qxb2 { [%eval 0.16] } 18. O-O { [%eval 0.27] } 18... Qxa2 { [%eval 0.15] } 19. Qxa2 { [%eval 0.25] } 19... Nxa2 { [%eval 0.17] } 20. Rxc5 { [%eval 0.26] } 20... Rfc8 { [%eval 0.21] } 21. Ra5 { [%eval 0.16] } 21... Nc1 { [%eval 0.25] } 22. Nf5 { [%eval 0.23] } 22... Rc7 { [%eval 0.24] } 23. Nd4 { [%eval 0.25] } 23... Rb8 { [%eval 0.26] } 24. Ra1 { [%eval 0.17] } 24... Nd3 { [%eval 0.3] } 25. Rfd1 { [%eval 0.28] } 25... Ne5 { [%eval 0.24] } 26. Ra2 { [%eval 0.15] } 26... g6 { [%eval 0.24] } 27. Rda1 { [%eval 0.02] } 27... Rbb7 { [%eval 0.15] } 28. h3 { [%eval 0.17] } 28... h5 { [%eval 0.18] } 29. Kg2 { [%eval 0.15] } 29... Kg7 { [%eval 0.14] } 30. Ra5 { [%eval 0.16] } 30... Nc6 { [%eval 0.16] } 31. Nxc6 { [%eval 0.14] } 31... Rxc6 { [%eval 0.18] } 32. Rxa7 { [%eval 0.16] } 32... Rxa7 { [%eval 0.16] } 33. Rxa7 { [%eval 0.23] } 33... Rc2 { [%eval 0.18] } 34. e4 { [%eval 0.17] } 34... Rc3 { [%eval 0.16] } 35. Ra2 { [%eval 0.15] } 35... Kf6 { [%eval 0.16] } 36. f3 { [%eval 0.16] } 36... Rb3 { [%eval 0.16] } 37. Kf2 { [%eval 0.12] } 37... Rc3 { [%eval 0.16] } 38. Ke2 { [%eval 0.15] } 38... Rb3 { [%eval 0.13] } 39. Ra6+ { [%eval 0.16] } 39... Ke7 { [%eval 0.16] } 40. Ra5 { [%eval 0.12] } 40... Kf6 { [%eval 0.2] } 41. Rd5 { [%eval 0.17] } 41... Ra3 { [%eval 0.13] } 42. Rd6+ { [%eval 0.14] } 42... Kg7 { [%eval 0.18] } 43. h4 { [%eval 0.08] } 43... Rb3 { [%eval 0.11] } 44. Rd3 { [%eval 0.19] } 44... Rb5 { [%eval 0.18] } 45. Ke3 { [%eval 0.12] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C82"]
+[Opening "Ruy Lopez: Open, St. Petersburg Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Nxe4 { [%eval 0.41] } 6. d4 { [%eval 0.21] } 6... b5 { [%eval 0.2] } 7. Bb3 { [%eval 0.21] } 7... d5 { [%eval 0.43] } 8. dxe5 { [%eval 0.55] } 8... Be6 { [%eval 0.53] } 9. c3 { [%eval 0.38] } 9... Bc5 { [%eval 0.54] } 10. Nbd2 { [%eval 0.34] } 10... O-O { [%eval 0.6] } 11. Bc2 { [%eval 0.46] } 11... Bf5 { [%eval 0.82] } 12. Nb3 { [%eval 0.68] } 12... Bg6 { [%eval 0.7] } 13. Nfd4 { [%eval 0.81] } 13... Bxd4 { [%eval 0.79] } 14. cxd4?! { [%eval 0.08] } { Inaccuracy. Nxd4 was best. } (14. Nxd4 Qd7 15. f4 Nxd4 16. cxd4 f6 17. Be3 c6 18. Rc1 a5 19. Bb1 Rae8 20. Qe1 a4) 14... a5 { [%eval 0.16] } 15. Be3 { [%eval 0.06] } 15... a4 { [%eval 0.23] } 16. Nc1 { [%eval 0.21] } 16... a3 { [%eval 0.09] } 17. b3 { [%eval 0.29] } 17... f6 { [%eval 0.07] } 18. exf6 { [%eval 0.26] } 18... Qxf6 { [%eval 0.09] } 19. Ne2 { [%eval 0.0] } 19... Nb4 { [%eval 0.14] } 20. Bb1 { [%eval 0.5] } 20... Qe7 { [%eval 0.34] } 21. Qe1 { [%eval 0.4] } 21... Rfe8 { [%eval 0.69] } 22. Nf4 { [%eval 0.65] } 22... Bf7 { [%eval 0.21] } 23. Qc1 { [%eval 0.32] } 23... c5 { [%eval 0.37] } 24. dxc5 { [%eval 0.55] } 24... Qf6 { [%eval 0.37] } 25. Bxe4 { [%eval 0.2] } 25... Rxe4 { [%eval 0.54] } 26. Ne2?! { [%eval -0.19] } { Inaccuracy. Qd2 was best. } (26. Qd2) 26... d4 { [%eval -0.07] } 27. Ng3 { [%eval 0.0] } 27... Ree8 { [%eval 0.0] } 28. Qd2 { [%eval 0.0] } 28... Nc6 { [%eval 0.14] } 29. Bg5 { [%eval 0.0] } 29... Qe5 { [%eval -0.38] } 30. Rac1 { [%eval 0.0] } 30... d3 { [%eval 0.0] } 31. Rfd1?! { [%eval -0.51] } { Inaccuracy. Rfe1 was best. } (31. Rfe1 Qd5 32. h4 h6 33. Bf4 Bg6 34. h5 Bh7 35. Re3 Rxe3 36. Qxe3 Nb4 37. Qd2 Nc6) 31... Bg6 { [%eval -0.62] } 32. Be3 { [%eval -0.93] } 32... Re6 { [%eval -1.16] } 33. Bf4 { [%eval -0.73] } 33... Qf6 { [%eval -0.99] } 34. Re1 { [%eval -1.27] } 34... Rae8 { [%eval -1.3] } 35. Rxe6 { [%eval -1.05] } 35... Rxe6 { [%eval -0.94] } 36. Rb1? { [%eval -2.23] } { Mistake. Be3 was best. } (36. Be3 h5 37. h3 Kh7 38. f4 Nd4 39. f5 Nxf5 40. Nxf5 Bxf5 41. Qf2 Qe5 42. Re1 Qd5) 36... h5 { [%eval -1.81] } 37. h3 { [%eval -2.4] } 37... h4? { [%eval -0.83] } { Mistake. Nd4 was best. } (37... Nd4) 38. Bg5 { [%eval -0.93] } 38... Qd4 { [%eval -1.38] } 39. Be3 { [%eval -1.04] } 39... Qd5?? { [%eval 1.03] } { Blunder. Qe5 was best. } (39... Qe5 40. Nf1 Bh5 41. Re1 Be2 42. Nh2 Qe4 43. Rxe2 dxe2 44. Qxe2 Qb1+ 45. Nf1 Rg6 46. Qh5) 40. Nf1?? { [%eval -3.44] } { Blunder. Ne2 was best. } (40. Ne2 Qe4) 40... Be4 { [%eval -3.98] } 41. Bf4? { [%eval -7.07] } { Mistake. f3 was best. } (41. f3 Bxf3) 41... Bxg2 { [%eval -6.69] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Charousek Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. Rc1 { [%eval -0.07] } 7... b6 { [%eval 0.2] } 8. cxd5 { [%eval 0.0] } 8... Nxd5 { [%eval 0.15] } 9. Nxd5 { [%eval 0.23] } 9... exd5 { [%eval 0.23] } 10. Bxe7 { [%eval 0.19] } 10... Qxe7 { [%eval 0.17] } 11. g3 { [%eval 0.29] } 11... Ba6 { [%eval 0.3] } 12. e3 { [%eval 0.28] } 12... c5 { [%eval 0.54] } 13. dxc5 { [%eval 0.64] } 13... Bb7 { [%eval 0.51] } 14. Bg2 { [%eval 0.37] } 14... bxc5 { [%eval 0.39] } 15. O-O { [%eval 0.37] } 15... Nd7 { [%eval 0.46] } 16. Qb3 { [%eval 0.56] } 16... Rfb8 { [%eval 0.5] } 17. Qa3 { [%eval 0.62] } 17... Qe6 { [%eval 0.43] } 18. Rfd1 { [%eval 0.47] } 18... a5 { [%eval 0.62] } 19. Ne1 { [%eval 0.43] } 19... a4 { [%eval 0.85] } 20. Nd3 { [%eval 1.14] } 20... d4 { [%eval 0.77] } 21. Bxb7 { [%eval 0.63] } 21... Rxb7 { [%eval 0.75] } 22. exd4 { [%eval 0.39] } 22... cxd4 { [%eval 0.3] } 23. Re1 { [%eval 0.69] } 23... Qd5 { [%eval 0.61] } 24. Rc2 { [%eval 0.31] } 24... Nf8 { [%eval 0.24] } 25. Nf4 { [%eval 0.24] } 25... Qa5 { [%eval 0.47] } 26. Rce2 { [%eval 0.24] } 26... Qb5 { [%eval 0.0] } 27. Qf3 { [%eval 0.16] } 27... Rab8 { [%eval 0.24] } 28. h4 { [%eval 0.61] } 28... Qf5 { [%eval 0.34] } 29. Re5 { [%eval 0.07] } 29... Qf6 { [%eval 0.3] } 30. Qd5 { [%eval 0.13] } 30... Rxb2 { [%eval 0.07] } 31. Rf5 { [%eval -0.27] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bc4 { [%eval 0.18] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.03] } 4... Nf6 { [%eval 0.23] } 5. d3 { [%eval 0.1] } 5... d6 { [%eval 0.27] } 6. Nbd2 { [%eval 0.0] } 6... a6 { [%eval 0.19] } 7. O-O { [%eval 0.21] } 7... O-O { [%eval 0.28] } 8. Bb3 { [%eval 0.13] } 8... Ba7 { [%eval 0.31] } 9. h3 { [%eval 0.26] } 9... Be6 { [%eval 0.27] } 10. Bc2 { [%eval 0.09] } 10... d5 { [%eval 0.1] } 11. Re1 { [%eval 0.06] } 11... dxe4 { [%eval 0.12] } 12. dxe4 { [%eval -0.09] } 12... Nh5 { [%eval -0.28] } 13. Nf1 { [%eval -0.05] } 13... Qxd1 { [%eval 0.12] } 14. Rxd1 { [%eval 0.24] } 14... Rad8 { [%eval 0.21] } 15. Be3 { [%eval 0.28] } 15... f6 { [%eval 0.27] } 16. Bxa7 { [%eval 0.22] } 16... Nxa7 { [%eval 0.1] } 17. Ne3 { [%eval 0.29] } 17... Nf4 { [%eval 0.21] } 18. h4 { [%eval 0.11] } 18... Bf7 { [%eval 0.15] } 19. Ne1 { [%eval 0.12] } 19... Nc8 { [%eval 0.18] } 20. f3 { [%eval 0.23] } 20... Ne6 { [%eval 0.1] } 21. Nd3 { [%eval 0.13] } 21... Rd7 { [%eval 0.59] } 22. Bb3 { [%eval 0.49] } 22... Ne7 { [%eval 0.45] } 23. Nd5 { [%eval 0.68] } 23... Nc6 { [%eval 0.63] } 24. Ba4 { [%eval 0.65] } 24... b5 { [%eval 0.62] } 25. Bc2 { [%eval 0.68] } 25... Rfd8 { [%eval 0.65] } 26. a4 { [%eval 0.53] } 26... Kf8 { [%eval 0.84] } 27. g3 { [%eval 0.85] } 27... Rd6 { [%eval 0.84] } 28. b4 { [%eval 0.5] } 28... Ne7 { [%eval 0.65] } 29. Ne3 { [%eval 0.62] } 29... Rc6 { [%eval 0.67] } 30. Ra3 { [%eval 0.7] } 30... Nc8 { [%eval 0.5] } 31. axb5 { [%eval 0.59] } 31... axb5 { [%eval 0.35] } 32. Kf2 { [%eval 0.74] } 32... Nb6 { [%eval 0.79] } 33. Nb2 { [%eval 0.71] } 33... Rxd1 { [%eval 0.87] } 34. Bxd1 { [%eval 0.75] } 34... Rd6 { [%eval 0.69] } 35. Be2 { [%eval 0.76] } 35... Be8 { [%eval 0.83] } 36. Ra5 { [%eval 0.61] } 36... Rd8 { [%eval 0.66] } 37. Ke1 { [%eval 0.64] } 37... c6 { [%eval 0.58] } 38. Ra6 { [%eval 0.68] } 38... Rb8 { [%eval 0.78] } 39. Bd1 { [%eval 0.8] } 39... Nc8 { [%eval 0.66] } 40. Nd3 { [%eval 0.63] } 40... Nc7 { [%eval 0.65] } 41. Ra5 { [%eval 0.66] } 41... Ra8 { [%eval 0.76] } 42. f4 { [%eval 0.93] } 42... exf4 { [%eval 0.78] } 43. gxf4 { [%eval 0.76] } 43... Nb6 { [%eval 0.79] } 44. Bf3 { [%eval 0.55] } 44... Rd8 { [%eval 0.48] } 45. Be2 { [%eval 0.59] } 45... Na4 { [%eval 0.55] } 46. Ra7 { [%eval 0.43] } 46... Rd7 { [%eval 0.49] } 47. Kd2 { [%eval 0.45] } 47... Ne6 { [%eval 0.48] } 48. Rxd7 { [%eval 0.59] } 48... Bxd7 { [%eval 0.37] } 49. Bg4 { [%eval 0.43] } 49... g6?! { [%eval 1.12] } { Inaccuracy. Ke7 was best. } (49... Ke7 50. Bd1 Nb6 51. Nf5+ Kd8 52. Ng3 Nc4+ 53. Ke1 g6 54. Bb3 Ke7 55. Ke2 Nd6 56. Ke3) 50. f5?! { [%eval 0.53] } { Inaccuracy. c4 was best. } (50. c4 Nb6 51. cxb5 cxb5 52. Nc5 Kf7 53. Nxe6 Bxe6 54. Be2 Bd7 55. Kc3 Ke7 56. Kd3 Kd6) 50... gxf5 { [%eval 0.7] } 51. Bxf5 { [%eval 0.75] } 51... Kg7 { [%eval 1.0] } 52. e5 { [%eval 0.58] } 52... Nf8 { [%eval 0.74] } 53. Bxd7 { [%eval 0.68] } 53... Nxd7 { [%eval 0.78] } 54. e6 { [%eval 0.68] } 54... Ndb6 { [%eval 0.65] } 55. Nf4 { [%eval 0.71] } 55... Kf8 { [%eval 1.09] } 56. Kd3 { [%eval 0.75] } 56... Nc8 { [%eval 0.87] } 57. Ng4 { [%eval 0.78] } 57... Ke7 { [%eval 0.7] } 58. Nh6 { [%eval 1.38] } 58... Kd6 { [%eval 0.78] } 59. Kd4?! { [%eval 0.19] } { Inaccuracy. Nf7+ was best. } (59. Nf7+ Ke7) 59... Ne7 { [%eval 0.35] } 60. Nf7+ { [%eval 0.05] } 60... Kc7 { [%eval 0.26] } 61. Nh5 { [%eval 0.0] } 61... c5+ { [%eval 0.27] } 62. bxc5 { [%eval 0.24] } 62... Nc6+ { [%eval 0.27] } 63. Ke3 { [%eval 0.16] } 63... Nxc5 { [%eval 0.21] } 64. Nxf6 { [%eval 0.24] } 64... Nxe6 { [%eval 0.26] } 65. h5 { [%eval 0.03] } 65... Nf8 { [%eval 0.45] } 66. Ke4 { [%eval 0.45] } 66... Kb6 { [%eval 0.72] } 67. Ng5 { [%eval 0.27] } 67... h6 { [%eval 0.29] } 68. Nf7 { [%eval 0.29] } 68... Ne6 { [%eval 0.17] } 69. Ne8 { [%eval 0.27] } 69... Nc5+ { [%eval 0.23] } 70. Ke3 { [%eval 0.07] } 70... Na4 { [%eval 0.13] } 71. Kd2 { [%eval 0.17] } 71... b4 { [%eval 0.34] } 72. cxb4 { [%eval 0.59] } 72... Nxb4 { [%eval 0.37] } 73. Nxh6 { [%eval 0.67] } 73... Nc5 { [%eval 0.25] } 74. Nf5 { [%eval 0.14] } 74... Nd5 { [%eval 0.15] } 75. h6 { [%eval 0.15] } 75... Ne4+ { [%eval 0.15] } 76. Kd3 { [%eval 0.12] } 76... Ng5 { [%eval 0.11] } 77. Kd4 { [%eval 0.13] } 77... Kc6 { [%eval 0.15] } 78. Nfg7 { [%eval 0.09] } 78... Ne7 { [%eval 0.1] } 79. Nf6 { [%eval 0.11] } 79... Ng6 { [%eval 0.09] } 80. Nf5 { [%eval 0.02] } 80... Nf7 { [%eval 0.0] } 81. h7 { [%eval 0.0] } 81... Ng5 { [%eval 0.0] } 82. Ne7+ { [%eval 0.08] } 82... Kb7 { [%eval 0.0] } 83. Nxg6 { [%eval 0.0] } 83... Nxh7 { [%eval 0.06] } 84. Nxh7 { [%eval 0.08] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "9"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Uhlmann Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. Rc1 { [%eval -0.07] } 7... dxc4 { [%eval 0.36] } 8. e3 { [%eval 0.07] } 8... c5 { [%eval 0.04] } 9. Bxc4 { [%eval 0.0] } 9... cxd4 { [%eval 0.17] } 10. exd4 { [%eval -0.06] } 10... Nc6 { [%eval 0.0] } 11. O-O { [%eval -0.21] } 11... Nh5 { [%eval 0.0] } 12. Bxe7 { [%eval -0.12] } 12... Nxe7 { [%eval 0.02] } 13. Bb3 { [%eval -0.12] } 13... Nf6 { [%eval -0.2] } 14. Ne5 { [%eval -0.04] } 14... Bd7 { [%eval -0.06] } 15. Qe2 { [%eval -0.31] } 15... Rc8 { [%eval -0.26] } 16. Ne4 { [%eval -0.39] } 16... Nxe4 { [%eval -0.3] } 17. Qxe4 { [%eval -0.24] } 17... Bc6 { [%eval -0.32] } 18. Nxc6 { [%eval -0.32] } 18... Rxc6 { [%eval -0.13] } 19. Rc3 { [%eval -0.57] } 19... Qd6 { [%eval -0.36] } 20. g3 { [%eval -0.41] } 20... Rd8 { [%eval -0.51] } 21. Rd1 { [%eval -0.33] } 21... Rb6 { [%eval -0.4] } 22. Qe1 { [%eval -0.55] } 22... Qd7 { [%eval -0.54] } 23. Rcd3 { [%eval -0.65] } 23... Rd6 { [%eval -0.58] } 24. Qe4 { [%eval -0.8] } 24... Qc6 { [%eval -0.75] } 25. Qf4 { [%eval -0.79] } 25... Nd5 { [%eval -0.95] } 26. Qd2 { [%eval -0.87] } 26... Qb6 { [%eval -0.63] } 27. Bxd5 { [%eval -0.92] } 27... Rxd5 { [%eval -0.83] } 28. Rb3 { [%eval -0.91] } 28... Qc6 { [%eval -0.91] } 29. Qc3?! { [%eval -1.77] } { Inaccuracy. Rc3 was best. } (29. Rc3) 29... Qd7 { [%eval -1.66] } 30. f4 { [%eval -1.77] } 30... b6 { [%eval -1.8] } 31. Rb4 { [%eval -1.87] } 31... b5 { [%eval -1.91] } 32. a4 { [%eval -1.92] } 32... bxa4 { [%eval -1.89] } 33. Qa3?! { [%eval -2.64] } { Inaccuracy. Qc2 was best. } (33. Qc2 a5 34. Rxa4 Rb5 35. Rc4 Rdb8 36. Rd2 g6 37. h4 Rb3 38. Kh2 R8b5 39. Rc7 Qd5) 33... a5 { [%eval -3.05] } 34. Rxa4 { [%eval -3.37] } 34... Qb5?! { [%eval -2.18] } { Inaccuracy. Rc8 was best. } (34... Rc8) 35. Rd2 { [%eval -1.93] } 35... e5 { [%eval -3.34] } 36. fxe5 { [%eval -2.51] } 36... Rxe5 { [%eval -3.37] } 37. Qa1 { [%eval -4.09] } 37... Qe8 { [%eval -4.84] } 38. dxe5 { [%eval -4.17] } 38... Rxd2 { [%eval -4.09] } 39. Rxa5 { [%eval -4.08] } 39... Qc6 { [%eval -4.16] } 40. Ra8+ { [%eval -4.2] } 40... Kh7 { [%eval -4.21] } 41. Qb1+ { [%eval -4.04] } 41... g6 { [%eval -4.21] } 42. Qf1 { [%eval -4.24] } 42... Qc5+ { [%eval -4.17] } 43. Kh1 { [%eval -4.21] } 43... Qd5+ { [%eval -4.21] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bc4 { [%eval 0.18] } 3... Bc5 { [%eval 0.2] } 4. c3 { [%eval 0.03] } 4... Nf6 { [%eval 0.23] } 5. d3 { [%eval 0.1] } 5... a6 { [%eval 0.36] } 6. O-O { [%eval 0.13] } 6... d6 { [%eval 0.23] } 7. Re1 { [%eval 0.24] } 7... Ba7 { [%eval 0.26] } 8. Bb3 { [%eval 0.23] } 8... O-O { [%eval 0.32] } 9. Nbd2 { [%eval 0.0] } 9... Be6 { [%eval 0.23] } 10. Nf1 { [%eval 0.24] } 10... Bxb3 { [%eval 0.5] } 11. Qxb3 { [%eval 0.46] } 11... Qc8 { [%eval 0.66] } 12. Ng3 { [%eval 0.54] } 12... Re8 { [%eval 0.6] } 13. h3 { [%eval 0.51] } 13... Rb8 { [%eval 0.66] } 14. Be3 { [%eval 0.57] } 14... Qe6 { [%eval 0.73] } 15. Qxe6?! { [%eval 0.2] } { Inaccuracy. Qc2 was best. } (15. Qc2) 15... fxe6 { [%eval 0.4] } 16. Rac1 { [%eval 0.1] } 16... Bxe3 { [%eval 0.0] } 17. Rxe3 { [%eval 0.14] } 17... Rbd8 { [%eval 0.14] } 18. d4 { [%eval 0.28] } 18... Rd7 { [%eval 0.33] } 19. Kf1 { [%eval 0.32] } 19... Kf8 { [%eval 0.33] } 20. Rd1 { [%eval 0.36] } 20... h6 { [%eval 0.23] } 21. dxe5 { [%eval 0.26] } 21... Nxe5 { [%eval 0.38] } 22. Nxe5 { [%eval 0.4] } 22... dxe5 { [%eval 0.39] } 23. Rxd7 { [%eval 0.37] } 23... Nxd7 { [%eval 0.36] } 24. Ke2 { [%eval 0.37] } 24... Ke7 { [%eval 0.37] } 25. Nf1 { [%eval 0.44] } 25... b5 { [%eval 0.61] } 26. Nd2 { [%eval 0.46] } 26... c5 { [%eval 0.63] } 27. Rg3 { [%eval 0.48] } 27... Rg8 { [%eval 0.65] } 28. b3 { [%eval 0.22] } 28... Nb8 { [%eval 0.63] } 29. a4 { [%eval 0.38] } 29... Nc6 { [%eval 0.85] } 30. axb5?! { [%eval 0.0] } { Inaccuracy. h4 was best. } (30. h4) 30... axb5 { [%eval 0.0] } 31. h4 { [%eval 0.0] } 31... Kf7 { [%eval 0.0] } 32. Rf3+ { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "11"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. Nf3 { [%eval 0.2] } 4... Nf6 { [%eval 0.0] } 5. Bf4 { [%eval 0.0] } 5... O-O { [%eval 0.27] } 6. e3 { [%eval 0.27] } 6... c5 { [%eval 0.32] } 7. dxc5 { [%eval 0.58] } 7... Bxc5 { [%eval 0.32] } 8. Qc2 { [%eval 0.34] } 8... Nc6 { [%eval 0.41] } 9. Rd1 { [%eval 0.45] } 9... Qa5 { [%eval 0.35] } 10. a3 { [%eval 0.33] } 10... Be7 { [%eval 0.44] } 11. Nd2 { [%eval 0.3] } 11... e5 { [%eval 0.18] } 12. Bg5 { [%eval 0.16] } 12... d4 { [%eval 0.07] } 13. Nb3 { [%eval 0.08] } 13... Qd8 { [%eval 0.13] } 14. Be2 { [%eval 0.2] } 14... a5 { [%eval -0.06] } 15. exd4 { [%eval -0.12] } 15... a4 { [%eval 0.02] } 16. Nxa4 { [%eval 0.0] } 16... Nxd4 { [%eval 0.04] } 17. Nxd4 { [%eval 0.0] } 17... exd4 { [%eval 0.06] } 18. b3 { [%eval 0.05] } 18... Qa5+ { [%eval 0.0] } 19. Qd2 { [%eval 0.08] } 19... Bxa3 { [%eval 0.43] } 20. Qxa5 { [%eval 0.25] } 20... Rxa5 { [%eval 0.37] } 21. Bxf6 { [%eval 0.46] } 21... Bb4+ { [%eval 0.38] } 22. Kf1 { [%eval 0.44] } 22... gxf6 { [%eval 0.36] } 23. Rxd4 { [%eval 0.33] } 23... Re5 { [%eval 0.57] } 24. g4 { [%eval 0.38] } 24... b5 { [%eval 0.27] } 25. cxb5 { [%eval 0.12] } 25... Bb7 { [%eval 0.13] } 26. f3 { [%eval -0.02] } 26... Rfe8 { [%eval -0.03] } 27. Bd1 { [%eval 0.02] } 27... Rxb5 { [%eval 0.0] } 28. Kg2 { [%eval -0.35] } 28... Kg7 { [%eval -0.08] } 29. Kf2 { [%eval -0.05] } 29... Ba5 { [%eval -0.08] } 30. Rf1 { [%eval -0.34] } 30... Re7 { [%eval -0.08] } 31. h3 { [%eval -0.07] } 31... h6 { [%eval 0.0] } 32. Bc2 { [%eval 0.0] } 32... Rc7 { [%eval 0.05] } 33. Rc4 { [%eval 0.05] } 33... Rxc4 { [%eval 0.03] } 34. bxc4 { [%eval 0.05] } 34... Rb4 { [%eval 0.02] } 35. c5 { [%eval -0.27] } 35... Bc6 { [%eval -0.17] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "12"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... Nf6 { [%eval 0.29] } 2. Nc3 { [%eval 0.08] } 2... d5 { [%eval 0.21] } 3. cxd5 { [%eval 0.5] } 3... Nxd5 { [%eval 0.29] } 4. Nf3 { [%eval 0.28] } 4... Nxc3 { [%eval 0.27] } 5. bxc3 { [%eval 0.29] } 5... g6 { [%eval 0.44] } 6. d4 { [%eval 0.38] } 6... Bg7 { [%eval 0.59] } 7. e3 { [%eval 0.36] } 7... c5 { [%eval 0.2] } 8. Bb5+ { [%eval 0.39] } 8... Nd7 { [%eval 0.5] } 9. O-O { [%eval 0.46] } 9... O-O { [%eval 0.59] } 10. a4 { [%eval 0.4] } 10... a6 { [%eval 0.53] } 11. Bd3 { [%eval 0.42] } 11... b6 { [%eval 0.5] } 12. Rb1 { [%eval 0.47] } 12... Bb7?! { [%eval 1.42] } { Inaccuracy. e5 was best. } (12... e5 13. Bc4 exd4 14. exd4 Bb7 15. Be3 Be4 16. Rc1 b5 17. axb5 Nb6 18. Be2 axb5 19. dxc5) 13. e4 { [%eval 1.27] } 13... Qc7 { [%eval 1.4] } 14. Re1 { [%eval 1.18] } 14... e6 { [%eval 1.16] } 15. e5 { [%eval 0.8] } 15... h6?! { [%eval 1.81] } { Inaccuracy. b5 was best. } (15... b5) 16. h4 { [%eval 1.35] } 16... Rfd8 { [%eval 1.42] } 17. Bf4?! { [%eval 0.61] } { Inaccuracy. h5 was best. } (17. h5 Nf8) 17... Nf8?! { [%eval 1.36] } { Inaccuracy. cxd4 was best. } (17... cxd4) 18. Be3 { [%eval 1.17] } 18... Rab8 { [%eval 1.55] } 19. Qe2 { [%eval 1.45] } 19... Bc6 { [%eval 1.72] } 20. Bxa6 { [%eval 1.29] } 20... cxd4?! { [%eval 1.91] } { Inaccuracy. Bxa4 was best. } (20... Bxa4 21. Bd3 cxd4 22. cxd4 Bc6 23. Nd2 Qb7 24. Qg4 h5 25. Qg5 Nh7 26. Qg3 Bd5 27. Kh2) 21. cxd4 { [%eval 1.78] } 21... Bxa4 { [%eval 1.94] } 22. Nd2 { [%eval 1.54] } 22... Qc6?! { [%eval 2.15] } { Inaccuracy. b5 was best. } (22... b5 23. Bxb5) 23. Rec1 { [%eval 2.01] } 23... Qa8 { [%eval 2.28] } 24. Bd3 { [%eval 2.73] } 24... Bc6 { [%eval 2.55] } 25. f3?! { [%eval 1.56] } { Inaccuracy. h5 was best. } (25. h5) 25... b5 { [%eval 1.73] } 26. Nb3 { [%eval 1.82] } 26... Rbc8 { [%eval 1.9] } 27. Nc5 { [%eval 1.38] } 27... Nd7 { [%eval 1.26] } 28. Ne4 { [%eval 1.4] } 28... Bxe4 { [%eval 1.26] } 29. Rxc8 { [%eval 1.34] } 29... Qxc8 { [%eval 1.29] } 30. Bxe4 { [%eval 1.43] } 30... Qc4 { [%eval 1.62] } 31. Bd3? { [%eval 0.47] } { Mistake. Qxc4 was best. } (31. Qxc4 bxc4 32. Rb7 c3 33. Kf1 Nb8 34. Rc7 Na6 35. Rxc3 Bf8 36. Ke2 Nb4 37. Rc7 Nd5) 31... Qc3 { [%eval 0.59] } 32. Bxb5 { [%eval 0.38] } 32... Nb6 { [%eval 0.24] } 33. Qd3 { [%eval 0.4] } 33... Nd5 { [%eval 0.24] } 34. Bf2 { [%eval 0.27] } 34... h5 { [%eval 0.48] } 35. Qxc3 { [%eval 0.14] } 35... Nxc3 { [%eval 0.15] } 36. Rb3 { [%eval 0.14] } 36... Nd1 { [%eval 0.09] } 37. Rd3 { [%eval 0.17] } 37... Nxf2 { [%eval 0.15] } 38. Kxf2 { [%eval 0.16] } 38... Rb8 { [%eval 0.1] } 39. Bc4 { [%eval 0.16] } 39... Rb2+ { [%eval 0.13] } 40. Kg3 { [%eval 0.12] } 40... Rb4 { [%eval 0.09] } 41. Rc3 { [%eval 0.12] } 41... Rb8 { [%eval 0.1] } 42. f4 { [%eval 0.05] } 42... Rc8 { [%eval 0.07] } 43. Kf2 { [%eval 0.06] } 43... Bf8 { [%eval 0.0] } 44. Ke3 { [%eval 0.0] } 44... Bb4 { [%eval 0.04] } 45. Rc1 { [%eval 0.11] } 45... Ba3 { [%eval 0.08] } 46. Rc2 { [%eval 0.07] } 46... Bb4 { [%eval 0.0] } 47. Rc1 { [%eval 0.11] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "13"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Charousek Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nc3 { [%eval 0.05] } 2... d5 { [%eval 0.12] } 3. d4 { [%eval 0.16] } 3... Be7 { [%eval 0.27] } 4. cxd5 { [%eval 0.35] } 4... exd5 { [%eval 0.21] } 5. Bf4 { [%eval 0.34] } 5... c6 { [%eval 0.16] } 6. e3 { [%eval 0.0] } 6... Bf5 { [%eval 0.24] } 7. g4 { [%eval 0.3] } 7... Be6 { [%eval 0.4] } 8. h3 { [%eval 0.56] } 8... Nf6 { [%eval 0.77] } 9. Nf3 { [%eval 0.64] } 9... O-O { [%eval 0.77] } 10. Bd3 { [%eval 0.68] } 10... c5 { [%eval 0.81] } 11. Kf1?! { [%eval 0.0] } { Inaccuracy. Rc1 was best. } (11. Rc1) 11... Nc6 { [%eval 0.16] } 12. Kg2 { [%eval 0.12] } 12... Rc8 { [%eval 0.19] } 13. Rc1 { [%eval 0.09] } 13... Re8?! { [%eval 0.76] } { Inaccuracy. c4 was best. } (13... c4 14. Bb1 a6 15. a3 b5 16. Ng5 Bd6 17. Nxe6 fxe6 18. Bxd6 Qxd6 19. g5 Nd7 20. f4) 14. dxc5 { [%eval 0.62] } 14... Bxc5 { [%eval 0.56] } 15. Nb5 { [%eval 0.75] } 15... Bf8 { [%eval 0.65] } 16. Nfd4 { [%eval 0.45] } 16... Nxd4 { [%eval 0.76] } 17. Rxc8 { [%eval 0.46] } 17... Qxc8?! { [%eval 0.98] } { Inaccuracy. Bxc8 was best. } (17... Bxc8) 18. exd4 { [%eval 0.88] } 18... Qd7?! { [%eval 1.68] } { Inaccuracy. a6 was best. } (18... a6) 19. Nc7 { [%eval 1.72] } 19... Rc8 { [%eval 1.78] } 20. Nxe6 { [%eval 1.99] } 20... fxe6 { [%eval 1.61] } 21. Re1 { [%eval 1.86] } 21... a6?! { [%eval 2.63] } { Inaccuracy. Bd6 was best. } (21... Bd6 22. Qf3 Ne8 23. h4 Bxf4 24. Qxf4 Nf6 25. Kg3 Rd8 26. Qe5 Qd6 27. f4 Qxe5) 22. g5 { [%eval 2.44] } 22... Ne4 { [%eval 2.63] } 23. Qg4 { [%eval 2.25] } 23... Bb4 { [%eval 2.41] } 24. Re2 { [%eval 2.59] } 24... Rf8 { [%eval 2.57] } 25. f3 { [%eval 2.52] } 25... Qf7 { [%eval 2.53] } 26. Be5 { [%eval 2.27] } 26... Nd2 { [%eval 2.33] } 27. a3 { [%eval 3.2] } 27... Nxf3 { [%eval 3.49] } 28. g6?? { [%eval 0.0] } { Blunder. Bg3 was best. } (28. Bg3 Ba5 29. Rf2 Ne1+ 30. Kh1 Qe8 31. Bxh7+ Kxh7 32. g6+ Qxg6 33. Rxf8 Qxg4 34. hxg4 Nd3) 28... hxg6 { [%eval 0.0] } 29. Bg3 { [%eval 0.0] } 29... Be7?? { [%eval 3.59] } { Blunder. Nh4+ was best. } (29... Nh4+ 30. Kh2 Nf3+ 31. Kg2) 30. Rf2 { [%eval 3.55] } 30... Ne1+ { [%eval 3.71] } 31. Kh2?? { [%eval -3.79] } { Blunder. Kh1 was best. } (31. Kh1 Qxf2 32. Bxf2 Nxd3 33. Qxe6+ Kh7 34. Bg3 Bg5 35. Qxd5 Rf5 36. Qxb7 a5 37. Kg2 Nf4+) 31... Qxf2+ { [%eval -4.02] } 32. Bxf2 { [%eval -3.97] } 32... Nxd3?? { [%eval 3.55] } { Blunder. Rxf2+ was best. } (32... Rxf2+ 33. Kh1) 33. Qxe6+ { [%eval 3.23] } 33... Rf7 { [%eval 4.03] } 34. Bg3 { [%eval 4.08] } 34... Nxb2 { [%eval 5.03] } 35. Qxd5 { [%eval 4.76] } 35... Bf6 { [%eval 5.77] } 36. Bd6 { [%eval 5.65] } 36... g5 { [%eval 5.76] } 37. Qb3 { [%eval 4.54] } 37... Bxd4 { [%eval 5.09] } 38. Qe6 { [%eval 4.77] } 38... g6 { [%eval 5.23] } 39. Qe8+ { [%eval 4.68] } 39... Kg7 { [%eval 4.71] } 40. Be5+ { [%eval 4.75] } 40... Bxe5+ { [%eval 5.02] } 41. Qxe5+ { [%eval 4.93] } 41... Kh7 { [%eval 4.84] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "14"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open, Bernstein Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Nxe4 { [%eval 0.41] } 6. d4 { [%eval 0.21] } 6... b5 { [%eval 0.2] } 7. Bb3 { [%eval 0.21] } 7... d5 { [%eval 0.43] } 8. dxe5 { [%eval 0.47] } 8... Be6 { [%eval 0.57] } 9. Nbd2 { [%eval 0.69] } 9... Nc5 { [%eval 0.5] } 10. c3 { [%eval 0.71] } 10... d4 { [%eval 0.6] } 11. Bxe6 { [%eval 0.5] } 11... Nxe6 { [%eval 0.53] } 12. cxd4 { [%eval 0.36] } 12... Ncxd4 { [%eval 0.45] } 13. Ne4 { [%eval 0.28] } 13... Be7 { [%eval 0.51] } 14. Be3 { [%eval 0.83] } 14... Nxf3+ { [%eval 1.25] } 15. Qxf3 { [%eval 1.18] } 15... O-O { [%eval 1.35] } 16. Rfd1 { [%eval 1.3] } 16... Qe8 { [%eval 1.06] } 17. Nf6+ { [%eval 2.07] } 17... Bxf6?! { [%eval 2.87] } { Inaccuracy. gxf6 was best. } (17... gxf6 18. exf6 Rd8 19. fxe7 Qxe7 20. Qg4+ Kh8 21. Bd2 Nd4 22. Bc3 c5 23. b4 f6 24. Bxd4) 18. exf6 { [%eval 2.95] } 18... Qc8 { [%eval 3.63] } 19. fxg7 { [%eval 3.03] } 19... Rd8 { [%eval 3.1] } 20. h4 { [%eval 3.01] } 20... c5 { [%eval 2.92] } 21. Rac1 { [%eval 2.49] } 21... Qc7 { [%eval 2.36] } 22. h5 { [%eval 2.63] } 22... Qe5 { [%eval 2.8] } 23. h6 { [%eval 2.51] } 23... Qxb2 { [%eval 2.09] } 24. Rd7 { [%eval 2.68] } 24... Rxd7 { [%eval 2.81] } 25. Qxa8+ { [%eval 2.63] } 25... Rd8 { [%eval 2.5] } 26. Qxa6 { [%eval 2.37] } 26... Qe2?! { [%eval 3.35] } { Inaccuracy. b4 was best. } (26... b4 27. g3) 27. Rf1?! { [%eval 2.4] } { Inaccuracy. g3 was best. } (27. g3 Qb2) 27... Rd1 { [%eval 1.64] } 28. Qa8+ { [%eval 1.89] } 28... Rd8 { [%eval 2.0] } 29. Qc6 { [%eval 1.72] } 29... b4 { [%eval 1.74] } 30. Qa4 { [%eval 1.63] } 30... Qd3 { [%eval 1.98] } 31. Rc1 { [%eval 1.84] } 31... Qd5 { [%eval 1.91] } 32. Qb3 { [%eval 2.14] } 32... Qe4 { [%eval 2.22] } 33. Qc2 { [%eval 2.05] } 33... Qxc2?! { [%eval 3.2] } { Inaccuracy. Qd5 was best. } (33... Qd5 34. Qc4 Qf5 35. f3 Ra8 36. Rc2 Rd8 37. Qe4 Qf6 38. Rc1 Rc8 39. Rd1 Qe7 40. Rd5) 34. Rxc2 { [%eval 3.25] } 34... f5 { [%eval 3.38] } 35. f4 { [%eval 3.19] } 35... Kf7 { [%eval 3.52] } 36. g4 { [%eval 3.38] } 36... Rd5? { [%eval 5.7] } { Mistake. Rd1+ was best. } (36... Rd1+ 37. Kg2 fxg4 38. f5 Nxg7 39. hxg7 Kxg7 40. Rxc5 Kf6 41. Kg3 h5 42. Rb5 Rf1 43. Bd4+) 37. gxf5 { [%eval 5.53] } 37... Rxf5 { [%eval 5.53] } 38. Rd2 { [%eval 5.74] } 38... Rf6 { [%eval 6.24] } 39. Rd7+ { [%eval 6.15] } 39... Kg8 { [%eval 6.62] } 40. f5 { [%eval 6.28] } 40... Rxf5 { [%eval 6.21] } 41. Re7 { [%eval 6.31] } 41... Nxg7 { [%eval 6.08] } 42. Rxg7+ { [%eval 5.99] } 42... Kh8 { [%eval 6.5] } 43. Rc7 { [%eval 6.54] } 43... Kg8 { [%eval 6.18] } 44. Bxc5 { [%eval 6.67] } 44... Rg5+ { [%eval 6.85] } 45. Kf2 { [%eval 6.97] } 45... Rg6 { [%eval 7.29] } 46. Be3 { [%eval 6.56] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "15"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "A29"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... Nf6 { [%eval 0.29] } 2. Nc3 { [%eval 0.08] } 2... e5 { [%eval 0.32] } 3. Nf3 { [%eval 0.0] } 3... Nc6 { [%eval 0.11] } 4. g3 { [%eval 0.0] } 4... Bb4 { [%eval 0.2] } 5. Nd5 { [%eval 0.12] } 5... Bc5 { [%eval 0.33] } 6. Bg2 { [%eval 0.0] } 6... d6 { [%eval 0.01] } 7. O-O { [%eval -0.01] } 7... O-O { [%eval 0.15] } 8. e3 { [%eval 0.2] } 8... Bg4 { [%eval 0.25] } 9. h3 { [%eval 0.2] } 9... Bxf3?! { [%eval 0.94] } { Inaccuracy. Bh5 was best. } (9... Bh5) 10. Bxf3 { [%eval 0.87] } 10... Nxd5 { [%eval 0.97] } 11. cxd5?! { [%eval 0.44] } { Inaccuracy. Bxd5 was best. } (11. Bxd5) 11... Ne7 { [%eval 0.43] } 12. b3 { [%eval 0.12] } 12... Qd7 { [%eval 0.39] } 13. Bg2 { [%eval 0.44] } 13... c6 { [%eval 0.71] } 14. dxc6 { [%eval 0.47] } 14... Nxc6 { [%eval 0.58] } 15. Bb2 { [%eval 0.87] } 15... d5 { [%eval 0.54] } 16. Bxe5 { [%eval 0.61] } 16... Nxe5 { [%eval 0.71] } 17. d4 { [%eval 0.67] } 17... Bd6 { [%eval 0.86] } 18. dxe5 { [%eval 0.69] } 18... Bxe5 { [%eval 0.88] } 19. Rc1 { [%eval 0.78] } 19... d4 { [%eval 0.87] } 20. Rc5 { [%eval 0.59] } 20... Bf6 { [%eval 0.79] } 21. Rd5 { [%eval 0.64] } 21... Qc7 { [%eval 0.6] } 22. exd4 { [%eval 0.48] } 22... Rad8 { [%eval 0.54] } 23. Qc1 { [%eval 0.39] } 23... Qb6 { [%eval 0.42] } 24. Rxd8 { [%eval 0.55] } 24... Rxd8 { [%eval 0.53] } 25. d5 { [%eval 0.47] } 25... g6 { [%eval 0.53] } 26. Bf3 { [%eval 0.45] } 26... Kg7 { [%eval 0.38] } 27. Re1 { [%eval 0.52] } 27... Rd7 { [%eval 0.37] } 28. Qf4 { [%eval 0.32] } 28... Re7 { [%eval 0.28] } 29. Rxe7 { [%eval 0.14] } 29... Bxe7 { [%eval 0.12] } 30. Kg2 { [%eval 0.11] } 30... a5 { [%eval 0.09] } 31. h4 { [%eval 0.09] } 31... h5 { [%eval 0.09] } 32. Be2 { [%eval 0.12] } 32... Bc5 { [%eval 0.11] } 33. Bc4 { [%eval 0.08] } 33... Qf6 { [%eval 0.1] } 34. Qd2 { [%eval 0.0] } 34... b6 { [%eval 0.0] } 35. a4 { [%eval 0.03] } 35... Qe5 { [%eval 0.06] } 36. Qd3 { [%eval 0.0] } 36... Qf6 { [%eval 0.0] } 37. Qd2 { [%eval 0.06] } 37... Qe5 { [%eval 0.06] } 38. Be2 { [%eval 0.0] } 38... Qe4+ { [%eval 0.08] } 39. Bf3 { [%eval 0.07] } 39... Qe5 { [%eval 0.0] } 40. Bd1 { [%eval 0.08] } 40... Qe4+ { [%eval 0.08] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "16"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open, Bernstein Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Nxe4 { [%eval 0.41] } 6. d4 { [%eval 0.21] } 6... b5 { [%eval 0.2] } 7. Bb3 { [%eval 0.21] } 7... d5 { [%eval 0.43] } 8. dxe5 { [%eval 0.55] } 8... Be6 { [%eval 0.53] } 9. Nbd2 { [%eval 0.43] } 9... Nc5 { [%eval 0.74] } 10. c3 { [%eval 0.62] } 10... d4 { [%eval 0.4] } 11. Bxe6 { [%eval 0.48] } 11... Nxe6 { [%eval 0.38] } 12. cxd4 { [%eval 0.52] } 12... Ncxd4 { [%eval 0.49] } 13. Ne4 { [%eval 0.47] } 13... Be7 { [%eval 0.61] } 14. Be3 { [%eval 0.65] } 14... Nf5 { [%eval 0.55] } 15. Qc2 { [%eval 0.44] } 15... O-O { [%eval 0.38] } 16. Neg5 { [%eval 0.26] } 16... Bxg5 { [%eval 0.31] } 17. Nxg5 { [%eval 0.19] } 17... g6?! { [%eval 0.71] } { Inaccuracy. h6 was best. } (17... h6) 18. Nxe6 { [%eval 0.88] } 18... fxe6 { [%eval 0.92] } 19. Rae1 { [%eval 0.62] } 19... Qd5 { [%eval 0.63] } 20. b3 { [%eval 0.6] } 20... Rac8 { [%eval 0.71] } 21. Bc5 { [%eval 0.58] } 21... Rfd8 { [%eval 0.55] } 22. h3 { [%eval 0.74] } 22... Qc6 { [%eval 0.97] } 23. b4?! { [%eval 0.42] } { Inaccuracy. Rc1 was best. } (23. Rc1) 23... Rd7 { [%eval 0.29] } 24. Rd1 { [%eval 0.2] } 24... Rcd8 { [%eval 0.2] } 25. Rxd7 { [%eval 0.0] } 25... Rxd7 { [%eval 0.05] } 26. Re1 { [%eval 0.0] } 26... Qd5 { [%eval 0.04] } 27. a4 { [%eval 0.0] } 27... Nh4 { [%eval 0.0] } 28. f3 { [%eval -0.08] } 28... Nf5 { [%eval 0.0] } 29. axb5 { [%eval 0.0] } 29... axb5 { [%eval 0.0] } 30. Qe2 { [%eval 0.0] } 30... Qc6 { [%eval 0.2] } 31. Rc1 { [%eval 0.02] } 31... Rd8 { [%eval 0.39] } 32. Be3 { [%eval 0.09] } 32... Qd5 { [%eval 0.21] } 33. Bf2 { [%eval 0.14] } 33... c6 { [%eval 0.33] } 34. Qe1 { [%eval 0.01] } 34... Qb3 { [%eval 0.16] } 35. Ra1 { [%eval 0.0] } 35... Qb2 { [%eval 0.09] } 36. Rb1 { [%eval 0.0] } 36... Qa2 { [%eval 0.4] } 37. Rd1 { [%eval 0.0] } 37... Rd5 { [%eval 0.43] } 38. Rxd5 { [%eval 0.0] } 38... cxd5 { [%eval 0.0] } 39. g4 { [%eval 0.0] } 39... Ng7 { [%eval 0.26] } 40. Bc5 { [%eval 0.0] } 40... h6 { [%eval 0.0] } 41. Qe3 { [%eval 0.15] } 41... Qc2 { [%eval 0.0] } 42. Kf1 { [%eval 0.0] } 42... g5 { [%eval 0.05] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "17"]
+[White "Kortschnoj, Viktor"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Uhlmann Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. Nf3 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.27] } 2... e6 { [%eval 0.36] } 3. Nc3 { [%eval 0.18] } 3... d5 { [%eval 0.16] } 4. d4 { [%eval 0.0] } 4... Be7 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. Rc1 { [%eval -0.07] } 7... dxc4 { [%eval 0.36] } 8. e3 { [%eval 0.11] } 8... c5 { [%eval 0.0] } 9. Bxc4 { [%eval 0.23] } 9... cxd4 { [%eval 0.07] } 10. Nxd4 { [%eval 0.16] } 10... Bd7 { [%eval 0.15] } 11. Be2 { [%eval 0.05] } 11... Nc6 { [%eval 0.09] } 12. Nb3 { [%eval 0.01] } 12... Nd5 { [%eval 0.09] } 13. Bxe7 { [%eval 0.11] } 13... Ncxe7 { [%eval 0.07] } 14. Nxd5 { [%eval 0.13] } 14... Nxd5 { [%eval 0.26] } 15. Qd4 { [%eval 0.04] } 15... Bc6 { [%eval 0.12] } 16. Bf3 { [%eval -0.13] } 16... Ne7 { [%eval 0.34] } 17. Bxc6 { [%eval 0.32] } 17... Nxc6 { [%eval 0.44] } 18. Qxd8 { [%eval 0.37] } 18... Rfxd8 { [%eval 0.45] } 19. Ke2 { [%eval 0.31] } 19... Rac8 { [%eval 0.46] } 20. a3 { [%eval 0.3] } 20... Kf8 { [%eval 0.21] } 21. Rc2 { [%eval 0.25] } 21... Ne7 { [%eval 0.25] } 22. Rhc1 { [%eval 0.27] } 22... Rxc2+ { [%eval 0.34] } 23. Rxc2 { [%eval 0.26] } 23... Ke8 { [%eval 0.2] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 30th"]
+[Site "Merano"]
+[Date "1981.??.??"]
+[Round "18"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:51:18"]
+[Variant "Standard"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open, Bernstein Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Nxe4 { [%eval 0.41] } 6. d4 { [%eval 0.21] } 6... b5 { [%eval 0.2] } 7. Bb3 { [%eval 0.21] } 7... d5 { [%eval 0.43] } 8. dxe5 { [%eval 0.47] } 8... Be6 { [%eval 0.57] } 9. Nbd2 { [%eval 0.69] } 9... Nc5 { [%eval 0.5] } 10. c3 { [%eval 0.71] } 10... d4 { [%eval 0.6] } 11. Bxe6 { [%eval 0.5] } 11... Nxe6 { [%eval 0.53] } 12. cxd4 { [%eval 0.36] } 12... Ncxd4 { [%eval 0.45] } 13. a4 { [%eval 0.3] } 13... Be7 { [%eval 0.65] } 14. Nxd4 { [%eval 0.77] } 14... Nxd4 { [%eval 0.83] } 15. Ne4 { [%eval 0.62] } 15... Ne6 { [%eval 0.92] } 16. Be3 { [%eval 0.87] } 16... O-O { [%eval 1.32] } 17. f4 { [%eval 1.4] } 17... Qxd1 { [%eval 1.69] } 18. Rfxd1 { [%eval 1.25] } 18... Rfb8?! { [%eval 2.17] } { Inaccuracy. Rad8 was best. } (18... Rad8 19. axb5) 19. Rd7 { [%eval 2.05] } 19... Bf8 { [%eval 2.6] } 20. f5 { [%eval 2.37] } 20... Nd8 { [%eval 2.54] } 21. a5 { [%eval 2.06] } 21... Nc6 { [%eval 1.9] } 22. e6 { [%eval 2.14] } 22... fxe6 { [%eval 1.81] } 23. f6 { [%eval 2.14] } 23... Ne5 { [%eval 2.63] } 24. Rxc7 { [%eval 2.88] } 24... Rc8 { [%eval 2.83] } 25. Rac1 { [%eval 2.76] } 25... Rxc7 { [%eval 3.27] } 26. Rxc7 { [%eval 3.03] } 26... Rd8 { [%eval 3.22] } 27. h3 { [%eval 3.07] } 27... h6 { [%eval 2.81] } 28. Ra7 { [%eval 3.04] } 28... Nc4?! { [%eval 4.71] } { Inaccuracy. Rd1+ was best. } (28... Rd1+ 29. Kf2) 29. Bb6 { [%eval 3.91] } 29... Rb8? { [%eval 6.54] } { Mistake. Rd1+ was best. } (29... Rd1+ 30. Kf2 Ne5 31. Rxa6 gxf6 32. Ra7 Bg7 33. Nc5 Bf8 34. Nxe6 Rd2+ 35. Kf1 Rxb2 36. a6) 30. Bc5?! { [%eval 4.37] } { Inaccuracy. f7+ was best. } (30. f7+ Kh7 31. Bc7 Rc8 32. b3 Ne3 33. Nd6 Rxc7 34. Rxc7 Bxd6 35. Rc6 Bf8 36. Rc8 Bd6) 30... Bxc5+ { [%eval 4.14] } 31. Nxc5 { [%eval 4.28] } 31... gxf6 { [%eval 4.15] } 32. b4 { [%eval 4.32] } 32... Rd8 { [%eval 4.52] } 33. Rxa6 { [%eval 4.56] } 33... Kf7 { [%eval 4.33] } 34. Ra7+ { [%eval 4.12] } 34... Kg6 { [%eval 4.1] } 35. Rd7 { [%eval 4.5] } 35... Re8 { [%eval 4.36] } 36. a6 { [%eval 4.22] } 36... Ra8 { [%eval 5.0] } 37. Rb7 { [%eval 4.89] } 37... Kf5 { [%eval 5.07] } 38. Rxb5 { [%eval 4.95] } 38... Ke5 { [%eval 5.21] } 39. Rb7 { [%eval 4.92] } 39... Kd5 { [%eval 4.97] } 40. Rf7 { [%eval 5.23] } 40... f5 { [%eval 5.3] } 41. Rf6 { [%eval 5.35] } { 1-0 Black resigns. } 1-0
+
+

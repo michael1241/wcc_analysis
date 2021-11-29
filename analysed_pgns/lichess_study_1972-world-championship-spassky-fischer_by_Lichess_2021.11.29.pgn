@@ -1,0 +1,399 @@
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "1"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "E56"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Gligoric System, Bernstein Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nf3 { [%eval 0.0] } 3... d5 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Bb4 { [%eval 0.18] } 5. e3 { [%eval 0.13] } 5... O-O { [%eval 0.13] } 6. Bd3 { [%eval 0.04] } 6... c5 { [%eval 0.0] } 7. O-O { [%eval 0.0] } 7... Nc6?! { [%eval 0.53] } { Inaccuracy. dxc4 was best. } (7... dxc4 8. Bxc4 cxd4 9. exd4 b6 10. Qe2 h6 11. a3 Bxc3 12. bxc3) 8. a3 { [%eval 0.03] } 8... Ba5 { [%eval 0.5] } 9. Ne2 { [%eval 0.0] } 9... dxc4 { [%eval -0.11] } 10. Bxc4 { [%eval -0.01] } 10... Bb6 { [%eval 0.34] } 11. dxc5 { [%eval 0.37] } 11... Qxd1 { [%eval 0.34] } 12. Rxd1 { [%eval 0.27] } 12... Bxc5 { [%eval 0.4] } 13. b4 { [%eval 0.37] } 13... Be7 { [%eval 0.41] } 14. Bb2 { [%eval 0.27] } 14... Bd7 { [%eval 0.42] } 15. Rac1 { [%eval 0.24] } 15... Rfd8 { [%eval 0.25] } 16. Ned4 { [%eval -0.05] } 16... Nxd4 { [%eval -0.06] } 17. Nxd4 { [%eval -0.16] } 17... Ba4 { [%eval 0.15] } 18. Bb3 { [%eval 0.23] } 18... Bxb3 { [%eval 0.34] } 19. Nxb3 { [%eval 0.27] } 19... Rxd1+ { [%eval 0.19] } 20. Rxd1 { [%eval 0.27] } 20... Rc8 { [%eval 0.22] } 21. Kf1 { [%eval 0.15] } 21... Kf8 { [%eval 0.2] } 22. Ke2 { [%eval 0.0] } 22... Ne4 { [%eval 0.01] } 23. Rc1 { [%eval 0.11] } 23... Rxc1 { [%eval 0.02] } 24. Bxc1 { [%eval 0.16] } 24... f6 { [%eval 0.34] } 25. Na5 { [%eval 0.0] } 25... Nd6 { [%eval 0.13] } 26. Kd3 { [%eval 0.04] } 26... Bd8 { [%eval 0.0] } 27. Nc4 { [%eval 0.0] } 27... Bc7 { [%eval 0.0] } 28. Nxd6 { [%eval 0.0] } 28... Bxd6 { [%eval 0.0] } 29. b5 { [%eval 0.0] } 29... Bxh2?! { [%eval 0.66] } { Inaccuracy. a6 was best. } (29... a6 30. bxa6 bxa6 31. h3 Ke7 32. a4 Kd7 33. Kc4 Kc6 34. Bb2 Be7 35. Bc3 g6 36. f3) 30. g3 { [%eval -0.06] } 30... h5 { [%eval 0.87] } 31. Ke2 { [%eval 0.83] } 31... h4 { [%eval 0.82] } 32. Kf3 { [%eval 0.72] } 32... Ke7 { [%eval 0.74] } 33. Kg2 { [%eval 0.52] } 33... hxg3 { [%eval 0.93] } 34. fxg3 { [%eval 0.81] } 34... Bxg3 { [%eval 0.99] } 35. Kxg3 { [%eval 0.65] } 35... Kd6 { [%eval 0.79] } 36. a4 { [%eval 0.93] } 36... Kd5 { [%eval 0.6] } 37. Ba3 { [%eval 0.57] } 37... Ke4 { [%eval 0.92] } 38. Bc5 { [%eval 1.29] } 38... a6 { [%eval 1.09] } 39. b6 { [%eval 0.77] } 39... f5 { [%eval 0.91] } 40. Kh4 { [%eval 0.74] } 40... f4? { [%eval 2.09] } { Mistake. Kd5 was best. } (40... Kd5) 41. exf4 { [%eval 1.66] } 41... Kxf4 { [%eval 2.0] } 42. Kh5 { [%eval 2.29] } 42... Kf5 { [%eval 2.63] } 43. Be3 { [%eval 2.14] } 43... Ke4 { [%eval 3.07] } 44. Bf2 { [%eval 3.23] } 44... Kf5 { [%eval 2.45] } 45. Bh4 { [%eval 3.22] } 45... e5 { [%eval 3.73] } 46. Bg5 { [%eval 3.88] } 46... e4 { [%eval 3.78] } 47. Be3 { [%eval 3.82] } 47... Kf6 { [%eval 4.26] } 48. Kg4 { [%eval 3.42] } 48... Ke5?! { [%eval 5.41] } { Inaccuracy. Ke6 was best. } (48... Ke6 49. a5 g6 50. Kg5 Kf7 51. Kf4 Ke6 52. Kxe4 Kd6 53. Bg5 Ke6 54. Bf4 Kd7 55. Ke5) 49. Kg5 { [%eval 5.62] } 49... Kd5 { [%eval 4.86] } 50. Kf5 { [%eval 5.42] } 50... a5 { [%eval 5.63] } 51. Bf2 { [%eval 5.86] } 51... g5?! { [%eval 8.23] } { Inaccuracy. Kd6 was best. } (51... Kd6 52. Kxe4) 52. Kxg5 { [%eval 8.11] } 52... Kc4 { [%eval 8.21] } 53. Kf5 { [%eval 8.32] } 53... Kb4 { [%eval 11.93] } 54. Kxe4 { [%eval 59.95] } 54... Kxa4 { [%eval 59.89] } 55. Kd5 { [%eval 60.21] } 55... Kb5 { [%eval 60.56] } 56. Kd6 { [%eval 60.65] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "2"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nf3 { [%eval 0.0] } 3... c5?! { [%eval 0.62] } { Inaccuracy. d5 was best. } (3... d5 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. Nc3 Nbd7 8. a3) 4. d5 { [%eval 0.29] } 4... exd5 { [%eval 0.52] } 5. cxd5 { [%eval 0.83] } 5... d6 { [%eval 0.67] } 6. Nc3 { [%eval 0.28] } 6... g6 { [%eval 0.95] } 7. Nd2 { [%eval 0.59] } 7... Nbd7 { [%eval 0.82] } 8. e4 { [%eval 1.09] } 8... Bg7 { [%eval 1.17] } 9. Be2 { [%eval 1.17] } 9... O-O { [%eval 1.08] } 10. O-O { [%eval 1.21] } 10... Re8 { [%eval 1.04] } 11. Qc2 { [%eval 0.99] } 11... Nh5 { [%eval 0.95] } 12. Bxh5 { [%eval 0.83] } 12... gxh5 { [%eval 0.88] } 13. Nc4 { [%eval 0.43] } 13... Ne5 { [%eval 0.64] } 14. Ne3 { [%eval 0.62] } 14... Qh4?! { [%eval 1.62] } { Inaccuracy. Ng4 was best. } (14... Ng4 15. Nc4 Ne5 16. Nxe5 Bxe5 17. f4 Bd4+ 18. Kh1 f5 19. e5 dxe5 20. fxe5 Bxe5 21. Bf4) 15. Bd2? { [%eval 0.24] } { Mistake. f3 was best. } (15. f3) 15... Ng4 { [%eval 0.34] } 16. Nxg4 { [%eval 0.21] } 16... hxg4 { [%eval 0.24] } 17. Bf4 { [%eval 0.08] } 17... Qf6 { [%eval 0.13] } 18. g3? { [%eval -1.01] } { Mistake. Bg3 was best. } (18. Bg3 Bd7) 18... Bd7 { [%eval -0.85] } 19. a4 { [%eval -0.8] } 19... b6 { [%eval -0.81] } 20. Rfe1 { [%eval -0.83] } 20... a6 { [%eval -0.99] } 21. Re2?! { [%eval -1.79] } { Inaccuracy. Ra3 was best. } (21. Ra3 Qg6) 21... b5 { [%eval -1.65] } 22. Rae1 { [%eval -1.25] } 22... Qg6 { [%eval -1.38] } 23. b3 { [%eval -1.42] } 23... Re7 { [%eval -0.96] } 24. Qd3 { [%eval -1.28] } 24... Rb8 { [%eval -0.95] } 25. axb5 { [%eval -1.31] } 25... axb5 { [%eval -1.11] } 26. b4 { [%eval -1.46] } 26... c4 { [%eval -1.09] } 27. Qd2 { [%eval -1.21] } 27... Rbe8 { [%eval -1.32] } 28. Re3 { [%eval -1.71] } 28... h5 { [%eval -1.43] } 29. R3e2 { [%eval -1.58] } 29... Kh7 { [%eval -1.69] } 30. Re3 { [%eval -1.28] } 30... Kg8 { [%eval -1.29] } 31. R3e2 { [%eval -1.83] } 31... Bxc3 { [%eval -1.83] } 32. Qxc3 { [%eval -1.88] } 32... Rxe4 { [%eval -1.99] } 33. Rxe4 { [%eval -2.1] } 33... Rxe4 { [%eval -2.28] } 34. Rxe4 { [%eval -2.41] } 34... Qxe4 { [%eval -2.25] } 35. Bh6 { [%eval -2.18] } 35... Qg6 { [%eval -1.81] } 36. Bc1 { [%eval -2.07] } 36... Qb1 { [%eval -1.97] } 37. Kf1?! { [%eval -2.87] } { Inaccuracy. Qb2 was best. } (37. Qb2 Qe4) 37... Bf5 { [%eval -2.91] } 38. Ke2 { [%eval -3.03] } 38... Qe4+ { [%eval -2.62] } 39. Qe3 { [%eval -3.01] } 39... Qc2+ { [%eval -2.98] } 40. Qd2 { [%eval -4.05] } 40... Qb3 { [%eval -4.25] } 41. Qd4? { [%eval -9.15] } { Mistake. Ke1 was best. } (41. Ke1 c3) 41... Bd3+ { [%eval -9.0] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "B88"]
+[Opening "Sicilian Defense: Sozin Attack, Leonhardt Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.15] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.32] } 4... Nf6 { [%eval 0.14] } 5. Nc3 { [%eval 0.18] } 5... Nc6 { [%eval 0.47] } 6. Bc4 { [%eval 0.28] } 6... e6 { [%eval 0.42] } 7. Bb3 { [%eval 0.18] } 7... Be7 { [%eval 0.21] } 8. Be3 { [%eval 0.57] } 8... O-O { [%eval 0.44] } 9. O-O { [%eval 0.25] } 9... a6 { [%eval 0.34] } 10. f4 { [%eval 0.25] } 10... Nxd4 { [%eval 0.24] } 11. Bxd4 { [%eval 0.44] } 11... b5 { [%eval 0.47] } 12. a3?! { [%eval -0.06] } { Inaccuracy. e5 was best. } (12. e5 dxe5 13. fxe5 Nd7 14. Ne4 a5 15. c3 Bb7 16. Bc2 Bxe4 17. Bxe4 Rb8 18. Qe2 Qc7) 12... Bb7 { [%eval 0.0] } 13. Qd3 { [%eval -0.34] } 13... a5 { [%eval -0.32] } 14. e5 { [%eval -0.22] } 14... dxe5 { [%eval -0.43] } 15. fxe5 { [%eval -0.25] } 15... Nd7 { [%eval -0.32] } 16. Nxb5 { [%eval -0.29] } 16... Nc5 { [%eval -0.31] } 17. Bxc5 { [%eval -0.49] } 17... Bxc5+ { [%eval -0.33] } 18. Kh1 { [%eval -0.4] } 18... Qg5 { [%eval -0.39] } 19. Qe2? { [%eval -1.76] } { Mistake. Qg3 was best. } (19. Qg3 Qxg3) 19... Rad8 { [%eval -1.82] } 20. Rad1 { [%eval -1.89] } 20... Rxd1 { [%eval -1.9] } 21. Rxd1 { [%eval -1.98] } 21... h5?! { [%eval -1.11] } { Inaccuracy. Be3 was best. } (21... Be3 22. Nd4) 22. Nd6 { [%eval -1.07] } 22... Ba8 { [%eval -1.2] } 23. Bc4 { [%eval -1.21] } 23... h4?! { [%eval -0.39] } { Inaccuracy. Be3 was best. } (23... Be3) 24. h3?! { [%eval -1.37] } { Inaccuracy. Ne4 was best. } (24. Ne4 Bxe4 25. Qxe4 Rb8 26. Rf1 g6 27. a4 Rxb2 28. Qf3 Qe7 29. Bb3 Bd4 30. Qe4 Bc3) 24... Be3 { [%eval -1.39] } 25. Qg4 { [%eval -1.24] } 25... Qxe5 { [%eval -1.25] } 26. Qxh4 { [%eval -1.26] } 26... g5 { [%eval -1.22] } 27. Qg4?! { [%eval -1.77] } { Inaccuracy. Qe1 was best. } (27. Qe1 Qf4) 27... Bc5?! { [%eval -0.91] } { Inaccuracy. Kg7 was best. } (27... Kg7 28. Bb5) 28. Nb5?! { [%eval -1.86] } { Inaccuracy. b4 was best. } (28. b4) 28... Kg7 { [%eval -1.47] } 29. Nd4 { [%eval -1.76] } 29... Rh8 { [%eval -1.76] } 30. Nf3 { [%eval -1.44] } 30... Bxf3 { [%eval -1.12] } 31. Qxf3 { [%eval -1.69] } 31... Bd6? { [%eval -0.57] } { Mistake. Rh4 was best. } (31... Rh4 32. g4 Bd6 33. Qg2 Qe3 34. Rd3 Qc1+ 35. Qg1 Qxc2 36. Qd4+ Kg6 37. Qxd6 Qxc4 38. Kg2) 32. Qc3 { [%eval -0.65] } 32... Qxc3 { [%eval -0.62] } 33. bxc3 { [%eval -0.58] } 33... Be5 { [%eval -0.49] } 34. Rd7 { [%eval -0.45] } 34... Kf6 { [%eval -0.36] } 35. Kg1 { [%eval -0.34] } 35... Bxc3 { [%eval -0.36] } 36. Be2 { [%eval -0.27] } 36... Be5 { [%eval -0.13] } 37. Kf1 { [%eval -0.23] } 37... Rc8 { [%eval 0.0] } 38. Bh5 { [%eval 0.0] } 38... Rc7 { [%eval 0.0] } 39. Rxc7 { [%eval 0.0] } 39... Bxc7 { [%eval 0.0] } 40. a4 { [%eval 0.0] } 40... Ke7 { [%eval 0.0] } 41. Ke2 { [%eval 0.0] } 41... f5 { [%eval 0.0] } 42. Kd3 { [%eval 0.0] } 42... Be5 { [%eval 0.0] } 43. c4 { [%eval 0.0] } 43... Kd6 { [%eval 0.0] } 44. Bf7 { [%eval 0.0] } 44... Bg3 { [%eval 0.0] } 45. c5+ { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "5"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "E41"]
+[Opening "Nimzo-Indian Defense: Hübner Variation, Main Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nc3 { [%eval 0.05] } 3... Bb4 { [%eval 0.25] } 4. Nf3 { [%eval 0.14] } 4... c5 { [%eval 0.21] } 5. e3 { [%eval 0.12] } 5... Nc6 { [%eval -0.09] } 6. Bd3 { [%eval 0.15] } 6... Bxc3+ { [%eval 0.13] } 7. bxc3 { [%eval 0.28] } 7... d6 { [%eval 0.39] } 8. e4 { [%eval 0.43] } 8... e5 { [%eval 0.59] } 9. d5 { [%eval 0.41] } 9... Ne7 { [%eval 0.42] } 10. Nh4 { [%eval 0.0] } 10... h6 { [%eval 0.3] } 11. f4 { [%eval 0.44] } 11... Ng6 { [%eval 0.35] } 12. Nxg6 { [%eval 0.37] } 12... fxg6 { [%eval 0.2] } 13. fxe5 { [%eval 0.35] } 13... dxe5 { [%eval -0.35] } 14. Be3 { [%eval -0.34] } 14... b6 { [%eval -0.36] } 15. O-O { [%eval -0.24] } 15... O-O { [%eval -0.25] } 16. a4 { [%eval -0.16] } 16... a5 { [%eval -0.7] } 17. Rb1 { [%eval -0.42] } 17... Bd7 { [%eval -0.31] } 18. Rb2 { [%eval -0.26] } 18... Rb8 { [%eval -0.27] } 19. Rbf2 { [%eval -0.5] } 19... Qe7 { [%eval -0.64] } 20. Bc2 { [%eval -0.71] } 20... g5 { [%eval -0.71] } 21. Bd2 { [%eval -0.67] } 21... Qe8 { [%eval -0.61] } 22. Be1 { [%eval -0.62] } 22... Qg6 { [%eval -0.62] } 23. Qd3 { [%eval -0.81] } 23... Nh5 { [%eval -0.79] } 24. Rxf8+ { [%eval -0.74] } 24... Rxf8 { [%eval -0.87] } 25. Rxf8+ { [%eval -0.75] } 25... Kxf8 { [%eval -0.92] } 26. Bd1 { [%eval -0.72] } 26... Nf4 { [%eval -1.01] } 27. Qc2?? { [%eval -7.75] } { Blunder. Qe3 was best. } (27. Qe3 g4) 27... Bxa4 { [%eval -8.15] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "D59"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nf3 { [%eval 0.23] } 2... d5 { [%eval 0.22] } 3. d4 { [%eval 0.0] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Be7 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... O-O { [%eval 0.17] } 6. e3 { [%eval 0.03] } 6... h6 { [%eval 0.12] } 7. Bh4 { [%eval 0.0] } 7... b6 { [%eval 0.07] } 8. cxd5 { [%eval 0.19] } 8... Nxd5 { [%eval 0.19] } 9. Bxe7 { [%eval 0.08] } 9... Qxe7 { [%eval 0.11] } 10. Nxd5 { [%eval 0.12] } 10... exd5 { [%eval 0.06] } 11. Rc1 { [%eval 0.0] } 11... Be6 { [%eval 0.02] } 12. Qa4 { [%eval 0.15] } 12... c5 { [%eval -0.19] } 13. Qa3 { [%eval -0.12] } 13... Rc8 { [%eval -0.24] } 14. Bb5?! { [%eval -0.86] } { Inaccuracy. dxc5 was best. } (14. dxc5) 14... a6?! { [%eval -0.15] } { Inaccuracy. Qb7 was best. } (14... Qb7 15. dxc5 Rxc5 16. Rxc5 bxc5 17. Qb3 Nd7 18. Bxd7 Qxd7 19. O-O d4 20. Qa3 dxe3 21. Qxe3) 15. dxc5 { [%eval -0.26] } 15... bxc5 { [%eval -0.25] } 16. O-O { [%eval -0.06] } 16... Ra7 { [%eval 0.19] } 17. Be2 { [%eval 0.32] } 17... Nd7 { [%eval 0.4] } 18. Nd4 { [%eval 0.57] } 18... Qf8 { [%eval 0.66] } 19. Nxe6 { [%eval 0.62] } 19... fxe6 { [%eval 0.72] } 20. e4 { [%eval 0.75] } 20... d4?! { [%eval 1.45] } { Inaccuracy. dxe4 was best. } (20... dxe4 21. Qe3 Qf5 22. f3 Qe5 23. b3 Nf6 24. fxe4 Rc6 25. Qf4 Qxf4 26. Rxf4 Nd7 27. e5) 21. f4 { [%eval 1.65] } 21... Qe7 { [%eval 1.57] } 22. e5 { [%eval 1.61] } 22... Rb8?! { [%eval 2.41] } { Inaccuracy. Nb6 was best. } (22... Nb6 23. Qd3) 23. Bc4 { [%eval 2.77] } 23... Kh8 { [%eval 2.2] } 24. Qh3 { [%eval 2.87] } 24... Nf8 { [%eval 3.15] } 25. b3 { [%eval 3.41] } 25... a5 { [%eval 3.31] } 26. f5 { [%eval 3.21] } 26... exf5?! { [%eval 4.43] } { Inaccuracy. Qg5 was best. } (26... Qg5 27. Rce1 a4 28. f6 Rba8 29. Kh1 axb3 30. axb3 Rf7 31. fxg7+ Rxg7 32. Rf6 Rg6 33. Qf3) 27. Rxf5 { [%eval 4.12] } 27... Nh7 { [%eval 4.27] } 28. Rcf1 { [%eval 4.36] } 28... Qd8 { [%eval 5.37] } 29. Qg3 { [%eval 5.0] } 29... Re7 { [%eval 5.3] } 30. h4 { [%eval 5.39] } 30... Rbb7 { [%eval 5.92] } 31. e6 { [%eval 6.46] } 31... Rbc7 { [%eval 6.79] } 32. Qe5 { [%eval 6.55] } 32... Qe8 { [%eval 7.77] } 33. a4 { [%eval 7.47] } 33... Qd8 { [%eval 7.22] } 34. R1f2 { [%eval 6.78] } 34... Qe8 { [%eval 7.37] } 35. R2f3 { [%eval 7.48] } 35... Qd8 { [%eval 8.92] } 36. Bd3 { [%eval 6.82] } 36... Qe8 { [%eval 8.91] } 37. Qe4 { [%eval 9.49] } 37... Nf6 { [%eval 9.15] } 38. Rxf6 { [%eval 8.96] } 38... gxf6 { [%eval 9.17] } 39. Rxf6 { [%eval 9.26] } 39... Kg8 { [%eval 9.36] } 40. Bc4 { [%eval 10.28] } 40... Kh8 { [%eval 79.0] } 41. Qf4 { [%eval #7] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "7"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "B97"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.15] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.32] } 4... Nf6 { [%eval 0.14] } 5. Nc3 { [%eval 0.18] } 5... a6 { [%eval 0.21] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.01] } 7. f4 { [%eval 0.14] } 7... Qb6 { [%eval 0.0] } 8. Qd2 { [%eval 0.0] } 8... Qxb2 { [%eval 0.2] } 9. Nb3 { [%eval -0.02] } 9... Qa3 { [%eval -0.18] } 10. Bd3 { [%eval -0.56] } 10... Be7 { [%eval -0.68] } 11. O-O { [%eval -0.48] } 11... h6 { [%eval -0.45] } 12. Bh4? { [%eval -1.63] } { Mistake. Bxf6 was best. } (12. Bxf6 Bxf6 13. e5 Be7 14. Qe3 Nc6 15. Qg3 O-O 16. Ne4 f5 17. exf6 Bxf6 18. Nxf6+ Rxf6) 12... Nxe4 { [%eval -1.24] } 13. Nxe4 { [%eval -1.73] } 13... Bxh4 { [%eval -1.56] } 14. f5?! { [%eval -2.17] } { Inaccuracy. Bb5+ was best. } (14. Bb5+ Ke7) 14... exf5 { [%eval -2.02] } 15. Bb5+ { [%eval -2.61] } 15... axb5 { [%eval -2.53] } 16. Nxd6+ { [%eval -2.34] } 16... Kf8 { [%eval -2.47] } 17. Nxc8 { [%eval -2.01] } 17... Nc6 { [%eval -2.75] } 18. Nd6? { [%eval -4.57] } { Mistake. Qf4 was best. } (18. Qf4 Rxc8 19. Qxh4 g6 20. Qf6 Kg8 21. Rad1 Qf8 22. g4 Qg7 23. Qxg7+ Kxg7 24. gxf5 g5) 18... Rd8 { [%eval -4.72] } 19. Nxb5 { [%eval -4.7] } 19... Qe7 { [%eval -4.5] } 20. Qf4 { [%eval -4.82] } 20... g6 { [%eval -4.84] } 21. a4 { [%eval -5.47] } 21... Bg5 { [%eval -4.43] } 22. Qc4 { [%eval -4.53] } 22... Be3+ { [%eval -4.32] } 23. Kh1 { [%eval -4.24] } 23... f4?! { [%eval -3.38] } { Inaccuracy. Kg7 was best. } (23... Kg7) 24. g3 { [%eval -3.38] } 24... g5?! { [%eval -2.53] } { Inaccuracy. Ne5 was best. } (24... Ne5 25. Qe2 g5 26. Rad1 h5 27. N3d4 Ng4 28. Qf3 Qf6 29. c3 Kg7 30. Rde1 Rhe8 31. gxf4) 25. Rae1 { [%eval -2.62] } 25... Qb4?! { [%eval -1.49] } { Inaccuracy. Rg8 was best. } (25... Rg8) 26. Qxb4+ { [%eval -1.42] } 26... Nxb4 { [%eval -1.11] } 27. Re2?! { [%eval -1.83] } { Inaccuracy. Na5 was best. } (27. Na5 Kg7 28. Nc4 Rd7 29. Nxe3 fxe3 30. Rxe3 Nxc2 31. Rc3 Nb4 32. Rc7 Rxc7 33. Nxc7 Na6) 27... Kg7 { [%eval -1.82] } 28. Na5 { [%eval -1.92] } 28... b6 { [%eval -2.07] } 29. Nc4 { [%eval -2.14] } 29... Nd5 { [%eval -1.82] } 30. Ncd6? { [%eval -3.73] } { Mistake. Nbd6 was best. } (30. Nbd6) 30... Bc5 { [%eval -4.22] } 31. Nb7 { [%eval -4.47] } 31... Rc8?? { [%eval -1.55] } { Blunder. Ne3 was best. } (31... Ne3 32. Ra1) 32. c4 { [%eval -1.46] } 32... Ne3 { [%eval -1.57] } 33. Rf3 { [%eval -1.39] } 33... Nxc4 { [%eval -1.28] } 34. gxf4 { [%eval -1.24] } 34... g4 { [%eval -1.12] } 35. Rd3 { [%eval -1.11] } 35... h5 { [%eval -1.08] } 36. h3 { [%eval -0.63] } 36... Na5 { [%eval -0.31] } 37. N7d6 { [%eval -0.2] } 37... Bxd6 { [%eval -0.2] } 38. Nxd6 { [%eval -0.2] } 38... Rc1+ { [%eval 0.0] } 39. Kg2 { [%eval -0.19] } 39... Nc4 { [%eval -0.22] } 40. Ne8+ { [%eval -0.36] } 40... Kg6 { [%eval -0.83] } 41. h4 { [%eval -0.49] } 41... f6 { [%eval -0.36] } 42. Re6 { [%eval -0.37] } 42... Rc2+ { [%eval -0.15] } 43. Kg1 { [%eval -0.19] } 43... Kf5 { [%eval 0.0] } 44. Ng7+ { [%eval 0.0] } 44... Kxf4 { [%eval 0.0] } 45. Rd4+ { [%eval 0.0] } 45... Kg3 { [%eval 0.0] } 46. Nf5+ { [%eval 0.0] } 46... Kf3 { [%eval 0.0] } 47. Ree4 { [%eval 0.0] } 47... Rc1+ { [%eval 0.0] } 48. Kh2 { [%eval 0.0] } 48... Rc2+ { [%eval 0.0] } 49. Kg1 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "8"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "A39"]
+[Opening "English Opening: Symmetrical Variation, Mecking Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... c5 { [%eval 0.37] } 2. Nc3 { [%eval 0.13] } 2... Nc6 { [%eval 0.36] } 3. Nf3 { [%eval 0.25] } 3... Nf6 { [%eval 0.4] } 4. g3 { [%eval 0.23] } 4... g6 { [%eval 0.5] } 5. Bg2 { [%eval 0.39] } 5... Bg7 { [%eval 0.42] } 6. O-O { [%eval 0.32] } 6... O-O { [%eval 0.43] } 7. d4 { [%eval 0.25] } 7... cxd4 { [%eval 0.4] } 8. Nxd4 { [%eval 0.26] } 8... Nxd4 { [%eval 0.74] } 9. Qxd4 { [%eval 0.68] } 9... d6 { [%eval 0.71] } 10. Bg5 { [%eval 0.61] } 10... Be6 { [%eval 0.79] } 11. Qf4?! { [%eval 0.1] } { Inaccuracy. Qd3 was best. } (11. Qd3 Qa5) 11... Qa5 { [%eval 0.48] } 12. Rac1 { [%eval 0.54] } 12... Rab8 { [%eval 0.54] } 13. b3 { [%eval 0.55] } 13... Rfc8 { [%eval 0.66] } 14. Qd2 { [%eval 0.55] } 14... a6 { [%eval 0.6] } 15. Be3 { [%eval 0.44] } 15... b5?! { [%eval 1.31] } { Inaccuracy. Rc7 was best. } (15... Rc7 16. Rfd1 h5 17. h3 Rbc8 18. a4 Nd7 19. Nd5 Qxd2 20. Bxd2 Bxd5 21. Bxd5 Rb8 22. Bg2) 16. Ba7 { [%eval 1.02] } 16... bxc4 { [%eval 1.31] } 17. Bxb8 { [%eval 1.33] } 17... Rxb8 { [%eval 1.3] } 18. bxc4 { [%eval 1.2] } 18... Bxc4 { [%eval 1.4] } 19. Rfd1 { [%eval 1.28] } 19... Nd7?? { [%eval 3.4] } { Blunder. Qe5 was best. } (19... Qe5) 20. Nd5 { [%eval 3.35] } 20... Qxd2 { [%eval 3.54] } 21. Nxe7+ { [%eval 3.52] } 21... Kf8 { [%eval 3.62] } 22. Rxd2 { [%eval 3.63] } 22... Kxe7 { [%eval 3.46] } 23. Rxc4 { [%eval 3.33] } 23... Rb1+ { [%eval 3.53] } 24. Bf1 { [%eval 3.25] } 24... Nc5 { [%eval 3.34] } 25. Kg2 { [%eval 3.86] } 25... a5 { [%eval 3.87] } 26. e4 { [%eval 4.12] } 26... Ba1 { [%eval 3.94] } 27. f4 { [%eval 4.19] } 27... f6 { [%eval 4.27] } 28. Re2 { [%eval 3.51] } 28... Ke6 { [%eval 3.85] } 29. Rec2 { [%eval 3.98] } 29... Bb2 { [%eval 3.91] } 30. Be2 { [%eval 4.03] } 30... h5 { [%eval 4.75] } 31. Rd2 { [%eval 4.67] } 31... Ba3 { [%eval 4.93] } 32. f5+ { [%eval 4.62] } 32... gxf5 { [%eval 5.13] } 33. exf5+ { [%eval 5.02] } 33... Ke5 { [%eval 5.47] } 34. Rcd4 { [%eval 5.44] } 34... Kxf5 { [%eval 5.44] } 35. Rd5+ { [%eval 5.23] } 35... Ke6 { [%eval 6.04] } 36. Rxd6+ { [%eval 6.02] } 36... Ke7 { [%eval 5.87] } 37. Rc6 { [%eval 5.5] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "9"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:34"]
+[Variant "Standard"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nf3 { [%eval 0.0] } 3... d5 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... c5 { [%eval 0.25] } 5. cxd5 { [%eval 0.15] } 5... Nxd5 { [%eval 0.13] } 6. e4 { [%eval 0.0] } 6... Nxc3 { [%eval 0.13] } 7. bxc3 { [%eval 0.33] } 7... cxd4 { [%eval 0.2] } 8. cxd4 { [%eval 0.34] } 8... Nc6 { [%eval 0.55] } 9. Bc4 { [%eval 0.71] } 9... b5?! { [%eval 1.3] } { Inaccuracy. Bb4+ was best. } (9... Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 O-O 12. O-O b6 13. Rfe1 Bb7 14. Rad1 Na5 15. Bf1 h6 16. Ne5) 10. Bd3?! { [%eval 0.5] } { Inaccuracy. Be2 was best. } (10. Be2 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 O-O 13. Bxb5 Nxd4 14. Nxd4 Qb6 15. O-O Rd8 16. Rad1 e5) 10... Bb4+ { [%eval 0.81] } 11. Bd2 { [%eval 0.84] } 11... Bxd2+?! { [%eval 1.52] } { Inaccuracy. O-O was best. } (11... O-O 12. Bxb5 Qb6 13. Bxb4 Nxb4 14. Be2 Qc6 15. O-O Qxe4 16. Ne5 Qc2 17. a3 Qxd1 18. Rfxd1) 12. Qxd2 { [%eval 1.44] } 12... a6 { [%eval 1.52] } 13. a4? { [%eval 0.25] } { Mistake. d5 was best. } (13. d5) 13... O-O { [%eval 0.02] } 14. Qc3 { [%eval -0.05] } 14... Bb7 { [%eval 0.0] } 15. axb5 { [%eval -0.1] } 15... axb5 { [%eval -0.01] } 16. O-O { [%eval -0.08] } 16... Qb6 { [%eval 0.0] } 17. Rab1 { [%eval 0.0] } 17... b4 { [%eval 0.05] } 18. Qd2?! { [%eval -0.62] } { Inaccuracy. d5 was best. } (18. d5 exd5 19. exd5 bxc3 20. Rxb6 Na5 21. d6 Bxf3 22. gxf3 Rac8 23. Rb5 Nc6 24. d7 Rcd8) 18... Nxd4?! { [%eval -0.03] } { Inaccuracy. b3 was best. } (18... b3) 19. Nxd4 { [%eval 0.02] } 19... Qxd4 { [%eval -0.05] } 20. Rxb4 { [%eval 0.0] } 20... Qd7 { [%eval -0.02] } 21. Qe3 { [%eval 0.0] } 21... Rfd8 { [%eval -0.06] } 22. Rfb1 { [%eval -0.14] } 22... Qxd3 { [%eval 0.0] } 23. Qxd3 { [%eval 0.0] } 23... Rxd3 { [%eval 0.0] } 24. Rxb7 { [%eval 0.0] } 24... g5 { [%eval -0.08] } 25. Rb8+ { [%eval 0.0] } 25... Rxb8 { [%eval 0.0] } 26. Rxb8+ { [%eval 0.0] } 26... Kg7 { [%eval 0.0] } 27. f3 { [%eval -0.08] } 27... Rd2 { [%eval 0.0] } 28. h4 { [%eval 0.0] } 28... h6 { [%eval 0.0] } 29. hxg5 { [%eval 0.0] } 29... hxg5 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "10"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Morphy Defense, Breyer Defense, Zaitsev Hybrid"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Be7 { [%eval 0.39] } 6. Re1 { [%eval 0.5] } 6... b5 { [%eval 0.29] } 7. Bb3 { [%eval 0.28] } 7... d6 { [%eval 0.44] } 8. c3 { [%eval 0.54] } 8... O-O { [%eval 0.36] } 9. h3 { [%eval 0.45] } 9... Nb8 { [%eval 0.44] } 10. d4 { [%eval 0.39] } 10... Nbd7 { [%eval 0.53] } 11. Nbd2 { [%eval 0.54] } 11... Bb7 { [%eval 0.36] } 12. Bc2 { [%eval 0.54] } 12... Re8 { [%eval 0.41] } 13. b4 { [%eval 0.14] } 13... Bf8 { [%eval 0.11] } 14. a4 { [%eval 0.21] } 14... Nb6 { [%eval 0.16] } 15. a5 { [%eval -0.02] } 15... Nbd7 { [%eval 0.03] } 16. Bb2 { [%eval 0.01] } 16... Qb8?! { [%eval 0.81] } { Inaccuracy. Rc8 was best. } (16... Rc8 17. Qb1 exd4 18. cxd4 h6 19. Bc3 c5 20. d5 Nh5 21. g3 Nhf6 22. Qd1 g6 23. Rc1) 17. Rb1 { [%eval 0.7] } 17... c5 { [%eval 0.47] } 18. bxc5 { [%eval 0.36] } 18... dxc5 { [%eval 0.34] } 19. dxe5 { [%eval 0.46] } 19... Nxe5 { [%eval 0.35] } 20. Nxe5 { [%eval 0.59] } 20... Qxe5 { [%eval 0.74] } 21. c4 { [%eval 0.68] } 21... Qf4 { [%eval 0.66] } 22. Bxf6 { [%eval 0.29] } 22... Qxf6 { [%eval 0.33] } 23. cxb5 { [%eval 0.64] } 23... Red8 { [%eval 0.5] } 24. Qc1 { [%eval 0.27] } 24... Qc3 { [%eval 0.69] } 25. Nf3 { [%eval 0.78] } 25... Qxa5 { [%eval 1.16] } 26. Bb3?! { [%eval 0.27] } { Inaccuracy. bxa6 was best. } (26. bxa6 Bxa6) 26... axb5 { [%eval 0.01] } 27. Qf4 { [%eval 0.19] } 27... Rd7 { [%eval 0.54] } 28. Ne5 { [%eval 0.48] } 28... Qc7 { [%eval 0.82] } 29. Rbd1 { [%eval 0.87] } 29... Re7 { [%eval 0.58] } 30. Bxf7+ { [%eval 0.36] } 30... Rxf7 { [%eval 0.42] } 31. Qxf7+ { [%eval 0.55] } 31... Qxf7 { [%eval 0.43] } 32. Nxf7 { [%eval 0.84] } 32... Bxe4 { [%eval 0.69] } 33. Rxe4 { [%eval 0.5] } 33... Kxf7 { [%eval 0.51] } 34. Rd7+ { [%eval 0.6] } 34... Kf6 { [%eval 0.75] } 35. Rb7 { [%eval 0.66] } 35... Ra1+ { [%eval 0.3] } 36. Kh2 { [%eval 0.61] } 36... Bd6+ { [%eval 0.23] } 37. g3 { [%eval 0.25] } 37... b4 { [%eval 0.07] } 38. Kg2 { [%eval 0.25] } 38... h5?! { [%eval 1.2] } { Inaccuracy. Kf5 was best. } (38... Kf5) 39. Rb6?! { [%eval 0.31] } { Inaccuracy. g4 was best. } (39. g4) 39... Rd1?! { [%eval 0.99] } { Inaccuracy. Kf5 was best. } (39... Kf5 40. Rh4 Rd1 41. Kf3 g6 42. Re4 Rd3+ 43. Re3 Rxe3+ 44. fxe3 Ke5 45. e4 g5 46. g4) 40. Kf3 { [%eval 0.63] } 40... Kf7?? { [%eval 2.32] } { Blunder. Rd3+ was best. } (40... Rd3+) 41. Ke2 { [%eval 2.49] } 41... Rd5 { [%eval 2.28] } 42. f4 { [%eval 2.79] } 42... g6 { [%eval 3.2] } 43. g4 { [%eval 2.75] } 43... hxg4 { [%eval 2.36] } 44. hxg4 { [%eval 2.66] } 44... g5 { [%eval 2.45] } 45. f5 { [%eval 2.82] } 45... Be5 { [%eval 2.02] } 46. Rb5 { [%eval 2.7] } 46... Kf6?! { [%eval 3.74] } { Inaccuracy. Bc3 was best. } (46... Bc3 47. Rb7+) 47. Rexb4 { [%eval 3.83] } 47... Bd4 { [%eval 3.82] } 48. Rb6+ { [%eval 3.08] } 48... Ke5 { [%eval 3.1] } 49. Kf3 { [%eval 3.23] } 49... Rd8 { [%eval 3.81] } 50. Rb8 { [%eval 3.78] } 50... Rd7?! { [%eval 4.78] } { Inaccuracy. cxb4 was best. } (50... cxb4 51. Rxd8) 51. R4b7 { [%eval 5.12] } 51... Rd6 { [%eval 5.44] } 52. Rb6 { [%eval 5.59] } 52... Rd7 { [%eval 5.31] } 53. Rg6 { [%eval 5.6] } 53... Kd5 { [%eval 5.84] } 54. Rxg5 { [%eval 5.78] } 54... Be5 { [%eval 6.16] } 55. f6 { [%eval 5.89] } 55... Kd4 { [%eval 5.97] } 56. Rb1 { [%eval 5.99] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "11"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B97"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.15] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.32] } 4... Nf6 { [%eval 0.14] } 5. Nc3 { [%eval 0.18] } 5... a6 { [%eval 0.21] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.01] } 7. f4 { [%eval 0.14] } 7... Qb6 { [%eval 0.0] } 8. Qd2 { [%eval 0.0] } 8... Qxb2 { [%eval 0.2] } 9. Nb3 { [%eval -0.02] } 9... Qa3 { [%eval -0.18] } 10. Bxf6 { [%eval -0.16] } 10... gxf6 { [%eval -0.13] } 11. Be2 { [%eval 0.0] } 11... h5 { [%eval 0.0] } 12. O-O { [%eval 0.08] } 12... Nc6 { [%eval 0.21] } 13. Kh1 { [%eval 0.22] } 13... Bd7 { [%eval -0.14] } 14. Nb1 { [%eval -0.26] } 14... Qb4 { [%eval -0.23] } 15. Qe3 { [%eval -0.12] } 15... d5?! { [%eval 0.57] } { Inaccuracy. Ne7 was best. } (15... Ne7) 16. exd5 { [%eval 0.52] } 16... Ne7 { [%eval 0.58] } 17. c4 { [%eval 0.63] } 17... Nf5 { [%eval 1.02] } 18. Qd3 { [%eval 0.51] } 18... h4?! { [%eval 1.41] } { Inaccuracy. exd5 was best. } (18... exd5 19. Nc3 dxc4 20. Qe4+ Be7 21. Nd5 Qd6 22. Bxc4 Rc8 23. Rfe1 Kf8 24. Nxe7 Qxe7 25. Qxb7) 19. Bg4 { [%eval 1.29] } 19... Nd6?? { [%eval 3.12] } { Blunder. Ne7 was best. } (19... Ne7) 20. N1d2 { [%eval 2.8] } 20... f5? { [%eval 4.76] } { Mistake. Rc8 was best. } (20... Rc8 21. dxe6) 21. a3 { [%eval 4.11] } 21... Qb6 { [%eval 5.51] } 22. c5 { [%eval 4.87] } 22... Qb5 { [%eval 5.84] } 23. Qc3 { [%eval 5.97] } 23... fxg4 { [%eval 7.18] } 24. a4 { [%eval 7.31] } 24... h3 { [%eval 8.35] } 25. axb5 { [%eval 8.38] } 25... hxg2+ { [%eval 8.3] } 26. Kxg2 { [%eval 8.36] } 26... Rh3 { [%eval 8.51] } 27. Qf6 { [%eval 8.44] } 27... Nf5 { [%eval 8.44] } 28. c6 { [%eval 8.16] } 28... Bc8 { [%eval 10.19] } 29. dxe6 { [%eval 10.15] } 29... fxe6 { [%eval 10.23] } 30. Rfe1 { [%eval 10.21] } 30... Be7 { [%eval 10.3] } 31. Rxe6 { [%eval 10.44] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "12"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "D55"]
+[Opening "Queen's Gambit Declined: Neo-Orthodox Variation, Main Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nf3 { [%eval 0.23] } 2... d5 { [%eval 0.22] } 3. d4 { [%eval 0.0] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Be7 { [%eval 0.0] } 5. Bg5 { [%eval 0.0] } 5... h6 { [%eval 0.16] } 6. Bh4 { [%eval 0.0] } 6... O-O { [%eval 0.0] } 7. e3 { [%eval 0.0] } 7... Nbd7 { [%eval 0.22] } 8. Rc1 { [%eval 0.44] } 8... c6 { [%eval 0.39] } 9. Bd3 { [%eval 0.42] } 9... dxc4 { [%eval 0.38] } 10. Bxc4 { [%eval 0.38] } 10... b5 { [%eval 0.76] } 11. Bd3 { [%eval 0.62] } 11... a6 { [%eval 0.66] } 12. a4 { [%eval 0.68] } 12... bxa4 { [%eval 0.46] } 13. Nxa4 { [%eval 0.55] } 13... Qa5+ { [%eval 0.44] } 14. Nd2 { [%eval 0.51] } 14... Bb4 { [%eval 0.48] } 15. Nc3 { [%eval 0.19] } 15... c5 { [%eval 0.16] } 16. Nb3 { [%eval 0.16] } 16... Qd8 { [%eval 0.05] } 17. O-O { [%eval 0.18] } 17... cxd4 { [%eval 0.01] } 18. Nxd4 { [%eval 0.17] } 18... Bb7 { [%eval 0.04] } 19. Be4 { [%eval 0.02] } 19... Qb8 { [%eval 0.43] } 20. Bg3 { [%eval 0.59] } 20... Qa7 { [%eval 0.26] } 21. Nc6 { [%eval 0.31] } 21... Bxc6 { [%eval 0.36] } 22. Bxc6 { [%eval 0.4] } 22... Rac8 { [%eval 0.37] } 23. Na4 { [%eval 0.33] } 23... Rfd8 { [%eval 0.3] } 24. Bf3 { [%eval 0.34] } 24... a5 { [%eval 0.23] } 25. Rc6 { [%eval -0.17] } 25... Rxc6 { [%eval 0.0] } 26. Bxc6 { [%eval -0.15] } 26... Rc8 { [%eval 0.0] } 27. Bf3 { [%eval 0.0] } 27... Qa6 { [%eval 0.0] } 28. h3 { [%eval 0.0] } 28... Qb5 { [%eval 0.0] } 29. Be2 { [%eval 0.0] } 29... Qc6 { [%eval 0.0] } 30. Bf3 { [%eval 0.0] } 30... Qb5 { [%eval 0.0] } 31. b3 { [%eval -0.12] } 31... Be7 { [%eval -0.16] } 32. Be2 { [%eval -0.09] } 32... Qb4 { [%eval -0.1] } 33. Ba6 { [%eval -0.06] } 33... Rc6 { [%eval -0.08] } 34. Bd3 { [%eval -0.38] } 34... Nc5 { [%eval -0.3] } 35. Qf3? { [%eval -1.49] } { Mistake. Nxc5 was best. } (35. Nxc5 Rxc5 36. Qf3 Nd5 37. h4 Bf8 38. Qe4 Qxe4 39. Bxe4 Nc3 40. Bd3 Rd5 41. Bc4 Rd2) 35... Rc8? { [%eval 0.0] } { Mistake. Nce4 was best. } (35... Nce4 36. Be5 Rc8 37. Qd1 Nd2 38. Ba6 Nxf1 39. Bxc8 Nd2 40. Bc3 Qxb3 41. Qxb3 Nxb3 42. Bb7) 36. Nxc5 { [%eval 0.0] } 36... Bxc5 { [%eval 0.19] } 37. Rc1 { [%eval 0.19] } 37... Rd8 { [%eval 0.06] } 38. Bc4 { [%eval 0.05] } 38... Qd2 { [%eval 0.0] } 39. Rf1 { [%eval 0.0] } 39... Bb4 { [%eval 0.0] } 40. Bc7 { [%eval 0.01] } 40... Rd7 { [%eval 0.51] } 41. Qc6?! { [%eval -0.15] } { Inaccuracy. Bb6 was best. } (41. Bb6) 41... Qc2 { [%eval -0.07] } 42. Be5 { [%eval -0.14] } 42... Rd2 { [%eval -0.06] } 43. Qa8+ { [%eval -0.05] } 43... Kh7 { [%eval -0.06] } 44. Bxf6 { [%eval 0.0] } 44... gxf6 { [%eval 0.0] } 45. Qf3 { [%eval 0.0] } 45... f5 { [%eval -0.14] } 46. g4 { [%eval -0.08] } 46... Qe4 { [%eval -0.08] } 47. Kg2 { [%eval -0.14] } 47... Kg6 { [%eval -0.12] } 48. Rc1 { [%eval -0.25] } 48... Ba3 { [%eval -0.08] } 49. Ra1 { [%eval 0.0] } 49... Bb4 { [%eval -0.16] } 50. Rc1 { [%eval -0.06] } 50... Be7 { [%eval -0.16] } 51. gxf5+ { [%eval 0.0] } 51... exf5 { [%eval -0.08] } 52. Re1 { [%eval -0.09] } 52... Rxf2+ { [%eval 0.0] } 53. Kxf2 { [%eval -0.08] } 53... Bh4+ { [%eval 0.0] } 54. Ke2 { [%eval -0.09] } 54... Qxf3+ { [%eval -0.07] } 55. Kxf3 { [%eval 0.0] } 55... Bxe1 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "13"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Alburt Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... Nf6 { [%eval 0.29] } 2. e5 { [%eval 0.35] } 2... Nd5 { [%eval 0.89] } 3. d4 { [%eval 0.79] } 3... d6 { [%eval 0.78] } 4. Nf3 { [%eval 0.4] } 4... g6 { [%eval 0.64] } 5. Bc4 { [%eval 0.52] } 5... Nb6 { [%eval 0.95] } 6. Bb3 { [%eval 0.69] } 6... Bg7 { [%eval 0.69] } 7. Nbd2 { [%eval 0.22] } 7... O-O { [%eval 0.51] } 8. h3 { [%eval 0.01] } 8... a5 { [%eval 0.14] } 9. a4 { [%eval 0.08] } 9... dxe5 { [%eval -0.02] } 10. dxe5 { [%eval -0.04] } 10... Na6 { [%eval -0.01] } 11. O-O { [%eval 0.09] } 11... Nc5 { [%eval -0.03] } 12. Qe2 { [%eval 0.07] } 12... Qe8 { [%eval 0.29] } 13. Ne4?! { [%eval -0.29] } { Inaccuracy. Nd4 was best. } (13. Nd4 Bd7 14. Ba2 Ncxa4 15. Re1 c5 16. N4f3 c4 17. Nxc4 Bb5 18. Qe4 Bxc4 19. Bxc4 Nc5) 13... Nbxa4 { [%eval -0.55] } 14. Bxa4 { [%eval -0.62] } 14... Nxa4 { [%eval -0.62] } 15. Re1 { [%eval -0.42] } 15... Nb6 { [%eval -0.65] } 16. Bd2 { [%eval -0.7] } 16... a4 { [%eval -0.63] } 17. Bg5?! { [%eval -1.22] } { Inaccuracy. Bb4 was best. } (17. Bb4 Be6) 17... h6 { [%eval -1.01] } 18. Bh4 { [%eval -1.38] } 18... Bf5 { [%eval -1.21] } 19. g4 { [%eval -1.25] } 19... Be6 { [%eval -1.61] } 20. Nd4 { [%eval -1.59] } 20... Bc4 { [%eval -1.35] } 21. Qd2 { [%eval -1.7] } 21... Qd7? { [%eval -0.47] } { Mistake. Bxe5 was best. } (21... Bxe5 22. Nc5 Bxd4 23. Qxd4 g5 24. Bg3 Rd8 25. Qe4 Qb5 26. Nxa4 Nxa4 27. b3 Bd5 28. Qxa4) 22. Rad1 { [%eval -0.53] } 22... Rfe8?! { [%eval 0.3] } { Inaccuracy. a3 was best. } (22... a3 23. bxa3 Rfe8 24. e6 Bxe6 25. Nc5 Qxd4 26. Qxd4 Bxd4 27. Nxe6 fxe6 28. Rxd4 Rxa3 29. Rxe6) 23. f4? { [%eval -0.79] } { Mistake. b3 was best. } (23. b3) 23... Bd5 { [%eval -0.37] } 24. Nc5 { [%eval -0.64] } 24... Qc8 { [%eval -0.61] } 25. Qc3?! { [%eval -1.6] } { Inaccuracy. e6 was best. } (25. e6 Nc4 26. Qe2 Nxb2 27. Nf5 Nxd1 28. Nxg7 Kxg7 29. Qe5+ f6 30. Qxd5 a3 31. Rxd1 a2) 25... e6 { [%eval -1.22] } 26. Kh2?! { [%eval -2.33] } { Inaccuracy. Nb5 was best. } (26. Nb5 a3) 26... Nd7?! { [%eval -1.53] } { Inaccuracy. a3 was best. } (26... a3 27. bxa3 Na4 28. Nxa4 Rxa4 29. f5 exf5 30. Nxf5 gxf5 31. Rxd5 Qe6 32. Qb3 Re4 33. Rxe4) 27. Nd3?? { [%eval -3.65] } { Blunder. Nxd7 was best. } (27. Nxd7) 27... c5 { [%eval -3.64] } 28. Nb5 { [%eval -3.71] } 28... Qc6 { [%eval -3.12] } 29. Nd6 { [%eval -3.76] } 29... Qxd6 { [%eval -3.34] } 30. exd6 { [%eval -3.75] } 30... Bxc3 { [%eval -3.48] } 31. bxc3 { [%eval -3.45] } 31... f6 { [%eval -3.26] } 32. g5 { [%eval -4.2] } 32... hxg5 { [%eval -3.43] } 33. fxg5 { [%eval -3.45] } 33... f5 { [%eval -3.22] } 34. Bg3 { [%eval -3.83] } 34... Kf7? { [%eval -2.07] } { Mistake. a3 was best. } (34... a3 35. c4 Bxc4 36. Ne5 Nxe5 37. Bxe5 Red8 38. d7 Bd5 39. c4 Bxc4 40. Bf6 a2 41. h4) 35. Ne5+ { [%eval -2.38] } 35... Nxe5 { [%eval -2.34] } 36. Bxe5 { [%eval -2.34] } 36... b5?! { [%eval -1.75] } { Inaccuracy. Red8 was best. } (36... Red8) 37. Rf1? { [%eval -3.08] } { Mistake. h4 was best. } (37. h4 a3 38. h5 gxh5 39. c4 bxc4 40. g6+ Kxg6 41. Rg1+ Kh6 42. Ra1 Bc6 43. Rg3 Rg8) 37... Rh8?? { [%eval -0.97] } { Blunder. a3 was best. } (37... a3 38. Ra1) 38. Bf6?! { [%eval -1.51] } { Inaccuracy. Bxh8 was best. } (38. Bxh8 Rxh8) 38... a3 { [%eval -1.47] } 39. Rf4? { [%eval -3.19] } { Mistake. Bxh8 was best. } (39. Bxh8 Rxh8) 39... a2 { [%eval -2.92] } 40. c4 { [%eval -3.22] } 40... Bxc4 { [%eval -2.69] } 41. d7 { [%eval -3.47] } 41... Bd5?! { [%eval -2.29] } { Inaccuracy. e5 was best. } (41... e5) 42. Kg3 { [%eval -1.87] } 42... Ra3+ { [%eval -1.75] } 43. c3 { [%eval -2.66] } 43... Rha8 { [%eval -2.44] } 44. Rh4 { [%eval -1.71] } 44... e5 { [%eval -2.09] } 45. Rh7+ { [%eval -2.53] } 45... Ke6 { [%eval -2.05] } 46. Re7+ { [%eval -2.13] } 46... Kd6 { [%eval -2.25] } 47. Rxe5 { [%eval -1.84] } 47... Rxc3+ { [%eval -2.23] } 48. Kf2 { [%eval -2.4] } 48... Rc2+ { [%eval -2.56] } 49. Ke1 { [%eval -2.32] } 49... Kxd7 { [%eval -1.95] } 50. Rexd5+ { [%eval -1.99] } 50... Kc6 { [%eval -2.06] } 51. Rd6+ { [%eval -2.11] } 51... Kb7 { [%eval -2.63] } 52. Rd7+ { [%eval -1.96] } 52... Ka6 { [%eval -2.12] } 53. R7d2 { [%eval -1.67] } 53... Rxd2 { [%eval -1.56] } 54. Kxd2?! { [%eval -2.26] } { Inaccuracy. Rxd2 was best. } (54. Rxd2 Kb6 55. Ba1 Ra3 56. Kf2 Kc6 57. Re2 Kd5 58. Rd2+ Ke4 59. h4 b4 60. Rd6 Rh3) 54... b4 { [%eval -1.43] } 55. h4 { [%eval -1.45] } 55... Kb5 { [%eval -1.3] } 56. h5 { [%eval -1.19] } 56... c4 { [%eval -0.62] } 57. Ra1 { [%eval -0.97] } 57... gxh5 { [%eval -0.49] } 58. g6 { [%eval -0.8] } 58... h4 { [%eval -0.4] } 59. g7 { [%eval -1.57] } 59... h3 { [%eval -0.81] } 60. Be7?? { [%eval -5.35] } { Blunder. Kc1 was best. } (60. Kc1) 60... Rg8 { [%eval -5.55] } 61. Bf8 { [%eval -3.0] } 61... h2 { [%eval -2.89] } 62. Kc2 { [%eval -3.24] } 62... Kc6?? { [%eval -0.23] } { Blunder. b3+ was best. } (62... b3+ 63. Kb2 f4 64. Rc1 f3 65. Rh1 f2 66. Rd1 Kc6 67. Rd6+ Kc7 68. Rd1 Kc8 69. Ka3) 63. Rd1?? { [%eval -2.96] } { Blunder. Kb2 was best. } (63. Kb2) 63... b3+ { [%eval -3.47] } 64. Kc3 { [%eval -2.52] } 64... h1=Q?? { [%eval 0.0] } { Blunder. f4 was best. } (64... f4 65. Rd6+) 65. Rxh1 { [%eval 0.0] } 65... Kd5 { [%eval 0.0] } 66. Kb2 { [%eval 0.0] } 66... f4 { [%eval 0.0] } 67. Rd1+ { [%eval 0.0] } 67... Ke4 { [%eval 0.0] } 68. Rc1 { [%eval -0.05] } 68... Kd3 { [%eval 0.0] } 69. Rd1+?? { [%eval -5.16] } { Blunder. Rc3+ was best. } (69. Rc3+ Kd4 70. Rf3 c3+ 71. Ka1 c2 72. Rxf4+ Kd3 73. Rf1 Kc3 74. Rf3+ Kd2 75. Ba3 Rxg7) 69... Ke2 { [%eval -4.83] } 70. Rc1 { [%eval -4.72] } 70... f3 { [%eval -4.87] } 71. Bc5?! { [%eval -6.3] } { Inaccuracy. Rxc4 was best. } (71. Rxc4) 71... Rxg7 { [%eval -6.63] } 72. Rxc4 { [%eval -6.77] } 72... Rd7 { [%eval -5.9] } 73. Re4+ { [%eval -5.54] } 73... Kf1 { [%eval -5.7] } 74. Bd4 { [%eval -5.45] } 74... f2 { [%eval -5.94] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "14"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.2] } 2. Nf3 { [%eval 0.23] } 2... d5 { [%eval 0.22] } 3. d4 { [%eval 0.0] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... Be7 { [%eval 0.0] } 5. Bf4 { [%eval 0.0] } 5... O-O { [%eval 0.27] } 6. e3 { [%eval 0.27] } 6... c5 { [%eval 0.32] } 7. dxc5 { [%eval 0.58] } 7... Nc6 { [%eval 0.52] } 8. cxd5 { [%eval 0.42] } 8... exd5 { [%eval 0.53] } 9. Be2 { [%eval 0.44] } 9... Bxc5 { [%eval 0.43] } 10. O-O { [%eval 0.48] } 10... Be6 { [%eval 0.43] } 11. Rc1 { [%eval 0.39] } 11... Rc8 { [%eval 0.37] } 12. a3 { [%eval 0.5] } 12... h6 { [%eval 0.47] } 13. Bg3 { [%eval 0.21] } 13... Bb6 { [%eval 0.07] } 14. Ne5 { [%eval 0.2] } 14... Ne7 { [%eval 0.29] } 15. Na4 { [%eval 0.04] } 15... Ne4 { [%eval 0.29] } 16. Rxc8 { [%eval 0.34] } 16... Bxc8 { [%eval 0.42] } 17. Nf3 { [%eval 0.27] } 17... Bd7 { [%eval 0.46] } 18. Be5 { [%eval 0.0] } 18... Bxa4 { [%eval 0.06] } 19. Qxa4 { [%eval 0.03] } 19... Nc6 { [%eval 0.0] } 20. Bf4?? { [%eval -1.71] } { Blunder. Bc3 was best. } (20. Bc3 Qe7 21. Nd4 Qf6 22. Nb5 Qe6 23. Nd4) 20... Qf6? { [%eval -0.62] } { Mistake. g5 was best. } (20... g5 21. Bg3) 21. Bb5 { [%eval -1.04] } 21... Qxb2 { [%eval -1.12] } 22. Bxc6 { [%eval -0.97] } 22... Nc3 { [%eval -1.06] } 23. Qb4 { [%eval -1.14] } 23... Qxb4 { [%eval -1.09] } 24. axb4 { [%eval -1.13] } 24... bxc6 { [%eval -1.09] } 25. Be5 { [%eval -1.05] } 25... Nb5 { [%eval -1.12] } 26. Rc1 { [%eval -0.99] } 26... Rc8 { [%eval -0.89] } 27. Nd4 { [%eval -0.96] } 27... f6?! { [%eval -0.11] } { Inaccuracy. Nxd4 was best. } (27... Nxd4 28. Bxd4) 28. Bxf6 { [%eval -0.13] } 28... Bxd4 { [%eval 0.0] } 29. Bxd4 { [%eval 0.05] } 29... Nxd4 { [%eval 0.0] } 30. exd4 { [%eval 0.0] } 30... Rb8 { [%eval 0.0] } 31. Rxc6 { [%eval -0.09] } 31... Rxb4 { [%eval 0.0] } 32. Kf1 { [%eval 0.0] } 32... Rxd4 { [%eval 0.0] } 33. Ra6 { [%eval 0.02] } 33... Kf7 { [%eval 0.0] } 34. Rxa7+ { [%eval 0.0] } 34... Kf6 { [%eval 0.0] } 35. Rd7 { [%eval 0.0] } 35... h5 { [%eval 0.0] } 36. Ke2 { [%eval 0.0] } 36... g5 { [%eval 0.0] } 37. Ke3 { [%eval 0.0] } 37... Re4+ { [%eval 0.0] } 38. Kd3 { [%eval 0.0] } 38... Ke6 { [%eval 0.0] } 39. Rg7 { [%eval 0.0] } 39... Kf6 { [%eval 0.0] } 40. Rd7 { [%eval 0.0] } 40... Ke6 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "15"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B99"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.15] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.32] } 4... Nf6 { [%eval 0.14] } 5. Nc3 { [%eval 0.18] } 5... a6 { [%eval 0.21] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.01] } 7. f4 { [%eval 0.14] } 7... Be7 { [%eval 0.46] } 8. Qf3 { [%eval 0.43] } 8... Qc7 { [%eval 0.56] } 9. O-O-O { [%eval 0.4] } 9... Nbd7 { [%eval 0.58] } 10. Bd3 { [%eval 0.31] } 10... b5 { [%eval 0.59] } 11. Rhe1 { [%eval 0.9] } 11... Bb7 { [%eval 0.37] } 12. Qg3 { [%eval 0.34] } 12... O-O-O?! { [%eval 1.27] } { Inaccuracy. b4 was best. } (12... b4 13. Nd5 exd5 14. exd5 Kd8 15. Nc6+ Bxc6 16. dxc6 Qxc6 17. Bxf6 Nxf6 18. Qxg7 Re8 19. Qxf7) 13. Bxf6?! { [%eval 0.39] } { Inaccuracy. Bxb5 was best. } (13. Bxb5 Nc5) 13... Nxf6 { [%eval 0.5] } 14. Qxg7 { [%eval 0.5] } 14... Rdf8 { [%eval 0.61] } 15. Qg3 { [%eval 0.44] } 15... b4 { [%eval 0.9] } 16. Na4 { [%eval 0.99] } 16... Rhg8 { [%eval 1.12] } 17. Qf2 { [%eval 1.19] } 17... Nd7 { [%eval 0.86] } 18. Kb1 { [%eval 1.01] } 18... Kb8 { [%eval 0.93] } 19. c3 { [%eval 1.21] } 19... Nc5 { [%eval 1.36] } 20. Bc2 { [%eval 1.43] } 20... bxc3 { [%eval 1.39] } 21. Nxc3 { [%eval 1.36] } 21... Bf6 { [%eval 1.52] } 22. g3 { [%eval 1.22] } 22... h5 { [%eval 1.24] } 23. e5 { [%eval 0.92] } 23... dxe5 { [%eval 1.37] } 24. fxe5 { [%eval 1.63] } 24... Bh8 { [%eval 1.13] } 25. Nf3 { [%eval 1.09] } 25... Rd8 { [%eval 1.05] } 26. Rxd8+ { [%eval 0.7] } 26... Rxd8 { [%eval 0.64] } 27. Ng5?! { [%eval -0.02] } { Inaccuracy. Re3 was best. } (27. Re3 Bg7) 27... Bxe5 { [%eval 0.09] } 28. Qxf7 { [%eval 0.0] } 28... Rd7 { [%eval 0.24] } 29. Qxh5 { [%eval -0.18] } 29... Bxc3 { [%eval -0.71] } 30. bxc3 { [%eval -0.74] } 30... Qb6+?! { [%eval 0.0] } { Inaccuracy. Bd5 was best. } (30... Bd5) 31. Kc1?? { [%eval -3.5] } { Blunder. Ka1 was best. } (31. Ka1 Qa5 32. Qh8+ Ka7 33. Rb1 e5 34. Rb4 Rd2 35. Qh7 e4 36. Bb1 Rd4 37. Nxe4 Rxb4) 31... Qa5 { [%eval -2.74] } 32. Qh8+? { [%eval -4.84] } { Mistake. Kb2 was best. } (32. Kb2 Rd2) 32... Ka7 { [%eval -4.19] } 33. a4 { [%eval -4.34] } 33... Nd3+ { [%eval -4.11] } 34. Bxd3 { [%eval -4.24] } 34... Rxd3 { [%eval -3.46] } 35. Kc2 { [%eval -4.01] } 35... Rd5?! { [%eval -2.75] } { Inaccuracy. Rd7 was best. } (35... Rd7) 36. Re4 { [%eval -2.36] } 36... Rd8 { [%eval -3.61] } 37. Qg7 { [%eval -2.69] } 37... Qf5 { [%eval -3.46] } 38. Kb3?! { [%eval -4.38] } { Inaccuracy. Qe7 was best. } (38. Qe7 Qf2+) 38... Qd5+?? { [%eval 0.0] } { Blunder. Rd1 was best. } (38... Rd1 39. a5 Qf1 40. Rd4 Rb1+ 41. Kc2 Ra1 42. Rd6 Qb1+ 43. Kd2 Qd1+ 44. Ke3 Qxd6 45. Qd4+) 39. Ka3 { [%eval 0.0] } 39... Qd2 { [%eval 0.0] } 40. Rb4 { [%eval 0.0] } 40... Qc1+ { [%eval 0.0] } 41. Rb2 { [%eval 0.0] } 41... Qa1+ { [%eval 0.0] } 42. Ra2 { [%eval 0.0] } 42... Qc1+ { [%eval 0.0] } 43. Rb2 { [%eval 0.0] } 43... Qa1+ { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "16"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Gligoric Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Bxc6 { [%eval 0.0] } 4... dxc6 { [%eval 0.0] } 5. O-O { [%eval 0.07] } 5... f6 { [%eval 0.13] } 6. d4 { [%eval 0.0] } 6... Bg4 { [%eval 0.24] } 7. dxe5 { [%eval 0.18] } 7... Qxd1 { [%eval 0.32] } 8. Rxd1 { [%eval 0.37] } 8... fxe5 { [%eval 0.26] } 9. Rd3 { [%eval 0.19] } 9... Bd6 { [%eval 0.23] } 10. Nbd2 { [%eval 0.16] } 10... Nf6 { [%eval 0.17] } 11. Nc4 { [%eval 0.17] } 11... Nxe4?! { [%eval 0.96] } { Inaccuracy. O-O was best. } (11... O-O 12. Nfxe5 Be2 13. Rd2 Bxc4 14. Nxc4 Nxe4 15. Re2 Rae8 16. f3 Bc5+ 17. Be3 Nd6 18. Rae1) 12. Ncxe5?! { [%eval 0.22] } { Inaccuracy. Nfxe5 was best. } (12. Nfxe5 Bxe5 13. Nxe5 Be6 14. f3 Nd6 15. b3 O-O-O 16. Bb2 c5 17. Re1 Rhe8 18. g4 h5) 12... Bxf3 { [%eval 0.17] } 13. Nxf3 { [%eval 0.18] } 13... O-O { [%eval 0.2] } 14. Be3 { [%eval 0.26] } 14... b5 { [%eval 0.3] } 15. c4 { [%eval 0.35] } 15... Rab8 { [%eval 0.3] } 16. Rc1 { [%eval 0.0] } 16... bxc4 { [%eval -0.32] } 17. Rd4 { [%eval -0.11] } 17... Rfe8 { [%eval 0.0] } 18. Nd2 { [%eval -0.02] } 18... Nxd2 { [%eval 0.05] } 19. Rxd2 { [%eval 0.05] } 19... Re4 { [%eval 0.1] } 20. g3 { [%eval 0.1] } 20... Be5 { [%eval -0.08] } 21. Rcc2 { [%eval 0.0] } 21... Kf7 { [%eval -0.06] } 22. Kg2 { [%eval 0.0] } 22... Rxb2 { [%eval 0.0] } 23. Kf3 { [%eval -0.03] } 23... c3 { [%eval -0.01] } 24. Kxe4 { [%eval -0.03] } 24... cxd2 { [%eval 0.0] } 25. Rxd2 { [%eval 0.0] } 25... Rb5 { [%eval 0.0] } 26. Rc2 { [%eval 0.0] } 26... Bd6 { [%eval 0.0] } 27. Rxc6 { [%eval 0.0] } 27... Ra5 { [%eval 0.0] } 28. Bf4 { [%eval 0.0] } 28... Ra4+ { [%eval -0.02] } 29. Kf3 { [%eval 0.0] } 29... Ra3+ { [%eval 0.0] } 30. Ke4 { [%eval 0.0] } 30... Rxa2 { [%eval 0.0] } 31. Bxd6 { [%eval 0.0] } 31... cxd6 { [%eval 0.0] } 32. Rxd6 { [%eval -0.09] } 32... Rxf2 { [%eval -0.08] } 33. Rxa6 { [%eval -0.11] } 33... Rxh2 { [%eval -0.05] } 34. Kf3 { [%eval -0.05] } 34... Rd2 { [%eval -0.14] } 35. Ra7+ { [%eval -0.03] } 35... Kf6 { [%eval -0.08] } 36. Ra6+ { [%eval -0.06] } 36... Ke7 { [%eval -0.08] } 37. Ra7+ { [%eval 0.0] } 37... Rd7 { [%eval -0.04] } 38. Ra2 { [%eval 0.0] } 38... Ke6 { [%eval -0.07] } 39. Kg2 { [%eval 0.0] } 39... Re7 { [%eval 0.0] } 40. Kh3 { [%eval 0.0] } 40... Kf6 { [%eval -0.08] } 41. Ra6+ { [%eval 0.0] } 41... Re6 { [%eval -0.06] } 42. Ra5 { [%eval -0.07] } 42... h6 { [%eval 0.0] } 43. Ra2 { [%eval -0.02] } 43... Kf5 { [%eval 0.0] } 44. Rf2+ { [%eval -0.12] } 44... Kg5 { [%eval -0.11] } 45. Rf7 { [%eval -0.11] } 45... g6 { [%eval -0.08] } 46. Rf4 { [%eval -0.05] } 46... h5 { [%eval 0.0] } 47. Rf3 { [%eval -0.07] } 47... Rf6 { [%eval -0.09] } 48. Ra3 { [%eval -0.12] } 48... Re6 { [%eval -0.19] } 49. Rf3 { [%eval -0.07] } 49... Re4 { [%eval -0.09] } 50. Ra3 { [%eval 0.0] } 50... Kh6 { [%eval -0.11] } 51. Ra6 { [%eval -0.12] } 51... Re5 { [%eval -0.13] } 52. Kh4 { [%eval 0.0] } 52... Re4+ { [%eval -0.12] } 53. Kh3 { [%eval -0.13] } 53... Re7 { [%eval -0.1] } 54. Kh4 { [%eval -0.13] } 54... Re5 { [%eval -0.15] } 55. Rb6 { [%eval -0.12] } 55... Kg7 { [%eval -0.12] } 56. Rb4 { [%eval -0.11] } 56... Kh6 { [%eval -0.12] } 57. Rb6 { [%eval -0.12] } 57... Re1 { [%eval -0.12] } 58. Kh3 { [%eval -0.08] } 58... Rh1+ { [%eval -0.15] } 59. Kg2 { [%eval -0.13] } 59... Ra1 { [%eval -0.13] } 60. Kh3 { [%eval -0.11] } 60... Ra4 { [%eval -0.03] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "17"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Dragon Formation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... d6?! { [%eval 0.53] } { Inaccuracy. c5 was best. } (1... c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d3 e6 6. O-O) 2. d4 { [%eval 0.4] } 2... g6 { [%eval 0.67] } 3. Nc3 { [%eval 0.68] } 3... Nf6 { [%eval 0.76] } 4. f4 { [%eval 0.4] } 4... Bg7 { [%eval 0.52] } 5. Nf3 { [%eval 0.44] } 5... c5 { [%eval 0.44] } 6. dxc5 { [%eval 0.4] } 6... Qa5 { [%eval 0.67] } 7. Bd3 { [%eval 0.47] } 7... Qxc5 { [%eval 0.48] } 8. Qe2 { [%eval 0.56] } 8... O-O { [%eval 0.69] } 9. Be3 { [%eval 0.56] } 9... Qa5 { [%eval 0.71] } 10. O-O { [%eval 0.62] } 10... Bg4 { [%eval 0.54] } 11. Rad1 { [%eval 0.71] } 11... Nc6 { [%eval 0.48] } 12. Bc4 { [%eval 0.25] } 12... Nh5 { [%eval 0.0] } 13. Bb3 { [%eval 0.29] } 13... Bxc3 { [%eval 0.16] } 14. bxc3 { [%eval 0.28] } 14... Qxc3 { [%eval 0.22] } 15. f5 { [%eval 0.0] } 15... Nf6 { [%eval 0.12] } 16. h3 { [%eval 0.07] } 16... Bxf3 { [%eval 0.13] } 17. Qxf3 { [%eval 0.25] } 17... Na5 { [%eval 0.29] } 18. Rd3 { [%eval 0.31] } 18... Qc7 { [%eval 0.75] } 19. Bh6?! { [%eval -0.04] } { Inaccuracy. Bd4 was best. } (19. Bd4 Nxb3 20. cxb3 Qc2 21. Qe3 Rac8 22. a4 b6 23. Re1 e5 24. fxe6 fxe6 25. Bxf6 Rxf6) 19... Nxb3 { [%eval -0.16] } 20. cxb3 { [%eval 0.0] } 20... Qc5+ { [%eval 0.0] } 21. Kh1 { [%eval 0.0] } 21... Qe5?! { [%eval 0.73] } { Inaccuracy. Rfe8 was best. } (21... Rfe8 22. Bg5 Qe5 23. Bxf6 exf6 24. fxg6 fxg6 25. Rd5 Qxe4 26. Qxe4 Rxe4 27. Rxf6 Rf8 28. Rfxd6) 22. Bxf8 { [%eval 0.56] } 22... Rxf8 { [%eval 0.5] } 23. Re3 { [%eval 0.36] } 23... Rc8 { [%eval 0.76] } 24. fxg6?! { [%eval 0.1] } { Inaccuracy. Qf4 was best. } (24. Qf4) 24... hxg6 { [%eval 0.33] } 25. Qf4 { [%eval 0.0] } 25... Qxf4 { [%eval 0.32] } 26. Rxf4 { [%eval 0.0] } 26... Nd7 { [%eval 0.34] } 27. Rf2 { [%eval 0.37] } 27... Ne5 { [%eval 0.75] } 28. Kh2 { [%eval 0.56] } 28... Rc1 { [%eval 0.62] } 29. Ree2 { [%eval 0.62] } 29... Nc6 { [%eval 0.41] } 30. Rc2 { [%eval 0.46] } 30... Re1 { [%eval 0.39] } 31. Rfe2 { [%eval 0.52] } 31... Ra1 { [%eval 0.11] } 32. Kg3 { [%eval 0.24] } 32... Kg7 { [%eval 0.23] } 33. Rcd2 { [%eval 0.26] } 33... Rf1 { [%eval 0.16] } 34. Rf2 { [%eval 0.63] } 34... Re1 { [%eval 0.43] } 35. Rfe2 { [%eval 0.45] } 35... Rf1 { [%eval 0.32] } 36. Re3 { [%eval 0.21] } 36... a6 { [%eval 0.26] } 37. Rc3 { [%eval 0.31] } 37... Re1 { [%eval 0.23] } 38. Rc4 { [%eval 0.34] } 38... Rf1 { [%eval 0.28] } 39. Rdc2 { [%eval 0.28] } 39... Ra1 { [%eval 0.16] } 40. Rf2 { [%eval 0.3] } 40... Re1 { [%eval 0.33] } 41. Rfc2 { [%eval 0.36] } 41... g5 { [%eval 0.39] } 42. Rc1 { [%eval 0.38] } 42... Re2 { [%eval 0.25] } 43. R1c2 { [%eval 0.25] } 43... Re1 { [%eval 0.42] } 44. Rc1 { [%eval 0.0] } 44... Re2 { [%eval 0.0] } 45. R1c2 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "18"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B69"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. Nc3 { [%eval 0.0] } 3... Nc6 { [%eval 0.47] } 4. d4 { [%eval 0.32] } 4... cxd4 { [%eval 0.32] } 5. Nxd4 { [%eval 0.5] } 5... Nf6 { [%eval 0.47] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.23] } 7. Qd2 { [%eval 0.09] } 7... a6 { [%eval 0.29] } 8. O-O-O { [%eval 0.6] } 8... Bd7 { [%eval 0.59] } 9. f4 { [%eval 0.55] } 9... Be7 { [%eval 0.7] } 10. Nf3 { [%eval 0.73] } 10... b5 { [%eval 0.54] } 11. Bxf6 { [%eval 0.61] } 11... gxf6 { [%eval 0.67] } 12. Bd3 { [%eval 0.58] } 12... Qa5 { [%eval 0.36] } 13. Kb1 { [%eval 0.74] } 13... b4 { [%eval 0.95] } 14. Ne2 { [%eval 0.84] } 14... Qc5 { [%eval 0.86] } 15. f5 { [%eval 0.95] } 15... a5 { [%eval 0.87] } 16. Nf4 { [%eval 0.95] } 16... a4 { [%eval 0.75] } 17. Rc1?! { [%eval 0.15] } { Inaccuracy. Rhf1 was best. } (17. Rhf1 Ra5) 17... Rb8 { [%eval 0.22] } 18. c3 { [%eval 0.48] } 18... b3?! { [%eval 1.06] } { Inaccuracy. Ne5 was best. } (18... Ne5 19. Rhf1 Rg8 20. g3 exf5 21. exf5 Nxd3 22. Nxd3 bxc3 23. Rxc3 Qd5 24. Ka1 Bxf5 25. Nd4) 19. a3 { [%eval 1.24] } 19... Ne5 { [%eval 1.43] } 20. Rhf1 { [%eval 1.26] } 20... Nc4 { [%eval 1.73] } 21. Bxc4 { [%eval 1.6] } 21... Qxc4 { [%eval 1.89] } 22. Rce1?? { [%eval 0.28] } { Blunder. Qe1 was best. } (22. Qe1) 22... Kd8? { [%eval 1.47] } { Mistake. e5 was best. } (22... e5 23. Nh5) 23. Ka1 { [%eval 1.73] } 23... Rb5 { [%eval 1.96] } 24. Nd4?! { [%eval 0.93] } { Inaccuracy. Qd1 was best. } (24. Qd1 h5) 24... Ra5 { [%eval 1.16] } 25. Nd3 { [%eval 1.11] } 25... Kc7 { [%eval 1.37] } 26. Nb4 { [%eval 1.22] } 26... h5 { [%eval 1.28] } 27. g3 { [%eval 0.88] } 27... Re5?! { [%eval 1.61] } { Inaccuracy. e5 was best. } (27... e5 28. Nf3 Bc6 29. Qd1 d5 30. Nd2 Qc5 31. exd5 Bxd5 32. Qe2 Bb7 33. Nc4 Raa8 34. Ne3) 28. Nd3 { [%eval 1.27] } 28... Rb8 { [%eval 1.38] } 29. Qe2?! { [%eval 0.85] } { Inaccuracy. Qe3 was best. } (29. Qe3 Ra5) 29... Ra5 { [%eval 1.06] } 30. fxe6 { [%eval 0.8] } 30... fxe6 { [%eval 0.7] } 31. Rf2?! { [%eval 0.0] } { Inaccuracy. Qe3 was best. } (31. Qe3 Rh8 32. Nb4 Kb7 33. Qf3 Kc7 34. h4 Re5 35. Nd3 Ra5 36. Rd1 Kb8 37. Qf2 Bd8) 31... e5 { [%eval 0.0] } 32. Nf5 { [%eval 0.0] } 32... Bxf5 { [%eval 0.0] } 33. Rxf5 { [%eval 0.0] } 33... d5 { [%eval 0.0] } 34. exd5 { [%eval 0.0] } 34... Qxd5?? { [%eval 2.14] } { Blunder. Rd8 was best. } (34... Rd8 35. Rf4 Qxd5 36. Nb4 Bxb4 37. Rxb4 Qd3 38. Rc4+ Kb7 39. Rb4+) 35. Nb4 { [%eval 1.59] } 35... Qd7 { [%eval 1.34] } 36. Rxh5? { [%eval 0.0] } { Mistake. Qc4+ was best. } (36. Qc4+ Kb6) 36... Bxb4 { [%eval 0.0] } 37. cxb4 { [%eval 0.0] } 37... Rd5 { [%eval 0.0] } 38. Rc1+ { [%eval 0.0] } 38... Kb7 { [%eval 0.0] } 39. Qe4?! { [%eval -0.59] } { Inaccuracy. Qf3 was best. } (39. Qf3 Rc8 40. Rb1 Rd8 41. Rh6 f5 42. Qe2 Rd3 43. Qh5 Kb8 44. Rb6+ Ka7 45. Rh6) 39... Rc8 { [%eval -0.72] } 40. Rb1 { [%eval -0.68] } 40... Kb6?! { [%eval 0.18] } { Inaccuracy. Kb8 was best. } (40... Kb8 41. Qf3) 41. Rh7 { [%eval 0.08] } 41... Rd4 { [%eval 0.0] } 42. Qg6 { [%eval 0.47] } 42... Qc6 { [%eval 0.08] } 43. Rf7 { [%eval 0.0] } 43... Rd6 { [%eval 0.0] } 44. Qh6 { [%eval 0.0] } 44... Qf3 { [%eval 0.0] } 45. Qh7 { [%eval 0.0] } 45... Qc6 { [%eval 0.24] } 46. Qh6 { [%eval 0.0] } 46... Qf3 { [%eval 0.0] } 47. Qh7 { [%eval 0.0] } 47... Qc6 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "19"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B05"]
+[Opening "Alekhine Defense: Modern Variation, Main Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... Nf6 { [%eval 0.29] } 2. e5 { [%eval 0.35] } 2... Nd5 { [%eval 0.89] } 3. d4 { [%eval 0.79] } 3... d6 { [%eval 0.78] } 4. Nf3 { [%eval 0.4] } 4... Bg4 { [%eval 0.8] } 5. Be2 { [%eval 0.86] } 5... e6 { [%eval 0.8] } 6. O-O { [%eval 0.59] } 6... Be7 { [%eval 0.79] } 7. h3 { [%eval 0.96] } 7... Bh5 { [%eval 0.89] } 8. c4 { [%eval 1.28] } 8... Nb6 { [%eval 1.13] } 9. Nc3 { [%eval 1.36] } 9... O-O { [%eval 1.46] } 10. Be3 { [%eval 1.42] } 10... d5 { [%eval 1.5] } 11. c5 { [%eval 1.63] } 11... Bxf3 { [%eval 1.44] } 12. Bxf3?! { [%eval 0.9] } { Inaccuracy. gxf3 was best. } (12. gxf3 N6d7) 12... Nc4 { [%eval 0.59] } 13. b3 { [%eval 0.32] } 13... Nxe3 { [%eval 0.12] } 14. fxe3 { [%eval 0.37] } 14... b6 { [%eval 0.66] } 15. e4 { [%eval 0.77] } 15... c6 { [%eval 0.71] } 16. b4 { [%eval 0.67] } 16... bxc5?! { [%eval 1.34] } { Inaccuracy. a5 was best. } (16... a5 17. a3) 17. bxc5 { [%eval 1.15] } 17... Qa5 { [%eval 1.52] } 18. Nxd5?! { [%eval 0.91] } { Inaccuracy. Qe1 was best. } (18. Qe1 Bh4) 18... Bg5 { [%eval 0.88] } 19. Bh5 { [%eval 0.66] } 19... cxd5 { [%eval 0.44] } 20. Bxf7+ { [%eval 0.0] } 20... Rxf7 { [%eval 0.85] } 21. Rxf7 { [%eval 0.09] } 21... Qd2 { [%eval 0.27] } 22. Qxd2 { [%eval 0.34] } 22... Bxd2 { [%eval 0.97] } 23. Raf1 { [%eval 0.25] } 23... Nc6 { [%eval 0.25] } 24. exd5 { [%eval 0.13] } 24... exd5 { [%eval 0.02] } 25. Rd7 { [%eval 0.0] } 25... Be3+ { [%eval 0.0] } 26. Kh1 { [%eval 0.0] } 26... Bxd4 { [%eval 0.0] } 27. e6 { [%eval 0.0] } 27... Be5 { [%eval 0.0] } 28. Rxd5 { [%eval 0.0] } 28... Re8 { [%eval 0.0] } 29. Re1 { [%eval 0.0] } 29... Rxe6 { [%eval 0.0] } 30. Rd6 { [%eval 0.0] } 30... Kf7 { [%eval 0.0] } 31. Rxc6 { [%eval 0.0] } 31... Rxc6 { [%eval 0.0] } 32. Rxe5 { [%eval 0.0] } 32... Kf6 { [%eval 0.0] } 33. Rd5 { [%eval 0.0] } 33... Ke6 { [%eval 0.0] } 34. Rh5 { [%eval 0.0] } 34... h6 { [%eval 0.0] } 35. Kh2 { [%eval 0.0] } 35... Ra6 { [%eval 0.0] } 36. c6 { [%eval 0.08] } 36... Rxc6 { [%eval 0.06] } 37. Ra5 { [%eval 0.13] } 37... a6 { [%eval 0.07] } 38. Kg3 { [%eval 0.04] } 38... Kf6 { [%eval 0.07] } 39. Kf3 { [%eval 0.05] } 39... Rc3+ { [%eval 0.07] } 40. Kf2 { [%eval 0.06] } 40... Rc2+ { [%eval 0.07] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "20"]
+[White "Fischer, Robert James"]
+[Black "Spassky, Boris V"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2660"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B68"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... Nc6 { [%eval 0.45] } 3. d4 { [%eval 0.35] } 3... cxd4 { [%eval 0.26] } 4. Nxd4 { [%eval 0.29] } 4... Nf6 { [%eval 0.36] } 5. Nc3 { [%eval 0.0] } 5... d6 { [%eval 0.47] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.23] } 7. Qd2 { [%eval 0.09] } 7... a6 { [%eval 0.29] } 8. O-O-O { [%eval 0.48] } 8... Bd7 { [%eval 0.79] } 9. f4 { [%eval 0.55] } 9... Be7 { [%eval 0.72] } 10. Be2 { [%eval 0.26] } 10... O-O?! { [%eval 1.11] } { Inaccuracy. Nxd4 was best. } (10... Nxd4 11. Qxd4) 11. Bf3?! { [%eval 0.46] } { Inaccuracy. Nb3 was best. } (11. Nb3 Be8 12. Bxf6 Bxf6 13. Qxd6 Qxd6 14. Rxd6 g5 15. g3 Be7 16. Rd2 b5 17. Rhd1 gxf4) 11... h6 { [%eval 0.0] } 12. Bh4 { [%eval 0.0] } 12... Nxe4 { [%eval 0.0] } 13. Bxe7 { [%eval -0.05] } 13... Nxd2 { [%eval 0.05] } 14. Bxd8 { [%eval 0.0] } 14... Nxf3 { [%eval -0.02] } 15. Nxf3 { [%eval 0.0] } 15... Rfxd8 { [%eval -0.08] } 16. Rxd6 { [%eval 0.0] } 16... Kf8 { [%eval 0.0] } 17. Rhd1 { [%eval -0.02] } 17... Ke7 { [%eval 0.01] } 18. Na4 { [%eval -0.15] } 18... Be8 { [%eval -0.12] } 19. Rxd8 { [%eval 0.0] } 19... Rxd8 { [%eval 0.0] } 20. Nc5 { [%eval 0.0] } 20... Rb8 { [%eval -0.12] } 21. Rd3 { [%eval -0.29] } 21... a5 { [%eval 0.0] } 22. Rb3 { [%eval 0.0] } 22... b5 { [%eval 0.0] } 23. a3 { [%eval -0.05] } 23... a4 { [%eval -0.08] } 24. Rc3 { [%eval -0.08] } 24... Rd8 { [%eval -0.23] } 25. Nd3 { [%eval -0.05] } 25... f6 { [%eval 0.0] } 26. Rc5 { [%eval -0.02] } 26... Rb8 { [%eval 0.0] } 27. Rc3 { [%eval -0.05] } 27... g5 { [%eval -0.17] } 28. g3 { [%eval -0.12] } 28... Kd6 { [%eval 0.02] } 29. Nc5 { [%eval 0.0] } 29... g4 { [%eval 0.05] } 30. Ne4+ { [%eval 0.07] } 30... Ke7 { [%eval 0.0] } 31. Ne1 { [%eval -0.31] } 31... Rd8 { [%eval -0.23] } 32. Nd3 { [%eval -0.29] } 32... Rd4 { [%eval -0.16] } 33. Nef2 { [%eval -0.03] } 33... h5 { [%eval 0.0] } 34. Rc5 { [%eval -0.38] } 34... Rd5 { [%eval -0.64] } 35. Rc3 { [%eval -0.45] } 35... Nd4 { [%eval -0.4] } 36. Rc7+ { [%eval -0.52] } 36... Rd7 { [%eval -0.52] } 37. Rxd7+ { [%eval -0.4] } 37... Bxd7 { [%eval -0.45] } 38. Ne1 { [%eval -0.43] } 38... e5 { [%eval -0.51] } 39. fxe5 { [%eval -0.42] } 39... fxe5 { [%eval -0.59] } 40. Kd2 { [%eval -0.39] } 40... Bf5 { [%eval -0.31] } 41. Nd1 { [%eval -0.38] } 41... Kd6 { [%eval -0.55] } 42. Ne3 { [%eval -0.61] } 42... Be6 { [%eval -0.37] } 43. Kd3 { [%eval -0.31] } 43... Bf7 { [%eval -0.37] } 44. Kc3 { [%eval -0.55] } 44... Kc6 { [%eval -0.35] } 45. Kd3 { [%eval -0.31] } 45... Kc5 { [%eval -0.34] } 46. Ke4 { [%eval -0.34] } 46... Kd6 { [%eval -0.15] } 47. Kd3 { [%eval -0.36] } 47... Bg6+ { [%eval -0.49] } 48. Kc3 { [%eval -0.29] } 48... Kc5 { [%eval -0.25] } 49. Nd3+ { [%eval -0.31] } 49... Kd6 { [%eval -0.34] } 50. Ne1 { [%eval -0.26] } 50... Kc6 { [%eval -0.18] } 51. Kd2 { [%eval -0.26] } 51... Kc5 { [%eval -0.24] } 52. Nd3+ { [%eval -0.48] } 52... Kd6 { [%eval -0.34] } 53. Ne1 { [%eval -0.52] } 53... Ne6?! { [%eval 0.0] } { Inaccuracy. Kc6 was best. } (53... Kc6 54. Kc3 Nf3 55. Nxf3 gxf3 56. Kd2 Kc5 57. c3 e4 58. Ke1 Bf7 59. Kf2 Be6 60. Ke1) 54. Kc3 { [%eval -0.29] } 54... Nd4 { [%eval -0.21] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 28th"]
+[Site "Reykjavik"]
+[Date "1972.??.??"]
+[Round "21"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+[UTCDate "2021.11.29"]
+[UTCTime "20:46:35"]
+[Variant "Standard"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... e6?! { [%eval 0.54] } { Inaccuracy. d6 was best. } (2... d6 3. c3 Nf6 4. h3 Nc6 5. Bd3 e5 6. O-O Be7 7. Bc2) 3. d4 { [%eval 0.42] } 3... cxd4 { [%eval 0.42] } 4. Nxd4 { [%eval 0.23] } 4... a6 { [%eval 0.6] } 5. Nc3 { [%eval 0.37] } 5... Nc6 { [%eval 0.05] } 6. Be3 { [%eval 0.34] } 6... Nf6 { [%eval 0.36] } 7. Bd3 { [%eval 0.23] } 7... d5?! { [%eval 0.79] } { Inaccuracy. Be7 was best. } (7... Be7 8. Nxc6 bxc6 9. e5 Nd5 10. Nxd5 cxd5 11. Qg4 g6 12. h4) 8. exd5 { [%eval 0.72] } 8... exd5 { [%eval 0.85] } 9. O-O?! { [%eval 0.17] } { Inaccuracy. Qd2 was best. } (9. Qd2 Be7) 9... Bd6 { [%eval 0.05] } 10. Nxc6 { [%eval 0.02] } 10... bxc6 { [%eval -0.09] } 11. Bd4 { [%eval 0.21] } 11... O-O { [%eval 0.18] } 12. Qf3?! { [%eval -0.45] } { Inaccuracy. Na4 was best. } (12. Na4 Rb8) 12... Be6 { [%eval -0.37] } 13. Rfe1 { [%eval -0.57] } 13... c5 { [%eval -0.41] } 14. Bxf6 { [%eval -0.55] } 14... Qxf6 { [%eval -0.7] } 15. Qxf6 { [%eval -0.62] } 15... gxf6 { [%eval -0.63] } 16. Rad1 { [%eval -0.65] } 16... Rfd8 { [%eval -0.3] } 17. Be2 { [%eval -0.17] } 17... Rab8 { [%eval -0.08] } 18. b3 { [%eval -0.08] } 18... c4 { [%eval -0.14] } 19. Nxd5 { [%eval -0.15] } 19... Bxd5 { [%eval -0.07] } 20. Rxd5 { [%eval -0.12] } 20... Bxh2+ { [%eval -0.09] } 21. Kxh2 { [%eval -0.23] } 21... Rxd5 { [%eval -0.13] } 22. Bxc4 { [%eval -0.18] } 22... Rd2 { [%eval -0.24] } 23. Bxa6 { [%eval -0.21] } 23... Rxc2 { [%eval -0.37] } 24. Re2 { [%eval -0.32] } 24... Rxe2 { [%eval -0.36] } 25. Bxe2 { [%eval -0.31] } 25... Rd8 { [%eval -0.38] } 26. a4 { [%eval -0.42] } 26... Rd2 { [%eval -0.45] } 27. Bc4 { [%eval -0.2] } 27... Ra2 { [%eval -0.34] } 28. Kg3 { [%eval -0.19] } 28... Kf8 { [%eval -0.34] } 29. Kf3 { [%eval -0.29] } 29... Ke7 { [%eval -0.3] } 30. g4 { [%eval -0.63] } 30... f5 { [%eval -0.42] } 31. gxf5 { [%eval -0.41] } 31... f6 { [%eval -0.64] } 32. Bg8 { [%eval -0.72] } 32... h6 { [%eval -0.36] } 33. Kg3 { [%eval -0.36] } 33... Kd6 { [%eval 0.0] } 34. Kf3?? { [%eval -1.66] } { Blunder. f4 was best. } (34. f4 Ra1 35. Bc4 h5 36. Kh4 Rh1+ 37. Kg3 Kc7 38. a5 Ra1 39. a6 Ra5 40. Bd3 Kb6) 34... Ra1 { [%eval -1.67] } 35. Kg2 { [%eval -1.84] } 35... Ke5 { [%eval -1.92] } 36. Be6 { [%eval -1.53] } 36... Kf4 { [%eval -1.82] } 37. Bd7 { [%eval -1.39] } 37... Rb1 { [%eval -1.59] } 38. Be6 { [%eval -2.13] } 38... Rb2?! { [%eval -1.51] } { Inaccuracy. Rd1 was best. } (38... Rd1 39. Bc8) 39. Bc4 { [%eval -2.03] } 39... Ra2 { [%eval -2.11] } 40. Be6 { [%eval -1.98] } 40... h5 { [%eval -1.9] } 41. Bd7? { [%eval -3.82] } { Mistake. Kh3 was best. } { 0-1 White resigns. } (41. Kh3 Rxf2) 0-1
+
+

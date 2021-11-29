@@ -1,0 +1,510 @@
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Carlsbad Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. a4 { [%eval 0.13] } 5... Bf5 { [%eval 0.5] } 6. Ne5 { [%eval 0.33] } 6... Nbd7 { [%eval 0.17] } 7. Nxc4 { [%eval 0.6] } 7... Qc7 { [%eval 0.45] } 8. g3 { [%eval 0.25] } 8... e5 { [%eval 0.56] } 9. dxe5 { [%eval 0.5] } 9... Nxe5 { [%eval 0.51] } 10. Bf4 { [%eval 0.43] } 10... Nfd7 { [%eval 0.38] } 11. Bg2 { [%eval 0.69] } 11... Be6 { [%eval 0.79] } 12. Nxe5 { [%eval 1.01] } 12... Nxe5 { [%eval 0.82] } 13. O-O { [%eval 0.81] } 13... Be7 { [%eval 0.95] } 14. Qc2 { [%eval 1.2] } 14... Rd8 { [%eval 0.86] } 15. Rfd1 { [%eval 0.71] } 15... O-O { [%eval 0.77] } 16. Nb5 { [%eval 0.96] } 16... Rxd1+ { [%eval 0.84] } 17. Rxd1 { [%eval 0.86] } 17... Qa5? { [%eval 2.24] } { Mistake. Qc8 was best. } (17... Qc8) 18. Nd4 { [%eval 2.24] } 18... Bc8 { [%eval 2.35] } 19. b4 { [%eval 2.21] } 19... Qc7 { [%eval 1.89] } 20. b5 { [%eval 2.29] } 20... c5 { [%eval 2.5] } 21. Nf5 { [%eval 2.41] } 21... f6?! { [%eval 3.3] } { Inaccuracy. g5 was best. } (21... g5) 22. Ne3 { [%eval 3.27] } 22... Be6?! { [%eval 4.66] } { Inaccuracy. Kh8 was best. } (22... Kh8 23. Be4) 23. Bd5 { [%eval 4.85] } 23... Bxd5 { [%eval 4.18] } 24. Rxd5 { [%eval 4.84] } 24... Qa5 { [%eval 5.78] } 25. Nf5 { [%eval 6.22] } 25... Qe1+ { [%eval 8.15] } 26. Kg2 { [%eval 8.07] } 26... Bd8 { [%eval 9.62] } 27. Bxe5 { [%eval 8.85] } 27... fxe5 { [%eval 9.25] } 28. Rd7 { [%eval 8.76] } 28... Bf6 { [%eval 10.62] } 29. Nh6+ { [%eval 12.11] } 29... Kh8 { [%eval 11.31] } 30. Qxc5 { [%eval 11.54] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D81"]
+[Opening "Grünfeld Defense: Russian Variation, Accelerated Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... g6 { [%eval 0.42] } 3. Nc3 { [%eval 0.17] } 3... d5 { [%eval 0.2] } 4. Qb3 { [%eval 0.0] } 4... dxc4 { [%eval 0.0] } 5. Qxc4 { [%eval 0.0] } 5... Be6 { [%eval 0.25] } 6. Qb5+ { [%eval -0.09] } 6... Nc6?! { [%eval 0.51] } { Inaccuracy. Bd7 was best. } (6... Bd7 7. Qb3 c5 8. dxc5 Bg7 9. Qa3 O-O 10. e4 Nc6 11. Nf3) 7. Nf3 { [%eval 0.88] } 7... Rb8?! { [%eval 1.58] } { Inaccuracy. Bg7 was best. } (7... Bg7 8. e4 O-O 9. d5 Nxe4 10. Nxe4 a6 11. Qd3 Qxd5 12. Qxd5) 8. Ne5?! { [%eval 0.62] } { Inaccuracy. e4 was best. } (8. e4 Bg7 9. d5 Nxe4 10. Nxe4 a6 11. Qd3 Qxd5 12. Qxd5 Bxd5 13. Bd3 Rd8 14. Bb1 f5) 8... Bd7?! { [%eval 1.15] } { Inaccuracy. Bg7 was best. } (8... Bg7 9. Nxc6 bxc6 10. Qxc6+ Qd7 11. Qc5 O-O 12. e3 Qd6 13. Qxd6 exd6 14. Be2 Nd5 15. Nxd5) 9. Nxd7 { [%eval 1.16] } 9... Qxd7 { [%eval 0.97] } 10. d5 { [%eval 0.97] } 10... Nd4 { [%eval 0.95] } 11. Qd3 { [%eval 0.91] } 11... e5 { [%eval 0.83] } 12. e3 { [%eval 1.09] } 12... Nf5 { [%eval 1.01] } 13. e4 { [%eval 0.54] } 13... Nd6?! { [%eval 1.43] } { Inaccuracy. Nd4 was best. } (13... Nd4 14. g3) 14. f4 { [%eval 1.39] } 14... Qe7 { [%eval 1.47] } 15. Be3? { [%eval 0.07] } { Mistake. fxe5 was best. } (15. fxe5 Qxe5 16. Be3 Qe7 17. Be2 Nfxe4 18. Bxa7 Ra8 19. Bd4 Nf6 20. O-O Bg7 21. Qf3 Nf5) 15... Ng4 { [%eval 0.37] } 16. Bxa7 { [%eval 0.78] } 16... Ra8 { [%eval 0.66] } 17. h3 { [%eval 0.99] } 17... Rxa7 { [%eval 0.79] } 18. hxg4 { [%eval 0.8] } 18... Bg7?! { [%eval 1.58] } { Inaccuracy. Ra5 was best. } (18... Ra5 19. f5) 19. Qe3? { [%eval 0.52] } { Mistake. f5 was best. } (19. f5 gxf5 20. gxf5 Qg5 21. Qd2 Bf6 22. Qxg5 Bxg5 23. Nb5 Ra5 24. Nxd6+ cxd6 25. a4 Rc5) 19... Ra5 { [%eval 0.77] } 20. f5 { [%eval 0.84] } 20... Bf6 { [%eval 0.92] } 21. a4 { [%eval 0.57] } 21... Bh4+ { [%eval 0.88] } 22. g3 { [%eval 0.85] } 22... Bg5 { [%eval 0.86] } 23. Qf3 { [%eval 1.0] } 23... O-O { [%eval 0.77] } 24. b4 { [%eval 0.67] } 24... Raa8 { [%eval 0.84] } 25. Ra2 { [%eval 0.35] } 25... Ne8 { [%eval 0.41] } 26. Rb2 { [%eval 0.42] } 26... Nf6 { [%eval 0.75] } 27. Be2 { [%eval 0.33] } 27... c6?! { [%eval 1.0] } { Inaccuracy. Rfc8 was best. } (27... Rfc8 28. O-O c6 29. Bd3 cxd5 30. Nxd5 Nxd5 31. exd5 Rc3 32. Kh2 Rxa4 33. d6 Qf6 34. fxg6) 28. dxc6 { [%eval 0.82] } 28... bxc6 { [%eval 0.73] } 29. O-O { [%eval 0.74] } 29... Rad8?! { [%eval 1.49] } { Inaccuracy. Kg7 was best. } (29... Kg7 30. Kg2 Rfd8 31. Rfb1 h5 32. gxh5 Nxh5 33. Rd1 Rxd1 34. Nxd1 Rxa4 35. fxg6 fxg6 36. Qc3) 30. Kg2 { [%eval 1.36] } 30... Rd4 { [%eval 1.21] } 31. b5 { [%eval 1.29] } 31... cxb5 { [%eval 1.45] } 32. axb5 { [%eval 1.45] } 32... Rb8 { [%eval 1.85] } 33. fxg6?? { [%eval 0.22] } { Blunder. b6 was best. } (33. b6) 33... fxg6?? { [%eval 2.09] } { Blunder. hxg6 was best. } (33... hxg6 34. b6) 34. b6 { [%eval 2.3] } 34... Qb7?! { [%eval 3.3] } { Inaccuracy. Rd6 was best. } (34... Rd6) 35. Kh3?! { [%eval 2.41] } { Inaccuracy. Rb5 was best. } (35. Rb5) 35... Rd6? { [%eval 3.86] } { Mistake. Qd7 was best. } (35... Qd7 36. Kg2) 36. Nd5 { [%eval 3.77] } 36... Kg7 { [%eval 4.41] } 37. Rc2?? { [%eval 1.16] } { Blunder. Qc3 was best. } (37. Qc3) 37... Nxd5 { [%eval 1.21] } 38. exd5 { [%eval 1.0] } 38... Rxb6 { [%eval 1.12] } 39. Rc6?! { [%eval 0.45] } { Inaccuracy. Qe4 was best. } (39. Qe4 Qe7) 39... Rxc6?? { [%eval 3.38] } { Blunder. Rc8 was best. } (39... Rc8 40. Rxb6 Qxb6 41. Qf7+ Kh8 42. Ra1 Qc7 43. Qe6 Rd8 44. Ra6 Rf8 45. Qc6 Bd8 46. Qxc7) 40. dxc6 { [%eval 3.46] } 40... Qe7 { [%eval 3.08] } 41. Bc4 { [%eval 3.69] } 41... Kh6 { [%eval 3.69] } 42. Qh1 { [%eval 3.87] } 42... Rb2 { [%eval 3.97] } 43. Rf7 { [%eval 3.85] } 43... Qe8? { [%eval 7.96] } { Mistake. Qc5 was best. } (43... Qc5 44. Bd5 Rc2 45. c7 Qc3 46. Qf3 Qxf3 47. Bxf3 Rc3 48. Bb7 Bf4 49. c8=Q Rxg3+ 50. Kh2) 44. c7 { [%eval 7.05] } 44... Rc2 { [%eval 8.25] } 45. Qb7 { [%eval 7.31] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Winckelmann-Riemer Gambit"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e6 { [%eval 0.13] } 2. d4 { [%eval 0.0] } 2... d5 { [%eval 0.38] } 3. Nc3 { [%eval 0.0] } 3... Bb4 { [%eval 0.21] } 4. a3 { [%eval 0.0] } 4... Bxc3+ { [%eval 0.0] } 5. bxc3 { [%eval 0.0] } 5... dxe4 { [%eval 0.0] } 6. Qg4 { [%eval 0.0] } 6... Nf6 { [%eval 0.0] } 7. Qxg7 { [%eval 0.0] } 7... Rg8 { [%eval 0.0] } 8. Qh6 { [%eval -0.09] } 8... c5 { [%eval 0.0] } 9. Ne2 { [%eval -0.09] } 9... Nbd7?! { [%eval 0.58] } { Inaccuracy. cxd4 was best. } (9... cxd4 10. Bg5) 10. Ng3 { [%eval 0.68] } 10... Rg6 { [%eval 0.88] } 11. Qe3 { [%eval 0.76] } 11... Nd5?! { [%eval 1.74] } { Inaccuracy. Qc7 was best. } (11... Qc7 12. Bd2) 12. Qxe4 { [%eval 1.6] } 12... Nxc3 { [%eval 1.64] } 13. Qd3 { [%eval 1.43] } 13... Nd5 { [%eval 1.48] } 14. Be2 { [%eval 2.09] } 14... Qf6 { [%eval 1.47] } 15. c3 { [%eval 1.54] } 15... cxd4 { [%eval 1.84] } 16. cxd4 { [%eval 1.85] } 16... N7b6?? { [%eval 4.13] } { Blunder. b6 was best. } (16... b6 17. O-O) 17. Bh5 { [%eval 4.0] } 17... Rg7?! { [%eval 5.44] } { Inaccuracy. Nf4 was best. } (17... Nf4 18. Bxf4) 18. Bf3? { [%eval 3.16] } { Mistake. Ne4 was best. } (18. Ne4) 18... Qg6 { [%eval 3.2] } 19. Be4 { [%eval 3.01] } 19... f5 { [%eval 3.05] } 20. Bf3 { [%eval 3.32] } 20... Kf8 { [%eval 2.87] } 21. a4 { [%eval 2.47] } 21... Rc7? { [%eval 4.0] } { Mistake. f4 was best. } (21... f4 22. Qxg6 hxg6 23. Ne2 g5 24. h4 Rh7 25. a5 Nc4 26. Be4 Rh8 27. Rh3 gxh4 28. Nxf4) 22. O-O { [%eval 3.72] } 22... Bd7?! { [%eval 4.71] } { Inaccuracy. Rc3 was best. } (22... Rc3 23. Qd1) 23. Ba3+? { [%eval 2.49] } { Mistake. a5 was best. } (23. a5 Nc4) 23... Kg8 { [%eval 2.69] } 24. a5 { [%eval 2.28] } 24... Rc3 { [%eval 2.61] } 25. Qb1 { [%eval 2.38] } 25... Na4?? { [%eval 5.75] } { Blunder. Rxf3 was best. } (25... Rxf3 26. gxf3 Nc4 27. Rc1 Nxa5 28. Kh1 b5 29. Bd6 Nc4 30. Rxc4 bxc4 31. Qb7 Rd8 32. Rg1) 26. Bxd5 { [%eval 6.17] } 26... exd5 { [%eval 5.84] } 27. Qxb7 { [%eval 5.6] } 27... Qc6 { [%eval 5.8] } 28. a6?? { [%eval 2.85] } { Blunder. Qb4 was best. } (28. Qb4) 28... Nb6?? { [%eval 6.69] } { Blunder. Qxb7 was best. } (28... Qxb7) 29. Bc5 { [%eval 6.58] } 29... f4 { [%eval 6.7] } 30. Nf5 { [%eval 6.37] } 30... Kh8 { [%eval 8.87] } 31. Ne7 { [%eval 8.53] } 31... Qe6 { [%eval 9.72] } 32. Bxb6 { [%eval 8.45] } 32... Bc6 { [%eval 10.2] } 33. Nxc6 { [%eval 9.87] } 33... Rg8 { [%eval 10.46] } 34. Ne5 { [%eval 10.61] } 34... Rg7 { [%eval 10.68] } 35. Qb8+ { [%eval 8.39] } 35... Rc8 { [%eval 8.61] } 36. Ng6+ { [%eval 6.34] } 36... Rxg6 { [%eval 6.35] } 37. Qxf4 { [%eval 6.47] } 37... Qxb6 { [%eval 7.22] } 38. Qe5+ { [%eval 6.38] } 38... Rg7 { [%eval 7.58] } 39. Qxd5 { [%eval 7.17] } 39... Rd8 { [%eval 6.98] } 40. Qe5 { [%eval 6.61] } 40... Qxd4 { [%eval 6.72] } 41. Qxd4 { [%eval 6.64] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D81"]
+[Opening "Grünfeld Defense: Russian Variation, Accelerated Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... g6 { [%eval 0.42] } 3. Nc3 { [%eval 0.17] } 3... d5 { [%eval 0.2] } 4. Qb3 { [%eval 0.0] } 4... dxc4 { [%eval 0.0] } 5. Qxc4 { [%eval 0.0] } 5... Bg7 { [%eval 0.17] } 6. Bf4 { [%eval 0.18] } 6... c6 { [%eval 0.0] } 7. Rd1?! { [%eval -0.86] } { Inaccuracy. Nf3 was best. } (7. Nf3 b5 8. Qd3 b4 9. Na4 Bf5 10. Qb3 Be6 11. Qc2 Bf5) 7... Qa5?! { [%eval -0.21] } { Inaccuracy. b5 was best. } (7... b5 8. Qb3 Be6 9. Qc2 Qa5 10. a3 O-O 11. e4 b4 12. axb4) 8. Bd2?! { [%eval -0.83] } { Inaccuracy. b4 was best. } (8. b4 Qf5 9. e3 Be6 10. Qd3 Qxd3 11. Bxd3 Nd5 12. Nxd5 Bxd5) 8... b5 { [%eval -0.73] } 9. Qb3 { [%eval -0.97] } 9... b4?! { [%eval 0.0] } { Inaccuracy. O-O was best. } (9... O-O) 10. Na4 { [%eval 0.14] } 10... Na6 { [%eval -0.05] } 11. e3 { [%eval 0.28] } 11... Be6 { [%eval 0.72] } 12. Qc2 { [%eval 0.7] } 12... O-O { [%eval 0.98] } 13. b3 { [%eval 0.85] } 13... Rab8 { [%eval 1.11] } 14. Bd3?! { [%eval 0.13] } { Inaccuracy. Nf3 was best. } (14. Nf3 Rfc8 15. e4 c5 16. Bxa6 Qxa6 17. Nxc5 Qb5 18. Bf4 Nd7 19. Bxb8 Nxc5 20. Be5 Nxb3) 14... Rfc8?! { [%eval 0.88] } { Inaccuracy. c5 was best. } (14... c5 15. Bxa6 Qxa6 16. Nxc5 Qc6 17. f3 Nd7 18. Qe4 Qxe4 19. Nxe4 Rfc8 20. Ne2 a5 21. Nf4) 15. Ne2 { [%eval 0.47] } 15... c5 { [%eval 0.41] } 16. Bxa6 { [%eval 0.54] } 16... Qxa6 { [%eval 0.51] } 17. Nxc5 { [%eval 0.41] } 17... Qb5?! { [%eval 0.97] } { Inaccuracy. Qa5 was best. } (17... Qa5) 18. Nf4?? { [%eval -0.84] } { Blunder. e4 was best. } (18. e4 Nd7 19. Be3 a5 20. O-O a4 21. Rd2 Qa5 22. Qb1 Nxc5 23. dxc5 axb3 24. axb3 Qa3) 18... Bg4 { [%eval -0.83] } 19. f3 { [%eval -1.1] } 19... e5 { [%eval -1.02] } 20. Nfd3?! { [%eval -1.75] } { Inaccuracy. dxe5 was best. } (20. dxe5 Rxc5) 20... exd4 { [%eval -1.93] } 21. fxg4 { [%eval -2.19] } 21... dxe3 { [%eval -2.47] } 22. Bxe3? { [%eval -4.31] } { Mistake. Bxb4 was best. } (22. Bxb4 Nd5) 22... Nxg4 { [%eval -4.73] } 23. Bf4 { [%eval -5.12] } 23... Bc3+ { [%eval -4.97] } 24. Rd2 { [%eval -5.37] } 24... Rxc5 { [%eval -5.13] } 25. Nxc5 { [%eval -5.24] } 25... Qxc5? { [%eval -3.25] } { Mistake. Re8+ was best. } (25... Re8+ 26. Kd1) 26. Bxb8 { [%eval -3.1] } 26... Qe7+ { [%eval -3.07] } 27. Kd1 { [%eval -2.99] } 27... Ne3+ { [%eval -3.37] } 28. Kc1 { [%eval -3.22] } 28... Nxc2 { [%eval -3.33] } 29. Rxc2 { [%eval -3.59] } 29... h5 { [%eval -3.24] } 30. Rd1 { [%eval -3.44] } 30... Bg7 { [%eval -3.43] } 31. h3?! { [%eval -4.99] } { Inaccuracy. Bf4 was best. } (31. Bf4 Kh7) 31... a5?! { [%eval -3.85] } { Inaccuracy. Qg5+ was best. } (31... Qg5+ 32. Rdd2 Qe3 33. Rc8+ Kh7 34. Kc2 Bh6 35. Rcd8 a6 36. R8d3 Qc5+ 37. Kb1 Bxd2 38. Rxd2) 32. Bf4 { [%eval -3.36] } 32... Qe4 { [%eval -4.08] } 33. Bc7?! { [%eval -5.24] } { Inaccuracy. Bd6 was best. } (33. Bd6 a4) 33... Qe3+ { [%eval -5.17] } 34. Kb1 { [%eval -5.06] } 34... a4 { [%eval -5.13] } 35. bxa4 { [%eval -5.21] } 35... b3 { [%eval -5.02] } 36. axb3 { [%eval -5.01] } 36... Qxb3+ { [%eval -5.09] } 37. Kc1 { [%eval -5.17] } 37... Bh6+ { [%eval -4.39] } 38. Rdd2 { [%eval -4.42] } 38... Qxa4 { [%eval -3.96] } 39. Be5 { [%eval -3.85] } 39... Kh7 { [%eval -3.95] } 40. Bc3 { [%eval -4.3] } 40... Qb5 { [%eval -4.24] } 41. Bd4 { [%eval -5.18] } 41... Qe2 { [%eval -4.87] } 42. g4 { [%eval -5.82] } 42... Qe1+ { [%eval -5.94] } 43. Kb2 { [%eval -5.54] } 43... Bxd2 { [%eval -5.82] } 44. Rc8 { [%eval -5.96] } 44... Bc1+ { [%eval -6.23] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine-Maróczy Gambit"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e6 { [%eval 0.13] } 2. d4 { [%eval 0.0] } 2... d5 { [%eval 0.38] } 3. Nc3 { [%eval 0.0] } 3... Bb4 { [%eval 0.21] } 4. Ne2 { [%eval 0.1] } 4... dxe4 { [%eval 0.12] } 5. a3 { [%eval 0.2] } 5... Be7 { [%eval 0.4] } 6. Nxe4 { [%eval 0.2] } 6... Nc6 { [%eval 0.43] } 7. Be3 { [%eval 0.56] } 7... Nf6 { [%eval 0.63] } 8. N2c3?! { [%eval -0.14] } { Inaccuracy. Qd3 was best. } (8. Qd3 b6 9. O-O-O Bb7 10. Nf4 O-O 11. Nxf6+ Bxf6 12. d5 Ne5) 8... O-O { [%eval 0.18] } 9. Ng3 { [%eval -0.06] } 9... b6 { [%eval 0.12] } 10. Be2?! { [%eval -0.51] } { Inaccuracy. Qd2 was best. } (10. Qd2) 10... Bb7 { [%eval -0.53] } 11. O-O { [%eval -0.4] } 11... Qd7 { [%eval -0.52] } 12. Qd2 { [%eval -0.37] } 12... Rad8 { [%eval -0.49] } 13. Rfd1 { [%eval -0.6] } 13... Qc8 { [%eval -0.7] } 14. Qe1 { [%eval -0.49] } 14... e5 { [%eval -0.18] } 15. d5 { [%eval -0.2] } 15... Nd4 { [%eval -0.18] } 16. Bxd4 { [%eval -0.23] } 16... exd4 { [%eval -0.12] } 17. Rxd4 { [%eval -0.11] } 17... c5?! { [%eval 0.5] } { Inaccuracy. Bc5 was best. } (17... Bc5 18. Rd3) 18. Ra4 { [%eval 0.0] } 18... Nxd5 { [%eval 0.23] } 19. Bg4 { [%eval 0.24] } 19... Qc7 { [%eval 0.12] } 20. Rxa7 { [%eval 0.42] } 20... Nxc3 { [%eval 0.27] } 21. bxc3 { [%eval 0.31] } 21... Ra8 { [%eval 0.14] } 22. Rxb7 { [%eval 0.31] } 22... Qxb7 { [%eval 0.16] } 23. Bf3 { [%eval 0.22] } 23... Qd7 { [%eval 0.26] } 24. Bxa8 { [%eval 0.17] } 24... Rxa8 { [%eval 0.12] } 25. Qe4 { [%eval 0.07] } 25... Ra4 { [%eval 0.06] } 26. Qe2 { [%eval 0.09] } 26... Bf8 { [%eval 0.12] } 27. h3 { [%eval 0.07] } 27... Qe6 { [%eval 0.35] } 28. Qxe6 { [%eval 0.3] } 28... fxe6 { [%eval 0.17] } 29. Rb1 { [%eval 0.13] } 29... Rxa3 { [%eval 0.5] } 30. Ne4 { [%eval 0.12] } 30... Ra6 { [%eval 0.02] } 31. Kf1 { [%eval 0.0] } 31... Be7 { [%eval 0.1] } 32. Ke2 { [%eval 0.04] } 32... Kf8 { [%eval 0.05] } 33. Ke3 { [%eval 0.07] } 33... Bd8 { [%eval 0.0] } 34. Rd1 { [%eval 0.12] } 34... Ke7 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Schallopp Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. e3 { [%eval 0.24] } 4... Bf5 { [%eval 0.3] } 5. cxd5 { [%eval 0.34] } 5... Nxd5 { [%eval 0.83] } 6. Bc4 { [%eval 0.75] } 6... e6 { [%eval 0.72] } 7. O-O { [%eval 0.74] } 7... Nd7 { [%eval 0.83] } 8. Qe2 { [%eval 1.01] } 8... Bg4 { [%eval 1.11] } 9. h3 { [%eval 0.96] } 9... Bh5 { [%eval 1.17] } 10. e4 { [%eval 1.38] } 10... N5b6 { [%eval 1.09] } 11. Bb3 { [%eval 1.36] } 11... Be7 { [%eval 1.87] } 12. a4 { [%eval 1.36] } 12... O-O { [%eval 1.66] } 13. a5 { [%eval 1.8] } 13... Nc8 { [%eval 1.83] } 14. a6?! { [%eval 1.0] } { Inaccuracy. Nc3 was best. } (14. Nc3 h6 15. Rd1 Re8 16. e5 Bg6 17. Ne4 Bb4 18. g4 Ne7 19. g5 hxg5 20. a6 bxa6) 14... Qb6 { [%eval 1.35] } 15. axb7?! { [%eval 0.71] } { Inaccuracy. Bc2 was best. } (15. Bc2) 15... Qxb7 { [%eval 0.85] } 16. Ba2 { [%eval 0.9] } 16... c5?! { [%eval 1.87] } { Inaccuracy. Ncb6 was best. } (16... Ncb6 17. g4) 17. d5 { [%eval 1.74] } 17... Ne5 { [%eval 1.94] } 18. g4?! { [%eval 1.07] } { Inaccuracy. Nbd2 was best. } (18. Nbd2 f5) 18... Nxf3+ { [%eval 1.47] } 19. Qxf3 { [%eval 1.56] } 19... Bg6 { [%eval 1.37] } 20. Nc3 { [%eval 1.64] } 20... Nb6 { [%eval 1.38] } 21. Qe2?! { [%eval 0.54] } { Inaccuracy. dxe6 was best. } (21. dxe6 fxe6) 21... e5? { [%eval 1.86] } { Mistake. c4 was best. } (21... c4) 22. Be3 { [%eval 1.81] } 22... a6 { [%eval 2.17] } 23. h4?! { [%eval 1.35] } { Inaccuracy. Rfc1 was best. } (23. Rfc1) 23... Bxh4 { [%eval 1.38] } 24. Bxc5 { [%eval 1.06] } 24... Rfc8 { [%eval 1.03] } 25. Be3 { [%eval 1.15] } 25... Be7 { [%eval 1.0] } 26. Rfc1 { [%eval 0.86] } 26... Bd6 { [%eval 0.92] } 27. Nd1 { [%eval 0.59] } 27... Rab8?! { [%eval 1.12] } { Inaccuracy. Rxc1 was best. } (27... Rxc1) 28. Rxc8+ { [%eval 1.25] } 28... Rxc8 { [%eval 0.85] } 29. Bb1 { [%eval 0.98] } 29... Nc4 { [%eval 1.12] } 30. Bd3 { [%eval 0.98] } 30... Nxe3 { [%eval 1.03] } 31. Bxa6?! { [%eval 0.41] } { Inaccuracy. Nxe3 was best. } (31. Nxe3 Bc5) 31... Qa7 { [%eval 0.39] } 32. Qxe3 { [%eval 0.11] } 32... Bc5 { [%eval 0.34] } 33. Qd3 { [%eval 0.08] } 33... Rb8 { [%eval 0.19] } 34. Qe2 { [%eval -0.08] } 34... Qe7 { [%eval -0.1] } 35. Rc1 { [%eval -0.04] } 35... h5 { [%eval -0.38] } 36. Rc3 { [%eval 0.0] } 36... Rb4 { [%eval -0.71] } 37. Bd3 { [%eval -0.7] } 37... Rb8?! { [%eval 0.0] } { Inaccuracy. Ba7 was best. } (37... Ba7) 38. Bb1? { [%eval -1.19] } { Mistake. Qc2 was best. } (38. Qc2 Bd4 39. Rc8+ Rxc8 40. Qxc8+ Kh7 41. gxh5 Qg5+ 42. Kf1 Qxh5 43. Ke1 Qf3 44. Qc4 Bh5) 38... Bd4 { [%eval -1.0] } 39. Rh3? { [%eval -2.22] } { Mistake. Rg3 was best. } (39. Rg3 Qh4) 39... Qg5 { [%eval -2.18] } 40. Kg2 { [%eval -1.64] } 40... hxg4 { [%eval -2.13] } 41. Rg3 { [%eval -2.07] } 41... Bh5 { [%eval -2.06] } 42. Bc2 { [%eval -2.09] } 42... Rb6 { [%eval -1.73] } 43. Ne3 { [%eval -2.58] } 43... Rxb2? { [%eval -0.99] } { Mistake. g6 was best. } (43... g6) 44. Qc4 { [%eval -1.01] } 44... Bxe3 { [%eval -0.79] } 45. Rxe3 { [%eval -0.79] } 45... Rb6 { [%eval -0.75] } 46. Qc8+ { [%eval -1.11] } 46... Kh7 { [%eval -1.07] } 47. Qf5+ { [%eval -1.05] } 47... Qxf5?! { [%eval -0.2] } { Inaccuracy. Kh6 was best. } (47... Kh6 48. Rb3 Ra6 49. Rc3 Bg6 50. Qc8 Rf6 51. Qh8+ Bh7 52. Rc6 Qh4 53. Rxf6+ Qxf6 54. Qc8) 48. exf5 { [%eval -0.4] } 48... f6 { [%eval -0.24] } 49. Rd3 { [%eval -0.43] } 49... Rd6 { [%eval -0.3] } 50. Rd1?? { [%eval -3.01] } { Blunder. Kg3 was best. } (50. Kg3 Bf7 51. Bb3 g6 52. fxg6+ Kxg6 53. Kxg4 f5+ 54. Kg3 f4+ 55. Kg4 Be8 56. Rc3 Kf6) 50... Kh6 { [%eval -2.75] } 51. Kg3 { [%eval -3.31] } 51... Kg5 { [%eval -2.75] } 52. Be4 { [%eval -3.45] } 52... g6?? { [%eval -0.52] } { Blunder. Rd8 was best. } (52... Rd8) 53. fxg6 { [%eval -0.41] } 53... f5 { [%eval -0.27] } 54. g7 { [%eval -0.3] } 54... Bf7 { [%eval -0.36] } 55. Rh1?? { [%eval -2.74] } { Blunder. Rc1 was best. } (55. Rc1 fxe4 56. Rc8 Rg6 57. d6 Rxd6 58. g8=Q+ Bxg8 59. Rxg8+ Rg6 60. Re8 Kf5 61. Rf8+ Rf6) 55... fxe4?? { [%eval 0.0] } { Blunder. Rg6 was best. } (55... Rg6 56. d6) 56. Rh8 { [%eval -0.27] } 56... Rg6 { [%eval 0.0] } 57. d6 { [%eval -0.06] } 57... Rxd6 { [%eval -0.07] } 58. g8=Q+ { [%eval -0.02] } 58... Bxg8 { [%eval -0.34] } 59. Rxg8+ { [%eval -0.05] } 59... Kf5 { [%eval 0.0] } 60. Rf8+ { [%eval 0.0] } 60... Ke6 { [%eval 0.0] } 61. Kxg4 { [%eval 0.0] } 61... Rd3 { [%eval 0.0] } 62. Re8+ { [%eval 0.0] } 62... Kf6 { [%eval -0.04] } 63. f4 { [%eval 0.0] } 63... exf3 { [%eval 0.0] } 64. Rf8+ { [%eval 0.0] } 64... Ke6 { [%eval 0.0] } 65. Rxf3 { [%eval 0.0] } 65... Rd2 { [%eval -0.08] } 66. Rf1 { [%eval 0.0] } 66... Rd3 { [%eval 0.0] } 67. Rf3 { [%eval 0.0] } 67... Rd1 { [%eval 0.0] } 68. Kg3 { [%eval 0.0] } 68... e4 { [%eval 0.0] } 69. Rf8 { [%eval 0.0] } 69... Rd2 { [%eval 0.0] } 70. Re8+ { [%eval 0.0] } 70... Kf5 { [%eval 0.0] } 71. Re7 { [%eval 0.0] } 71... Ra2 { [%eval 0.0] } 72. Re8 { [%eval 0.0] } 72... Rb2 { [%eval 0.0] } 73. Re7 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine-Maróczy Gambit"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e6 { [%eval 0.13] } 2. d4 { [%eval 0.0] } 2... d5 { [%eval 0.38] } 3. Nc3 { [%eval 0.0] } 3... Bb4 { [%eval 0.21] } 4. Ne2 { [%eval 0.1] } 4... dxe4 { [%eval 0.12] } 5. a3 { [%eval 0.2] } 5... Be7 { [%eval 0.4] } 6. Nxe4 { [%eval 0.2] } 6... Nc6 { [%eval 0.43] } 7. g4?! { [%eval -0.49] } { Inaccuracy. Qd3 was best. } (7. Qd3 Nf6 8. Be3 Nd5 9. h4 Rb8 10. Bd2 O-O 11. g3 e5) 7... b6?! { [%eval 0.45] } { Inaccuracy. e5 was best. } (7... e5 8. d5 Nd4 9. Nxd4 Qxd5 10. Bg2 Qxd4 11. Qxd4 exd4 12. Bf4) 8. Bg2 { [%eval 0.51] } 8... Bb7 { [%eval 0.47] } 9. c3?! { [%eval -0.18] } { Inaccuracy. Qd3 was best. } (9. Qd3) 9... Nf6 { [%eval 0.15] } 10. N2g3 { [%eval -0.02] } 10... O-O { [%eval 0.38] } 11. g5?! { [%eval -0.17] } { Inaccuracy. Nxf6+ was best. } (11. Nxf6+ Bxf6 12. O-O Na5 13. Bxb7 Nxb7 14. Nh5 Be7 15. Qe2 Bd6 16. g5 c5 17. Qg4 Qc7) 11... Nxe4 { [%eval -0.58] } 12. Nxe4 { [%eval -0.2] } 12... Kh8?! { [%eval 0.44] } { Inaccuracy. e5 was best. } (12... e5 13. Be3) 13. Qh5 { [%eval 0.37] } 13... Qe8?! { [%eval 1.26] } { Inaccuracy. e5 was best. } (13... e5 14. O-O) 14. Nf6 { [%eval 0.91] } 14... Bxf6 { [%eval 0.73] } 15. gxf6 { [%eval 1.67] } 15... gxf6 { [%eval 0.91] } 16. Qh4 { [%eval 0.87] } 16... Qd8 { [%eval 0.77] } 17. Bf4 { [%eval 1.0] } 17... e5?! { [%eval 1.75] } { Inaccuracy. f5 was best. } (17... f5 18. Qh5) 18. Bg3 { [%eval 1.93] } 18... f5 { [%eval 1.58] } 19. dxe5 { [%eval 1.13] } 19... Rg8 { [%eval 1.07] } 20. Bf3? { [%eval -0.42] } { Mistake. Qh5 was best. } (20. Qh5) 20... Qd3 { [%eval -0.26] } 21. Be2 { [%eval 0.0] } 21... Qe4?? { [%eval 3.72] } { Blunder. Qc2 was best. } (21... Qc2 22. Qf6+ Rg7 23. Rg1 Qxb2 24. e6 Qxa1+ 25. Bd1 Nd4 26. Qxg7+ Kxg7 27. Bh4+ Kh6 28. Bg5+) 22. Qxe4 { [%eval 3.47] } 22... fxe4 { [%eval 3.75] } 23. Bh4? { [%eval 1.94] } { Mistake. O-O-O was best. } (23. O-O-O Rge8) 23... h6?! { [%eval 2.95] } { Inaccuracy. Kg7 was best. } (23... Kg7 24. f4 exf3 25. Bxf3 Na5 26. Bxb7 Nxb7 27. O-O-O Nc5 28. Be7 Rae8 29. Bxc5 bxc5 30. Rd5) 24. O-O-O { [%eval 2.78] } 24... Rae8 { [%eval 3.41] } 25. Bf6+ { [%eval 3.45] } 25... Kh7 { [%eval 3.26] } 26. f4 { [%eval 3.53] } 26... exf3 { [%eval 3.42] } 27. Bxf3 { [%eval 3.33] } 27... Na5 { [%eval 3.53] } 28. Bxb7 { [%eval 3.38] } 28... Nxb7 { [%eval 3.44] } 29. Rd7 { [%eval 3.66] } 29... Nc5 { [%eval 3.22] } 30. Rxf7+ { [%eval 3.27] } 30... Kg6 { [%eval 4.01] } 31. Rxc7 { [%eval 3.59] } 31... Nd3+ { [%eval 4.4] } 32. Kb1 { [%eval 4.3] } 32... Kf5 { [%eval 5.17] } 33. Rd1 { [%eval 4.62] } 33... Nxe5 { [%eval 4.94] } 34. Rf1+ { [%eval 5.16] } 34... Ke4 { [%eval 5.13] } 35. Rxa7 { [%eval 5.07] } 35... Nc4 { [%eval 5.3] } 36. Rd7 { [%eval 5.0] } 36... Ke3 { [%eval 5.49] } 37. Re1+ { [%eval 4.8] } 37... Kf3 { [%eval 4.53] } 38. Rxe8 { [%eval 4.97] } 38... Rxe8 { [%eval 5.07] } 39. Rd4 { [%eval 5.0] } 39... Ne3 { [%eval 5.64] } 40. Rh4 { [%eval 4.93] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Accelerated Meran Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. e3 { [%eval 0.24] } 4... e6 { [%eval 0.35] } 5. Nc3 { [%eval 0.01] } 5... a6 { [%eval 0.2] } 6. c5 { [%eval 0.16] } 6... b6 { [%eval 0.0] } 7. cxb6 { [%eval 0.31] } 7... Nbd7 { [%eval 0.25] } 8. Na4 { [%eval 0.05] } 8... Nxb6 { [%eval 0.23] } 9. Bd2 { [%eval -0.01] } 9... Nxa4 { [%eval 0.02] } 10. Qxa4 { [%eval 0.0] } 10... Qb6? { [%eval 1.51] } { Mistake. Bd7 was best. } (10... Bd7 11. Ne5 Bd6 12. Rc1 c5 13. Nxd7 Qxd7 14. Qxd7+ Nxd7 15. dxc5 Nxc5 16. Be2 a5 17. O-O) 11. Rc1 { [%eval 1.29] } 11... Bd7 { [%eval 1.46] } 12. Ne5 { [%eval 1.62] } 12... Qxb2 { [%eval 1.26] } 13. Nxd7 { [%eval 1.66] } 13... Nxd7?! { [%eval 2.32] } { Inaccuracy. Ne4 was best. } (13... Ne4 14. Nf6+ gxf6 15. Qxc6+ Ke7 16. Rc2 Qb8 17. Bd3 Nxd2 18. Kxd2 f5 19. Rb1 Qxb1 20. Qxa8) 14. Bd3 { [%eval 2.45] } 14... Rb8 { [%eval 2.86] } 15. Ke2 { [%eval 2.97] } 15... Rb6? { [%eval 4.83] } { Mistake. Bb4 was best. } (15... Bb4 16. Rc2) 16. Rb1? { [%eval 2.99] } { Mistake. Rxc6 was best. } (16. Rxc6 Rxc6) 16... Qa3 { [%eval 3.02] } 17. Qxa3 { [%eval 2.76] } 17... Bxa3 { [%eval 2.78] } 18. Rxb6 { [%eval 2.87] } 18... Nxb6 { [%eval 2.73] } 19. Rb1 { [%eval 2.66] } 19... Nd7 { [%eval 2.6] } 20. Bxa6 { [%eval 2.97] } 20... Ke7 { [%eval 2.81] } 21. Rb3 { [%eval 2.66] } 21... Bd6 { [%eval 2.55] } 22. Bb7 { [%eval 2.56] } 22... c5 { [%eval 2.84] } 23. a4 { [%eval 2.82] } 23... Bb8 { [%eval 2.43] } 24. Rb5 { [%eval 2.48] } 24... Ba7?! { [%eval 3.24] } { Inaccuracy. cxd4 was best. } (24... cxd4 25. Bb4+ Bd6 26. a5 Bxb4 27. Rxb4 Kd6 28. exd4 Kc7 29. Rb3 Rb8 30. a6 Nb6 31. Rc3+) 25. dxc5 { [%eval 3.15] } 25... Nxc5 { [%eval 3.22] } 26. Bb4 { [%eval 3.23] } 26... Kd6 { [%eval 3.3] } 27. a5 { [%eval 3.34] } 27... Kc7 { [%eval 3.83] } 28. Bxc5?! { [%eval 2.78] } { Inaccuracy. a6 was best. } (28. a6 Kd6) 28... Bxc5 { [%eval 2.74] } 29. Bxd5 { [%eval 2.65] } 29... Kd6 { [%eval 2.7] } 30. Bb7 { [%eval 2.91] } 30... Ba7 { [%eval 2.96] } 31. a6 { [%eval 2.62] } 31... Rd8 { [%eval 2.79] } 32. Rb2 { [%eval 2.7] } 32... Rd7 { [%eval 2.54] } 33. Rd2+ { [%eval 2.72] } 33... Ke7 { [%eval 2.78] } 34. Rc2 { [%eval 2.56] } 34... Rd6 { [%eval 2.44] } 35. Rc7+ { [%eval 2.55] } 35... Rd7 { [%eval 2.56] } 36. Rc2 { [%eval 2.71] } 36... Rd6 { [%eval 2.86] } 37. f4 { [%eval 2.33] } 37... f5 { [%eval 2.43] } 38. Rc8 { [%eval 2.12] } 38... Rd8 { [%eval 2.54] } 39. Rc7+ { [%eval 2.06] } 39... Rd7 { [%eval 2.26] } 40. Rc3 { [%eval 2.32] } 40... Rd6 { [%eval 2.45] } 41. Rc7+ { [%eval 2.54] } 41... Rd7 { [%eval 2.26] } 42. Rc3 { [%eval 2.31] } 42... Rd6 { [%eval 2.36] } 43. h4 { [%eval 2.43] } 43... g6 { [%eval 2.32] } 44. Rc2 { [%eval 2.49] } 44... h5 { [%eval 2.38] } 45. Rc3?! { [%eval 1.61] } { Inaccuracy. Bc6 was best. } (45. Bc6 Bb6) 45... Rb6 { [%eval 2.14] } 46. Rc7+?! { [%eval 1.54] } { Inaccuracy. Bc8 was best. } (46. Bc8 Kd8) 46... Kd6 { [%eval 1.66] } 47. Rg7 { [%eval 1.75] } 47... Rb2+ { [%eval 2.25] } 48. Kd3 { [%eval 2.18] } 48... Ra2 { [%eval 2.19] } 49. Rxg6 { [%eval 2.72] } 49... Ra3+ { [%eval 2.42] } 50. Kc4 { [%eval 2.09] } 50... Bxe3 { [%eval 2.09] } 51. Bd5 { [%eval 2.64] } 51... Bxf4 { [%eval 2.12] } 52. Rxe6+ { [%eval 2.66] } 52... Kc7 { [%eval 2.16] } 53. Rc6+ { [%eval 2.28] } 53... Kb8 { [%eval 2.28] } 54. Rg6? { [%eval 0.84] } { Mistake. Kb5 was best. } (54. Kb5) 54... Bc7? { [%eval 2.52] } { Mistake. Ra5 was best. } (54... Ra5) 55. Bb7 { [%eval 2.3] } 55... Ka7 { [%eval 2.39] } 56. Rg5 { [%eval 2.35] } 56... Bd8 { [%eval 2.45] } 57. Rxh5 { [%eval 2.42] } 57... Bxh4 { [%eval 2.52] } 58. Rxf5 { [%eval 2.45] } 58... Kb6 { [%eval 2.02] } 59. Rb5+ { [%eval 2.38] } 59... Kc7 { [%eval 2.33] } 60. Rb3 { [%eval 2.6] } 60... Ra5 { [%eval 2.52] } 61. Kd4 { [%eval 2.52] } 61... Bf2+ { [%eval 2.25] } 62. Ke4 { [%eval 2.51] } 62... Kd6 { [%eval 2.75] } 63. Rd3+?! { [%eval 2.07] } { Inaccuracy. Rh3 was best. } (63. Rh3) 63... Ke6?? { [%eval 4.34] } { Blunder. Kc7 was best. } (63... Kc7 64. Rd5 Ra4+ 65. Kf5 Kb6 66. g4 Be3 67. g5 Bxg5 68. Kxg5 Ra1 69. Rd8 Ra5+ 70. Kg6) 64. Bc8+ { [%eval 4.19] } 64... Ke7 { [%eval 4.1] } 65. Rd5 { [%eval 3.94] } 65... Ra4+ { [%eval 4.18] } 66. Kf5 { [%eval 4.28] } 66... Bg3 { [%eval 4.39] } 67. Rd7+ { [%eval 4.51] } 67... Kf8 { [%eval 4.39] } 68. a7 { [%eval 5.11] } 68... Bf2 { [%eval 5.38] } 69. Ba6 { [%eval 6.18] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e6 { [%eval 0.13] } 2. d4 { [%eval 0.0] } 2... d5 { [%eval 0.38] } 3. Nc3 { [%eval 0.0] } 3... Bb4 { [%eval 0.21] } 4. Qg4 { [%eval 0.0] } 4... Nf6 { [%eval 0.0] } 5. Qxg7 { [%eval 0.0] } 5... Rg8 { [%eval -0.17] } 6. Qh6 { [%eval -0.13] } 6... Rg6 { [%eval -0.29] } 7. Qe3 { [%eval -0.53] } 7... Nxe4? { [%eval 0.96] } { Mistake. c5 was best. } (7... c5 8. a3 Ba5 9. Ne2 Nc6 10. exd5 Nxd5 11. Qd3 Nxc3 12. bxc3) 8. Bd3?! { [%eval 0.27] } { Inaccuracy. a3 was best. } (8. a3 Bxc3+ 9. bxc3 c5 10. Ne2 Nc6 11. f3 Nd6 12. Nf4 Rg8) 8... f5 { [%eval 0.58] } 9. Ne2 { [%eval 0.87] } 9... c5 { [%eval 0.9] } 10. Bxe4 { [%eval 0.54] } 10... fxe4 { [%eval 1.1] } 11. Qh3? { [%eval -0.29] } { Mistake. a3 was best. } (11. a3 cxd4) 11... Nc6?? { [%eval 1.94] } { Blunder. cxd4 was best. } (11... cxd4) 12. Qxh7 { [%eval 2.62] } 12... Qf6 { [%eval 2.04] } 13. Nf4 { [%eval 2.15] } 13... cxd4 { [%eval 2.6] } 14. Nxg6 { [%eval 2.37] } 14... dxc3 { [%eval 2.45] } 15. b3 { [%eval 2.57] } 15... Ne7 { [%eval 2.98] } 16. Nxe7 { [%eval 3.06] } 16... Bxe7 { [%eval 3.14] } 17. h4 { [%eval 3.53] } 17... Qf7 { [%eval 3.98] } 18. Qh8+ { [%eval 3.91] } 18... Qf8 { [%eval 3.34] } 19. Qxf8+ { [%eval 3.75] } 19... Kxf8 { [%eval 3.33] } 20. Bg5 { [%eval 3.21] } 20... e5 { [%eval 2.73] } 21. f3 { [%eval 3.25] } 21... exf3 { [%eval 3.48] } 22. gxf3 { [%eval 3.71] } 22... Ba3 { [%eval 3.91] } 23. f4?? { [%eval 0.94] } { Blunder. Rd1 was best. } (23. Rd1) 23... Bf5 { [%eval 1.07] } 24. fxe5 { [%eval 1.13] } 24... Bxc2 { [%eval 0.65] } 25. O-O+ { [%eval 0.69] } 25... Kg8 { [%eval 0.9] } 26. Rac1 { [%eval 0.69] } 26... Bxc1 { [%eval 0.61] } 27. Rxc1 { [%eval 0.66] } 27... Bf5? { [%eval 1.96] } { Mistake. Be4 was best. } (27... Be4) 28. Rxc3 { [%eval 1.87] } 28... Rc8 { [%eval 1.64] } 29. Rf3 { [%eval 1.66] } 29... Rf8? { [%eval 3.05] } { Mistake. Bd7 was best. } (29... Bd7 30. Rf6) 30. Bf6 { [%eval 2.88] } 30... Be4 { [%eval 3.36] } 31. Rg3+ { [%eval 2.94] } 31... Kf7 { [%eval 3.01] } 32. h5?! { [%eval 1.9] } { Inaccuracy. Rg7+ was best. } (32. Rg7+ Ke6 33. Re7+ Kf5 34. h5 Rg8+ 35. Kf1 Rg3 36. h6 Kf4 37. Rg7 Rh3 38. e6 Kf3) 32... Rc8?? { [%eval 4.92] } { Blunder. Ke6 was best. } (32... Ke6 33. h6 Rf7 34. Rg8 Rd7 35. Kf2 d4 36. Ke1 d3 37. Kd2 Rc7 38. Ke3 Bf5 39. Rd8) 33. Rg7+ { [%eval 4.92] } 33... Ke6 { [%eval 4.84] } 34. h6 { [%eval 4.81] } 34... d4 { [%eval 4.95] } 35. h7 { [%eval 4.11] } 35... Rc1+?! { [%eval 5.52] } { Inaccuracy. Bxh7 was best. } (35... Bxh7) 36. Kf2 { [%eval 5.55] } 36... Rc2+ { [%eval 5.71] } 37. Kg3 { [%eval 5.69] } 37... Bxh7 { [%eval 5.55] } 38. Rxh7 { [%eval 5.68] } 38... Rxa2 { [%eval 6.1] } 39. Kf4 { [%eval 6.12] } 39... b5 { [%eval 6.46] } 40. Ke4 { [%eval 5.95] } 40... Re2+ { [%eval 5.86] } 41. Kxd4 { [%eval 5.86] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "10"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Accelerated Meran Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. e3 { [%eval 0.24] } 4... e6 { [%eval 0.35] } 5. Nc3 { [%eval 0.01] } 5... a6 { [%eval 0.2] } 6. c5 { [%eval 0.16] } 6... Nbd7 { [%eval 0.31] } 7. b4 { [%eval 0.13] } 7... a5?! { [%eval 1.14] } { Inaccuracy. b6 was best. } (7... b6 8. Bb2 a5 9. a3 Be7 10. Qc2 O-O 11. Be2 Qc7 12. O-O) 8. b5 { [%eval 0.85] } 8... Ne4?! { [%eval 1.89] } { Inaccuracy. e5 was best. } (8... e5 9. Rb1 Be7 10. Be2 O-O 11. O-O Re8 12. dxe5 Ne4 13. Nxe4 dxe4 14. bxc6 bxc6 15. e6) 9. Nxe4 { [%eval 1.86] } 9... dxe4 { [%eval 2.08] } 10. Nd2 { [%eval 1.89] } 10... f5 { [%eval 2.07] } 11. f3 { [%eval 1.62] } 11... Qh4+ { [%eval 1.73] } 12. g3 { [%eval 1.52] } 12... Qh6 { [%eval 1.7] } 13. Qe2 { [%eval 1.19] } 13... Be7?! { [%eval 1.94] } { Inaccuracy. exf3 was best. } (13... exf3 14. Nxf3 e5 15. e4 f4 16. gxf4 exd4 17. f5 Qf6 18. Bb2 Ne5 19. O-O-O Nxf3 20. Qxf3) 14. Bg2 { [%eval 1.94] } 14... O-O { [%eval 1.76] } 15. O-O { [%eval 1.85] } 15... Nf6 { [%eval 1.74] } 16. Nc4 { [%eval 1.85] } 16... Bd8?! { [%eval 2.57] } { Inaccuracy. Bd7 was best. } (16... Bd7 17. a4) 17. fxe4 { [%eval 2.16] } 17... fxe4?! { [%eval 3.32] } { Inaccuracy. Nxe4 was best. } (17... Nxe4) 18. Nd6?! { [%eval 2.36] } { Inaccuracy. a4 was best. } (18. a4 Bd7) 18... Qg6 { [%eval 2.54] } 19. b6 { [%eval 2.47] } 19... Be7 { [%eval 2.62] } 20. Nc4 { [%eval 2.37] } 20... Qg5 { [%eval 2.65] } 21. Bd2 { [%eval 2.47] } 21... e5 { [%eval 2.9] } 22. Nxe5 { [%eval 2.87] } 22... Be6 { [%eval 2.99] } 23. Rf4 { [%eval 2.55] } 23... Qh6?! { [%eval 3.35] } { Inaccuracy. a4 was best. } (23... a4 24. a3) 24. a3?! { [%eval 2.39] } { Inaccuracy. a4 was best. } (24. a4) 24... g5 { [%eval 2.98] } 25. Rf2 { [%eval 3.04] } 25... Qg7 { [%eval 3.17] } 26. Raf1 { [%eval 3.14] } 26... h5 { [%eval 3.79] } 27. Kh1 { [%eval 3.06] } 27... Qh7 { [%eval 3.06] } 28. Bc3?! { [%eval 2.17] } { Inaccuracy. h3 was best. } (28. h3 Nd5 29. Rxf8+ Bxf8 30. a4 Be7 31. Be1 Kh8 32. Kg1 Kg8 33. Nc4 Nb4 34. Bxb4 axb4) 28... h4?? { [%eval 4.49] } { Blunder. Nd5 was best. } (28... Nd5) 29. gxh4 { [%eval 3.75] } 29... Qxh4? { [%eval 6.39] } { Mistake. Nd5 was best. } (29... Nd5) 30. Ng6 { [%eval 6.65] } 30... Qh7 { [%eval 6.9] } 31. Nxf8 { [%eval 6.06] } 31... Rxf8 { [%eval 6.67] } 32. d5 { [%eval 6.83] } 32... Nxd5 { [%eval 6.81] } 33. Rxf8+ { [%eval 6.94] } 33... Bxf8 { [%eval 6.44] } 34. Bd4 { [%eval 6.38] } 34... Be7 { [%eval 7.25] } 35. Qf2 { [%eval 7.1] } 35... Qh4 { [%eval 7.48] } 36. Qxh4 { [%eval 7.43] } 36... gxh4 { [%eval 7.76] } 37. Bxe4 { [%eval 7.34] } 37... Bd8 { [%eval 8.32] } 38. Bf5 { [%eval 8.4] } 38... Bxf5 { [%eval 8.7] } 39. Rxf5 { [%eval 8.54] } 39... Ne7 { [%eval 8.64] } 40. Rf6 { [%eval 8.61] } 40... Nc8 { [%eval 9.18] } 41. Rxc6 { [%eval 9.22] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "11"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Amsterdam Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. e3 { [%eval 0.24] } 4... Bf5 { [%eval 0.3] } 5. cxd5 { [%eval 0.34] } 5... cxd5 { [%eval 0.32] } 6. Nc3 { [%eval 0.0] } 6... e6 { [%eval -0.09] } 7. Ne5 { [%eval -0.08] } 7... Nfd7 { [%eval 0.0] } 8. Qb3 { [%eval -0.46] } 8... Qc8?! { [%eval 0.34] } { Inaccuracy. Nxe5 was best. } (8... Nxe5) 9. Bd2 { [%eval 0.04] } 9... Nc6 { [%eval -0.08] } 10. Rc1 { [%eval 0.0] } 10... Be7 { [%eval 0.0] } 11. Be2 { [%eval -0.41] } 11... Ndxe5 { [%eval -0.46] } 12. dxe5 { [%eval -0.46] } 12... O-O { [%eval -0.34] } 13. Nb5 { [%eval -0.42] } 13... Qd7 { [%eval 0.0] } 14. O-O { [%eval -0.3] } 14... a6 { [%eval -0.46] } 15. Nd4 { [%eval -0.37] } 15... Nxd4 { [%eval 0.0] } 16. exd4 { [%eval 0.0] } 16... Rac8 { [%eval 0.0] } 17. Bb4 { [%eval -0.17] } 17... Bxb4 { [%eval -0.05] } 18. Qxb4 { [%eval -0.12] } 18... Rc2 { [%eval 0.34] } 19. Rxc2 { [%eval 0.31] } 19... Bxc2 { [%eval 0.37] } 20. Rc1 { [%eval 0.25] } 20... Rc8 { [%eval 0.29] } 21. h3 { [%eval 0.37] } 21... Rc6 { [%eval 0.31] } 22. Qa5 { [%eval 0.27] } 22... h6 { [%eval 0.28] } 23. b4 { [%eval 0.0] } 23... Ba4 { [%eval 0.29] } 24. Rxc6 { [%eval 0.17] } 24... Qxc6 { [%eval 0.13] } 25. Qd8+ { [%eval 0.0] } 25... Qe8 { [%eval 0.39] } 26. Qc7 { [%eval 0.35] } 26... Qc6 { [%eval 0.33] } 27. Qb8+ { [%eval 0.0] } 27... Kh7 { [%eval 0.0] } 28. Bd3+ { [%eval 0.0] } 28... g6 { [%eval 0.0] } 29. Kh2 { [%eval 0.0] } 29... Kg7 { [%eval 0.0] } 30. Qd8 { [%eval 0.0] } 30... Bc2 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "12"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D97"]
+[Opening "Grünfeld Defense: Russian Variation, Hungarian Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... g6 { [%eval 0.42] } 3. Nc3 { [%eval 0.17] } 3... d5 { [%eval 0.2] } 4. Qb3 { [%eval 0.0] } 4... dxc4 { [%eval 0.0] } 5. Qxc4 { [%eval 0.0] } 5... Bg7 { [%eval 0.17] } 6. e4 { [%eval 0.24] } 6... O-O { [%eval 0.1] } 7. Nf3 { [%eval 0.24] } 7... a6 { [%eval 0.2] } 8. Bf4 { [%eval -0.07] } 8... b5 { [%eval -0.12] } 9. Qxc7 { [%eval 0.0] } 9... Qe8?? { [%eval 2.92] } { Blunder. Qxc7 was best. } (9... Qxc7 10. Bxc7 Bb7 11. Bd3 b4 12. Na4 Nxe4 13. O-O Nf6 14. Rac1 Nbd7 15. Ne5 Rfc8 16. Nxd7) 10. Be2? { [%eval 1.57] } { Mistake. e5 was best. } (10. e5 Nh5) 10... Nc6?! { [%eval 2.61] } { Inaccuracy. b4 was best. } (10... b4) 11. d5?! { [%eval 1.62] } { Inaccuracy. e5 was best. } (11. e5) 11... Nb4? { [%eval 2.98] } { Mistake. e5 was best. } (11... e5 12. dxc6 exf4 13. e5 Ng4 14. Nd5 Nxe5 15. O-O Qd8 16. Qxd8 Rxd8 17. Rfd1 Be6 18. Nb6) 12. O-O { [%eval 2.82] } 12... Nxe4?! { [%eval 4.1] } { Inaccuracy. Bg4 was best. } (12... Bg4) 13. Nxe4 { [%eval 3.84] } 13... Nxd5 { [%eval 3.93] } 14. Qc1 { [%eval 3.8] } 14... Bf5 { [%eval 3.73] } 15. Ng3 { [%eval 3.75] } 15... Rc8 { [%eval 3.86] } 16. Qd2 { [%eval 3.58] } 16... Nxf4 { [%eval 3.82] } 17. Qxf4 { [%eval 3.56] } 17... Bc2 { [%eval 3.89] } 18. Qb4 { [%eval 3.56] } 18... Qd8?! { [%eval 4.62] } { Inaccuracy. a5 was best. } (18... a5 19. Qxa5 Bxb2 20. Bxb5 Rc5 21. a4 Bxa1 22. Rxa1 Qd8 23. Qe1 Rd5 24. Nf1 Rd1 25. Qc3) 19. Ne1 { [%eval 4.44] } 19... Ba4 { [%eval 5.07] } 20. Rb1 { [%eval 5.15] } 20... Bd4?! { [%eval 6.75] } { Inaccuracy. a5 was best. } (20... a5 21. Qa3 Bd4 22. Ne4 e5 23. b3 f5 24. Ng5 Qxg5 25. bxa4 Rc3 26. Qd6 b4 27. Nf3) 21. Nf3 { [%eval 6.77] } 21... Bc5 { [%eval 7.63] } 22. Qh4 { [%eval 6.37] } 22... Bc2 { [%eval 7.52] } 23. Rbc1 { [%eval 6.18] } 23... f6 { [%eval 8.08] } 24. Bc4+ { [%eval 7.85] } 24... bxc4 { [%eval 8.12] } 25. Qxc4+ { [%eval 7.8] } 25... Kg7 { [%eval 7.83] } 26. Qxc2 { [%eval 8.16] } 26... Qa5 { [%eval 7.98] } 27. Qe2 { [%eval 8.25] } 27... e5 { [%eval 7.83] } 28. a3 { [%eval 7.08] } 28... Be7 { [%eval 7.55] } 29. Nd4 { [%eval 8.08] } 29... Rxc1 { [%eval 7.69] } 30. Rxc1 { [%eval 8.15] } 30... Kh8 { [%eval 8.6] } 31. Nc6 { [%eval 8.38] } 31... Qc7 { [%eval 8.31] } 32. Qxa6 { [%eval 8.07] } 32... Rc8 { [%eval 9.0] } 33. Nf1 { [%eval 8.92] } 33... Rb8 { [%eval 9.53] } 34. Nxe7 { [%eval 9.36] } 34... Qxe7 { [%eval 8.67] } 35. Rc8+ { [%eval 9.01] } 35... Rxc8 { [%eval 9.34] } 36. Qxc8+ { [%eval 9.15] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "13"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "C83"]
+[Opening "Ruy Lopez: Open, Classical Defense"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.37] } 2... Nc6 { [%eval 0.12] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.22] } 4. Ba4 { [%eval 0.4] } 4... Nf6 { [%eval 0.19] } 5. O-O { [%eval 0.33] } 5... Nxe4 { [%eval 0.41] } 6. d4 { [%eval 0.21] } 6... b5 { [%eval 0.2] } 7. Bb3 { [%eval 0.21] } 7... d5 { [%eval 0.43] } 8. dxe5 { [%eval 0.5] } 8... Be6 { [%eval 0.32] } 9. c3 { [%eval 0.39] } 9... Be7 { [%eval 0.54] } 10. a4?! { [%eval 0.02] } { Inaccuracy. Bc2 was best. } (10. Bc2) 10... b4 { [%eval -0.27] } 11. Nd4 { [%eval -0.03] } 11... Nxe5 { [%eval 0.08] } 12. f4 { [%eval -0.15] } 12... Nc4 { [%eval -0.55] } 13. f5 { [%eval -0.83] } 13... Bc8 { [%eval -0.98] } 14. Qe1?? { [%eval -3.38] } { Blunder. Bxc4 was best. } (14. Bxc4 dxc4) 14... Bb7 { [%eval -3.6] } 15. cxb4 { [%eval -3.18] } 15... c5 { [%eval -3.13] } 16. f6 { [%eval -3.04] } 16... Bxf6 { [%eval -2.99] } 17. Nf5 { [%eval -2.2] } 17... O-O { [%eval -2.51] } 18. bxc5? { [%eval -4.52] } { Mistake. Nc3 was best. } (18. Nc3) 18... Re8 { [%eval -4.77] } 19. Qb4 { [%eval -6.08] } 19... Qc8 { [%eval -5.02] } 20. Bxc4 { [%eval -5.09] } 20... a5 { [%eval -4.76] } 21. Qa3 { [%eval -5.35] } 21... dxc4 { [%eval -5.13] } 22. Nc3?! { [%eval -7.45] } { Inaccuracy. Qh3 was best. } (22. Qh3 g6) 22... Nxc5 { [%eval -7.66] } 23. Be3 { [%eval -7.62] } 23... Qc6 { [%eval -7.52] } 24. Rf3 { [%eval -8.33] } 24... Nd3?! { [%eval -4.98] } { Inaccuracy. Re5 was best. } (24... Re5 25. Nd4 Qd7 26. Ncb5 Nb3 27. Qd6 Qxd6 28. Nxd6 Bxf3 29. Nxf3 Rxe3 30. Re1 Rxe1+ 31. Nxe1) 25. Raf1 { [%eval -6.17] } 25... Rxe3 { [%eval -6.0] } 26. Nxe3 { [%eval -6.07] } 26... Bd4? { [%eval -3.51] } { Mistake. Qe6 was best. } (26... Qe6 27. Kh1 Bxf3 28. Rxf3 Rd8 29. Ncd1 h6 30. Rf1 Rc8 31. h3 h5 32. Rf3 Bd4 33. Qa2) 27. Qe7 { [%eval -3.56] } 27... Ne5 { [%eval -3.7] } 28. Kh1 { [%eval -3.61] } 28... Nxf3 { [%eval -3.9] } 29. Rxf3 { [%eval -3.61] } 29... Rf8 { [%eval -3.57] } 30. h3?! { [%eval -4.9] } { Inaccuracy. Ned5 was best. } (30. Ned5 Bc5 31. Rf1 Bb4 32. Qe3 Re8 33. Qb6 h6 34. Qxc6 Bxc6 35. Nb6 Bxc3 36. bxc3 Re2) 30... Bxe3?? { [%eval -2.16] } { Blunder. Qc8 was best. } (30... Qc8) 31. Qxe3 { [%eval -2.0] } 31... Qe6 { [%eval -1.74] } 32. Rg3 { [%eval -2.01] } 32... Re8 { [%eval -2.21] } 33. Qg5?! { [%eval -3.17] } { Inaccuracy. Qc5 was best. } (33. Qc5 g6) 33... Qe5?? { [%eval -1.09] } { Blunder. g6 was best. } (33... g6) 34. Qxe5 { [%eval -0.94] } 34... Rxe5 { [%eval -1.1] } 35. Rg4 { [%eval -0.82] } 35... Re3?! { [%eval -0.08] } { Inaccuracy. Rc5 was best. } (35... Rc5 36. Rd4 Kf8 37. Kg1 Ke7 38. Kf2 f5 39. h4 g6 40. g4 fxg4 41. Rxg4 Bc8 42. Re4+) 36. Kg1? { [%eval -1.4] } { Mistake. Rxc4 was best. } (36. Rxc4 Kf8 37. Kh2 Re5 38. Rc7 Ba6 39. h4 g6 40. Kg3 Bf1 41. Kf2 Rf5+ 42. Kg3 Bd3) 36... Rd3? { [%eval -0.22] } { Mistake. f5 was best. } (36... f5 37. Rxc4 Rg3 38. Kf1 Rxg2 39. b4 Rb2 40. b5 Bg2+ 41. Ke1 Bxh3 42. Kd1 Bg2 43. Kc1) 37. Rxc4 { [%eval -0.14] } 37... Rd2 { [%eval -0.15] } 38. b4 { [%eval -0.35] } 38... Rxg2+ { [%eval -0.2] } 39. Kf1 { [%eval -0.25] } 39... Rb2 { [%eval -0.19] } 40. Rd4 { [%eval -0.11] } 40... g6 { [%eval -0.25] } 41. bxa5 { [%eval -0.13] } 41... Rc2 { [%eval -0.41] } 42. Nb5 { [%eval -0.12] } 42... Kg7 { [%eval -0.25] } 43. Ke1 { [%eval -0.15] } 43... Rc5 { [%eval -0.18] } 44. Rd6 { [%eval -0.15] } 44... Bc6 { [%eval -0.16] } 45. a6 { [%eval -0.44] } 45... Bxb5 { [%eval -0.28] } 46. a7 { [%eval -0.63] } 46... Bc6 { [%eval -0.41] } 47. Rxc6 { [%eval -0.9] } 47... Ra5 { [%eval -0.63] } 48. Rc7 { [%eval -0.65] } 48... Rxa4 { [%eval -0.56] } 49. Kd2 { [%eval -1.01] } 49... g5 { [%eval -0.34] } 50. Kc3 { [%eval -0.85] } 50... h5 { [%eval -0.2] } 51. Kb3 { [%eval -0.73] } 51... Ra1 { [%eval -0.36] } 52. Kc4?! { [%eval -1.19] } { Inaccuracy. Kb2 was best. } (52. Kb2) 52... g4 { [%eval -0.92] } 53. hxg4 { [%eval -1.28] } 53... hxg4 { [%eval -0.16] } 54. Kd4 { [%eval -0.06] } 54... Kg6 { [%eval -0.07] } 55. Ke5? { [%eval -1.19] } { Mistake. Ke3 was best. } (55. Ke3 Ra4 56. Rc4 Rxa7 57. Rxg4+ Kf5 58. Rg1 Ke5 59. Kf3 Ra3+ 60. Kg2 f5 61. Rc1 Kf4) 55... f6+? { [%eval -0.04] } { Mistake. Ra4 was best. } (55... Ra4 56. Kd5) 56. Kf4 { [%eval -0.07] } 56... Ra4+ { [%eval 0.0] } 57. Kg3 { [%eval 0.0] } 57... f5 { [%eval 0.0] } 58. Kh4 { [%eval 0.0] } 58... Kf6 { [%eval 0.0] } 59. Rb7 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "14"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D82"]
+[Opening "Grünfeld Defense: Brinckmann Attack"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... g6 { [%eval 0.42] } 3. Nc3 { [%eval 0.17] } 3... d5 { [%eval 0.2] } 4. Bf4 { [%eval 0.12] } 4... Nh5?! { [%eval 1.07] } { Inaccuracy. Bg7 was best. } (4... Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8. Bxc7 Na6 9. Bxa6) 5. Be5 { [%eval 0.84] } 5... f6 { [%eval 1.07] } 6. Bg3 { [%eval 0.64] } 6... Nxg3 { [%eval 0.93] } 7. hxg3 { [%eval 0.94] } 7... c6 { [%eval 1.19] } 8. e3 { [%eval 0.96] } 8... Bg7?! { [%eval 1.71] } { Inaccuracy. Be6 was best. } (8... Be6) 9. Bd3 { [%eval 1.48] } 9... O-O? { [%eval 3.0] } { Mistake. dxc4 was best. } (9... dxc4) 10. Rxh7 { [%eval 3.08] } 10... f5 { [%eval 3.19] } 11. Rh1 { [%eval 3.35] } 11... e5 { [%eval 3.12] } 12. dxe5 { [%eval 2.75] } 12... Bxe5 { [%eval 3.02] } 13. Nf3 { [%eval 2.99] } 13... Bxc3+ { [%eval 3.41] } 14. bxc3 { [%eval 3.19] } 14... Qf6 { [%eval 3.57] } 15. cxd5 { [%eval 3.37] } 15... Qxc3+ { [%eval 4.19] } 16. Kf1 { [%eval 3.99] } 16... Qf6 { [%eval 4.85] } 17. Rc1 { [%eval 4.25] } 17... cxd5 { [%eval 4.03] } 18. Rc7 { [%eval 4.26] } 18... Nd7 { [%eval 4.7] } 19. Bb5 { [%eval 4.37] } 19... Qd6?! { [%eval 6.31] } { Inaccuracy. Rf7 was best. } (19... Rf7 20. Ng5 Qxg5 21. Qxd5 Qf6 22. Bxd7 Bxd7 23. Rxd7 Rf8 24. Rh4 Qc6 25. Qe5 Qf6 26. Qxf6) 20. Rc4? { [%eval 3.77] } { Mistake. Qc2 was best. } (20. Qc2) 20... Nf6 { [%eval 3.45] } 21. Rch4 { [%eval 3.72] } 21... Qc5 { [%eval 4.86] } 22. Ba4?! { [%eval 3.36] } { Inaccuracy. Be2 was best. } (22. Be2 Qc3 23. Ng5 b5 24. f4 d4 25. Bf3 Qc4+ 26. Kg1 Rb8 27. Nh7 Nxh7 28. Rxh7 Be6) 22... Qc3? { [%eval 6.87] } { Mistake. Be6 was best. } (22... Be6 23. Qa1) 23. Ng5 { [%eval 6.96] } 23... Kg7 { [%eval 8.96] } 24. Nh7?? { [%eval 1.97] } { Blunder. Rh7+ was best. } (24. Rh7+ Nxh7 25. Rxh7+ Kf6 26. Qxd5 Qa1+ 27. Bd1 Qe5 28. Rf7+ Kxg5 29. Qxe5 Rxf7 30. Qh8 Rh7) 24... Rd8 { [%eval 1.17] } 25. Nxf6 { [%eval 3.0] } 25... Kxf6 { [%eval 2.93] } 26. Rh7 { [%eval 2.93] } 26... Be6 { [%eval 3.47] } 27. R1h6 { [%eval 4.02] } 27... Bf7?! { [%eval 5.3] } { Inaccuracy. Rg8 was best. } (27... Rg8 28. Kg1 Rac8 29. Kh2 Bf7 30. Qh5 Qb4 31. Bd7 Qg4 32. Qxg4 fxg4 33. Bxc8 Rxc8 34. Rh4) 28. Kg1 { [%eval 5.72] } 28... Rg8 { [%eval 4.03] } 29. g4?! { [%eval 3.06] } { Inaccuracy. Rxf7+ was best. } (29. Rxf7+ Kxf7) 29... Rg7 { [%eval 2.81] } 30. gxf5 { [%eval 2.86] } 30... Rxh7 { [%eval 2.93] } 31. Rxh7 { [%eval 2.74] } 31... gxf5 { [%eval 2.82] } 32. Bb3 { [%eval 2.32] } 32... Qe5?! { [%eval 3.31] } { Inaccuracy. Rd8 was best. } (32... Rd8) 33. Qf3 { [%eval 2.63] } 33... Rc8 { [%eval 2.57] } 34. g4 { [%eval 2.54] } 34... Bg6 { [%eval 2.77] } 35. Rxb7 { [%eval 2.56] } 35... Qa1+?? { [%eval 5.87] } { Blunder. d4 was best. } (35... d4 36. gxf5 Be8 37. Rxa7 Rc1+ 38. Kg2 Qb5 39. Ba4 Qf1+ 40. Kg3 Qg1+ 41. Kh3 Qf1+ 42. Qg2) 36. Kg2 { [%eval 6.15] } 36... Rh8?? { [%eval #12] } { Checkmate is now unavoidable. Qe5 was best. } (36... Qe5 37. Bxd5) 37. g5+ { [%eval #11] } 37... Kxg5 { [%eval #11] } 38. Qf4+ { [%eval #10] } 38... Kf6 { [%eval #10] } 39. Qd6+ { [%eval #9] } 39... Kg5 { [%eval #9] } 40. f4+ { [%eval #8] } 40... Kh6 { [%eval #5] } 41. Qe7 { [%eval #4] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "15"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:06"]
+[Variant "Standard"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Bled Attack"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. a4 { [%eval 0.13] } 5... Bf5 { [%eval 0.5] } 6. Nh4 { [%eval 0.0] } 6... Bc8?! { [%eval 0.62] } { Inaccuracy. Bd7 was best. } (6... Bd7 7. e4 e6 8. g3 Qa5 9. Bd2 Bb4 10. Bxc4 c5 11. d5) 7. e3?! { [%eval 0.01] } { Inaccuracy. Nf3 was best. } (7. Nf3 Bf5 8. e3 e6 9. Bxc4 Bb4 10. O-O Nbd7 11. Qe2 Bg6) 7... e5 { [%eval 0.43] } 8. dxe5?! { [%eval -0.47] } { Inaccuracy. Bxc4 was best. } (8. Bxc4 exd4 9. exd4 Qe7+ 10. Kf1 Be6 11. Bxe6 Qxe6 12. Qf3 Na6) 8... Qxd1+ { [%eval -0.61] } 9. Nxd1 { [%eval -0.94] } 9... Bb4+ { [%eval -0.6] } 10. Bd2 { [%eval -0.9] } 10... Bxd2+ { [%eval -0.83] } 11. Kxd2 { [%eval -0.67] } 11... Ne4+ { [%eval -1.03] } 12. Ke1 { [%eval -0.72] } 12... Be6 { [%eval -0.9] } 13. f4 { [%eval -0.78] } 13... Na6 { [%eval -0.62] } 14. Nf2 { [%eval -0.8] } 14... Nxf2 { [%eval -0.7] } 15. Kxf2 { [%eval -0.68] } 15... O-O-O { [%eval -0.64] } 16. Nf3 { [%eval -0.78] } 16... Nc5 { [%eval -0.92] } 17. Be2 { [%eval -0.71] } 17... Nd3+ { [%eval -0.28] } 18. Kg3? { [%eval -1.76] } { Mistake. Bxd3 was best. } (18. Bxd3) 18... Nxb2 { [%eval -1.9] } 19. Nd4 { [%eval -2.1] } 19... Rxd4?? { [%eval -0.46] } { Blunder. Bd5 was best. } (19... Bd5 20. a5) 20. exd4 { [%eval -0.52] } 20... Rd8 { [%eval -0.53] } 21. Kf2? { [%eval -1.83] } { Mistake. Rhb1 was best. } (21. Rhb1) 21... Rxd4 { [%eval -1.65] } 22. Ke3 { [%eval -1.79] } 22... c5 { [%eval -2.0] } 23. Ra3 { [%eval -1.8] } 23... Bf5 { [%eval -1.61] } 24. g4 { [%eval -2.0] } 24... Be4 { [%eval -2.34] } 25. Rf1 { [%eval -2.48] } 25... Bc6? { [%eval -1.18] } { Mistake. Bd3 was best. } (25... Bd3 26. Kf3) 26. a5 { [%eval -1.22] } 26... Nd3 { [%eval -0.93] } 27. Rc3 { [%eval -0.86] } 27... Re4+?! { [%eval 0.0] } { Inaccuracy. b6 was best. } (27... b6 28. Bxd3 cxd3 29. Rf2 d2 30. Rxd2 Re4+ 31. Kf2 Rxf4+ 32. Kg3 Ra4 33. Rcd3 Rxa5 34. Rd8+) 28. Kd2 { [%eval -0.15] } 28... Nxf4 { [%eval 0.0] } 29. Bxc4 { [%eval 0.0] } 29... Rd4+?! { [%eval 0.71] } { Inaccuracy. g5 was best. } (29... g5 30. Re1 Rd4+ 31. Kc2 Ng2 32. Re2 Nf4) 30. Kc2 { [%eval 0.4] } 30... Be4+ { [%eval 0.27] } 31. Kb3 { [%eval 0.56] } 31... g5 { [%eval 0.82] } 32. Bxf7 { [%eval 0.76] } 32... b6 { [%eval 0.82] } 33. Ka3?! { [%eval 0.07] } { Inaccuracy. Re1 was best. } (33. Re1 Kd7 34. Rc4 Bd5 35. Bxd5 Rxd5 36. Rce4 Ke6 37. Kc2 b5 38. h4 Nd3 39. Rf1 Nb4+) 33... Kd7 { [%eval 0.07] } 34. Bb3 { [%eval -0.1] } 34... Kc6? { [%eval 1.37] } { Mistake. Bg6 was best. } (34... Bg6 35. Rd1 Rxd1 36. Bxd1 Ke6 37. Bc2 Nd5 38. Bb3 Kxe5 39. Bxd5 Kxd5 40. Re3 Kd4 41. Re7) 35. Rc4 { [%eval 0.94] } 35... Rxc4 { [%eval 1.12] } 36. Bxc4 { [%eval 0.88] } 36... b5 { [%eval 0.62] } 37. Bf7 { [%eval 0.45] } 37... c4?? { [%eval 2.32] } { Blunder. Bd3 was best. } (37... Bd3 38. Rd1) 38. Kb4?? { [%eval -0.07] } { Blunder. e6 was best. } (38. e6) 38... Nd3+?? { [%eval 2.17] } { Blunder. a6 was best. } (38... a6 39. e6) 39. Kc3 { [%eval 2.11] } 39... Nxe5 { [%eval 2.6] } 40. Be8+ { [%eval 2.74] } 40... Kc5 { [%eval 2.58] } 41. Bxb5 { [%eval 2.48] } 41... Bd3?! { [%eval 3.19] } { Inaccuracy. Kxb5 was best. } (41... Kxb5 42. Re1) 42. Re1 { [%eval 2.93] } 42... Ng6?! { [%eval 4.52] } { Inaccuracy. Nxg4 was best. } (42... Nxg4 43. Ba6 Nxh2 44. Re7 Ng4 45. Rc7+ Kd6 46. Rxa7 Ne3 47. Rg7 h6 48. Bb7 Kc5 49. Re7) 43. Ba6? { [%eval 2.33] } { Mistake. Bd7 was best. } (43. Bd7) 43... Nf4 { [%eval 2.42] } 44. Bb7 { [%eval 2.24] } 44... Ne2+ { [%eval 2.58] } 45. Kd2 { [%eval 2.64] } 45... Nd4 { [%eval 2.92] } 46. Re7 { [%eval 2.66] } 46... Kb4?! { [%eval 3.59] } { Inaccuracy. Nb3+ was best. } (46... Nb3+ 47. Kc3 Kd6 48. Rg7 Nxa5 49. Bc8 h6 50. Bf5 Bxf5 51. gxf5 Ke5 52. Rxa7 Nb3 53. Kxc4) 47. Be4?! { [%eval 2.61] } { Inaccuracy. a6 was best. } (47. a6 Nb3+) 47... Bxe4 { [%eval 2.87] } 48. Rxe4?? { [%eval 0.61] } { Blunder. Ke3 was best. } (48. Ke3 Nc6 49. Rb7+ Kxa5 50. Kxe4 a6 51. Rxh7 Kb4 52. Rh6 Kc5 53. Rh5 c3 54. Rxg5+ Kc4) 48... Nf3+ { [%eval 0.64] } 49. Ke2 { [%eval 0.18] } 49... Nxh2 { [%eval 0.23] } 50. Kf2 { [%eval 0.1] } 50... a6 { [%eval 0.08] } 51. Ke2 { [%eval 0.08] } 51... Kxa5 { [%eval 0.0] } 52. Rxc4 { [%eval 0.04] } 52... Kb5 { [%eval 0.13] } 53. Re4 { [%eval 0.0] } 53... a5 { [%eval 0.0] } 54. Re5+ { [%eval 0.1] } 54... Kb4 { [%eval 0.03] } 55. Rxg5 { [%eval 0.1] } 55... a4 { [%eval 0.1] } 56. Kd3 { [%eval 0.15] } 56... a3 { [%eval 0.0] } 57. Kc2 { [%eval 0.11] } 57... a2 { [%eval 0.1] } 58. Kb2 { [%eval 0.08] } 58... a1=Q+ { [%eval 0.1] } 59. Kxa1 { [%eval 0.15] } 59... Kc3 { [%eval 0.13] } 60. Rg7 { [%eval 0.09] } 60... h6 { [%eval 0.09] } 61. Rg6 { [%eval 0.09] } 61... Kd3 { [%eval 0.08] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "16"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D13"]
+[Opening "Slav Defense: Exchange Variation, Schallopp Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. e3 { [%eval 0.24] } 4... Bf5 { [%eval 0.3] } 5. cxd5 { [%eval 0.34] } 5... cxd5 { [%eval 0.32] } 6. Nc3 { [%eval 0.0] } 6... e6 { [%eval -0.09] } 7. Qb3 { [%eval -0.21] } 7... Qc8 { [%eval 0.0] } 8. Bd2 { [%eval 0.09] } 8... Nc6 { [%eval 0.01] } 9. Rc1 { [%eval 0.31] } 9... Be7 { [%eval 0.12] } 10. Bb5 { [%eval 0.0] } 10... O-O { [%eval 0.24] } 11. O-O { [%eval -0.06] } 11... Qd8 { [%eval -0.12] } 12. Na4 { [%eval -0.25] } 12... Na5 { [%eval 0.21] } 13. Bxa5 { [%eval 0.23] } 13... Qxa5 { [%eval 0.17] } 14. Nc5 { [%eval 0.41] } 14... Bxc5 { [%eval 0.23] } 15. dxc5 { [%eval 0.2] } 15... Ne4?! { [%eval 0.79] } { Inaccuracy. a6 was best. } (15... a6 16. Be2 Nd7 17. Qc3 Qxc3 18. Rxc3 Bg4 19. Rfc1 Bxf3 20. gxf3 Rfc8 21. c6 bxc6 22. Rxc6) 16. Qa4 { [%eval 0.39] } 16... Qxa4 { [%eval 0.58] } 17. Bxa4 { [%eval 0.47] } 17... Rfc8 { [%eval 0.45] } 18. c6 { [%eval 0.53] } 18... bxc6 { [%eval 0.42] } 19. Bxc6 { [%eval 0.0] } 19... Rab8 { [%eval 0.02] } 20. Nd4 { [%eval 0.0] } 20... Rxb2 { [%eval 0.0] } 21. Nxf5 { [%eval 0.0] } 21... exf5 { [%eval 0.04] } 22. Bxd5? { [%eval -1.23] } { Mistake. f3 was best. } (22. f3 Nd2 23. Rfe1 g5 24. Bxd5 Rbc2 25. Rxc2 Rxc2 26. Re2 Rc1+ 27. Kf2 Nc4 28. e4 f4) 22... Nc3 { [%eval -1.23] } 23. Kh1 { [%eval -0.9] } 23... g6 { [%eval -1.08] } 24. Bb3?! { [%eval -1.65] } { Inaccuracy. a3 was best. } (24. a3 g5) 24... Rc5 { [%eval -1.54] } 25. f3 { [%eval -1.67] } 25... a5 { [%eval -1.8] } 26. e4 { [%eval -1.67] } 26... a4 { [%eval -1.58] } 27. Bd5 { [%eval -1.69] } 27... Rbb5 { [%eval -1.73] } 28. h3 { [%eval -1.77] } 28... Kg7 { [%eval -1.49] } 29. Rc2 { [%eval -1.76] } 29... Nxd5 { [%eval -2.15] } 30. Rxc5 { [%eval -1.94] } 30... Rxc5 { [%eval -2.1] } 31. exd5 { [%eval -2.21] } 31... Rxd5 { [%eval -1.79] } 32. Rf2 { [%eval -1.99] } 32... Kf6 { [%eval -1.87] } 33. Re2 { [%eval -2.13] } 33... Re5 { [%eval -1.73] } 34. Rc2 { [%eval -1.62] } 34... Re3 { [%eval -1.49] } 35. Kh2 { [%eval -1.84] } 35... Ra3 { [%eval -1.76] } 36. Kg3 { [%eval -1.59] } 36... Ke5 { [%eval -1.53] } 37. Rd2?! { [%eval -2.2] } { Inaccuracy. Re2+ was best. } (37. Re2+ Kd4) 37... h6?! { [%eval -1.34] } { Inaccuracy. f4+ was best. } (37... f4+ 38. Kh2 f6 39. h4 h5 40. Rb2 Kd5 41. Rb5+ Kc4 42. Rb2 Kc3 43. Rf2 Kb4 44. Rb2+) 38. h4 { [%eval -1.72] } 38... h5 { [%eval -1.78] } 39. Re2+ { [%eval -1.58] } 39... Kd6?! { [%eval -1.0] } { Inaccuracy. Kd4 was best. } (39... Kd4 40. Kf4 Kc3 41. g3 Kc4 42. Rb2 Kd3 43. g4 fxg4 44. fxg4 hxg4 45. Kxg4 Kc4 46. Rg2) 40. Kf4 { [%eval -1.06] } 40... f6 { [%eval -1.12] } 41. Rc2 { [%eval -1.44] } 41... Kd5 { [%eval -1.32] } 42. g3 { [%eval -1.26] } 42... g5+? { [%eval -0.19] } { Mistake. Kd6 was best. } (42... Kd6 43. Re2) 43. hxg5 { [%eval -0.19] } 43... fxg5+ { [%eval -0.05] } 44. Kxg5 { [%eval -0.37] } 44... Rxf3 { [%eval -0.13] } 45. Rg2 { [%eval -0.25] } 45... Kd4 { [%eval -0.04] } 46. Kxh5 { [%eval 0.0] } 46... f4 { [%eval -0.21] } 47. gxf4 { [%eval -0.12] } 47... Rxf4 { [%eval -0.07] } 48. Kg5 { [%eval -0.03] } 48... Re4 { [%eval -0.08] } 49. Kf5 { [%eval -0.06] } 49... Re5+ { [%eval -0.2] } 50. Kf4 { [%eval 0.0] } 50... Re1 { [%eval -0.02] } 51. Kf3 { [%eval -0.05] } 51... Kd3 { [%eval -0.16] } 52. Rb2 { [%eval 0.0] } 52... Rf1+ { [%eval 0.0] } 53. Kg3 { [%eval -0.29] } 53... Kc3 { [%eval -0.04] } 54. Rb7 { [%eval -0.37] } 54... Rc1 { [%eval -0.04] } 55. Rb8 { [%eval -0.44] } 55... Ra1 { [%eval -0.35] } 56. Kf3?? { [%eval -2.35] } { Blunder. Rf8 was best. } (56. Rf8 Rxa2 57. Rf3+ Kb4 58. Rf4+ Kc5 59. Rf5+ Kd6 60. Rf4 Ra3+ 61. Kg2 Ke5 62. Rb4 Ra1) 56... Rxa2 { [%eval -2.54] } 57. Ke3?? { [%eval -5.18] } { Blunder. Rc8+ was best. } (57. Rc8+) 57... Rh2?? { [%eval 0.0] } { Blunder. a3 was best. } (57... a3) 58. Rc8+?? { [%eval -5.35] } { Blunder. Ra8 was best. } (58. Ra8 Rh3+ 59. Ke2 Kb3 60. Kd2 a3 61. Rb8+ Ka2 62. Kc2 Rh5 63. Rc8 Rh2+ 64. Kc1 Rh1+) 58... Kb2 { [%eval -6.82] } 59. Rb8+ { [%eval -5.57] } 59... Kc1 { [%eval -5.4] } 60. Rc8+ { [%eval -5.43] } 60... Kb1 { [%eval -5.51] } 61. Rb8+ { [%eval -5.39] } 61... Rb2 { [%eval -5.56] } 62. Ra8 { [%eval -5.32] } 62... Rb3+ { [%eval -8.26] } 63. Kd4 { [%eval -5.67] } 63... a3 { [%eval -5.57] } 64. Kc4 { [%eval -5.58] } 64... Kb2 { [%eval -5.45] } 65. Rh8 { [%eval -5.57] } 65... Rc3+ { [%eval -8.0] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "17"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System, Anti-Colle"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. Nf3 { [%eval 0.28] } 2... Nf6 { [%eval 0.09] } 3. e3 { [%eval 0.03] } 3... Bf5 { [%eval 0.36] } 4. Bd3 { [%eval 0.1] } 4... e6 { [%eval 0.14] } 5. Bxf5 { [%eval 0.06] } 5... exf5 { [%eval 0.13] } 6. Qd3 { [%eval 0.0] } 6... Qc8 { [%eval 0.14] } 7. b3 { [%eval 0.02] } 7... Na6 { [%eval 0.17] } 8. O-O { [%eval 0.03] } 8... Be7 { [%eval 0.16] } 9. c4 { [%eval 0.29] } 9... O-O { [%eval 0.06] } 10. Nc3 { [%eval 0.04] } 10... c6 { [%eval -0.07] } 11. Bb2 { [%eval -0.03] } 11... Ne4 { [%eval -0.16] } 12. Rfc1 { [%eval -0.06] } 12... Rd8 { [%eval 0.11] } 13. Qe2 { [%eval -0.09] } 13... Qe6 { [%eval -0.11] } 14. a3 { [%eval -0.3] } 14... Nc7 { [%eval -0.29] } 15. c5 { [%eval -0.66] } 15... Re8 { [%eval -0.83] } 16. b4 { [%eval -0.74] } 16... f4 { [%eval -0.3] } 17. exf4 { [%eval -0.34] } 17... Nxc3 { [%eval -0.27] } 18. Qxe6 { [%eval -0.39] } 18... Nxe6 { [%eval -0.45] } 19. Rxc3 { [%eval -0.35] } 19... Nxf4 { [%eval -0.49] } 20. Rb3 { [%eval -0.34] } 20... a6 { [%eval -0.45] } 21. g3 { [%eval -0.42] } 21... Ne6 { [%eval -0.52] } 22. a4 { [%eval -0.6] } 22... Bf6 { [%eval -0.34] } 23. Rd1?! { [%eval -0.91] } { Inaccuracy. h4 was best. } { 1/2-1/2 The game is a draw. } (23. h4) 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "18"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation, Nimzowitsch-Flohr Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. c4 { [%eval 0.23] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.0] } 2... e4 { [%eval 0.0] } 3. Nd4 { [%eval 0.0] } 3... Nc6 { [%eval 0.0] } 4. Nc2 { [%eval -0.27] } 4... Nf6 { [%eval 0.0] } 5. Nc3 { [%eval 0.12] } 5... Bc5 { [%eval 0.14] } 6. b3 { [%eval -0.33] } 6... O-O { [%eval -0.2] } 7. g3?! { [%eval -1.03] } { Inaccuracy. e3 was best. } (7. e3 d5) 7... d5 { [%eval -0.8] } 8. cxd5 { [%eval -0.98] } 8... Nb4?! { [%eval -0.09] } { Inaccuracy. Ng4 was best. } (8... Ng4 9. e3) 9. Nxb4 { [%eval 0.0] } 9... Bxb4 { [%eval -0.17] } 10. Bg2 { [%eval -0.07] } 10... Re8 { [%eval 0.15] } 11. O-O { [%eval -0.25] } 11... Bf5 { [%eval -0.01] } 12. Bb2 { [%eval -0.15] } 12... Nxd5 { [%eval -0.16] } 13. Nxd5 { [%eval 0.05] } 13... Qxd5 { [%eval -0.01] } 14. d3 { [%eval 0.04] } 14... Rad8 { [%eval -0.1] } 15. dxe4 { [%eval 0.17] } 15... Bxe4 { [%eval 0.06] } 16. Qxd5 { [%eval 0.18] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "19"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D16"]
+[Opening "Slav Defense: Soultanbeieff Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. a4 { [%eval 0.13] } 5... e6 { [%eval 0.16] } 6. e4 { [%eval -0.12] } 6... Bb4 { [%eval -0.11] } 7. e5 { [%eval -0.18] } 7... Ne4?! { [%eval 0.48] } { Inaccuracy. Nd5 was best. } (7... Nd5 8. Bd2 b5 9. axb5 Bxc3 10. bxc3 cxb5 11. Ng5 Bb7 12. Qh5) 8. Qc2 { [%eval 1.0] } 8... Qd5 { [%eval 1.49] } 9. Be2 { [%eval 1.07] } 9... c5 { [%eval 0.97] } 10. O-O { [%eval 1.35] } 10... Nxc3 { [%eval 1.42] } 11. bxc3 { [%eval 1.23] } 11... cxd4 { [%eval 1.35] } 12. cxd4?! { [%eval 0.7] } { Inaccuracy. cxb4 was best. } (12. cxb4) 12... c3 { [%eval 0.39] } 13. Bd2 { [%eval 0.37] } 13... Qa5? { [%eval 1.7] } { Mistake. Nc6 was best. } (13... Nc6 14. Bxc3) 14. Bxc3 { [%eval 1.52] } 14... Bxc3 { [%eval 1.66] } 15. Ra3 { [%eval 1.86] } 15... Nc6 { [%eval 1.94] } 16. Rxc3 { [%eval 1.83] } 16... Bd7 { [%eval 2.23] } 17. Rb1 { [%eval 2.02] } 17... O-O?? { [%eval 4.5] } { Blunder. Rb8 was best. } (17... Rb8 18. Rc5) 18. Rc5 { [%eval 3.96] } 18... Qd8?! { [%eval 5.0] } { Inaccuracy. Qc7 was best. } (18... Qc7 19. Ng5) 19. Rxb7 { [%eval 5.12] } 19... Bc8 { [%eval 5.45] } 20. Rb1 { [%eval 5.47] } 20... Nxd4 { [%eval 7.0] } 21. Nxd4 { [%eval 7.03] } 21... Qxd4 { [%eval 6.92] } 22. Bf3 { [%eval 6.92] } 22... Bd7 { [%eval 7.0] } 23. Bxa8 { [%eval 7.03] } 23... Rxa8 { [%eval 6.61] } 24. a5 { [%eval 7.21] } 24... g6 { [%eval 7.4] } 25. Rd1 { [%eval 7.29] } 25... Qb4 { [%eval 7.62] } 26. Qc4 { [%eval 7.21] } 26... Rb8 { [%eval 7.56] } 27. Qxb4 { [%eval 6.76] } 27... Rxb4 { [%eval 6.85] } 28. h3 { [%eval 6.54] } 28... Bb5 { [%eval 6.38] } 29. Rd8+ { [%eval 6.31] } 29... Kg7 { [%eval 6.17] } 30. Rcc8 { [%eval 6.39] } 30... Rb1+ { [%eval 7.37] } 31. Kh2 { [%eval 7.37] } 31... Rb2 { [%eval 7.23] } 32. Kg3 { [%eval 7.39] } 32... Rb3+ { [%eval 7.53] } 33. f3 { [%eval 7.54] } 33... Rb2 { [%eval 7.58] } 34. Rg8+ { [%eval 7.77] } 34... Kh6 { [%eval 8.44] } 35. Rc7 { [%eval 6.61] } 35... Bf1 { [%eval 6.69] } 36. Rxf7?! { [%eval 4.44] } { Inaccuracy. f4 was best. } (36. f4 Kh5 37. Rxf7 h6 38. Rf6 Rc2 39. Rxe6 Rxg2+ 40. Kf3 Rg1 41. Kf2 Bxh3 42. Kxg1 Bxe6) 36... Rxg2+ { [%eval 4.1] } 37. Kf4 { [%eval 3.99] } 37... g5+ { [%eval 4.25] } 38. Ke3 { [%eval 4.36] } 38... Re2+ { [%eval 4.2] } 39. Kd4 { [%eval 4.28] } 39... Rd2+ { [%eval 4.17] } 40. Ke3 { [%eval 4.2] } 40... Re2+ { [%eval 4.15] } 41. Kd4 { [%eval 4.32] } 41... Rd2+ { [%eval 4.31] } 42. Kc3 { [%eval 4.14] } 42... Rd3+ { [%eval 4.22] } 43. Kc2 { [%eval 4.25] } 43... Ra3 { [%eval 4.56] } 44. f4 { [%eval 5.12] } 44... gxf4 { [%eval 4.69] } 45. Rxf4 { [%eval 4.56] } 45... Be2 { [%eval 4.57] } 46. Rf6+ { [%eval 4.82] } 46... Kh5 { [%eval 5.14] } 47. Kd2 { [%eval 5.0] } 47... Bc4 { [%eval 5.08] } 48. Rg7 { [%eval 5.25] } 48... h6 { [%eval 5.23] } 49. Rgg6 { [%eval 5.3] } 49... Rd3+ { [%eval 5.87] } 50. Kc2 { [%eval 6.05] } 50... Rd8 { [%eval 6.53] } 51. Rxh6+ { [%eval 6.53] } 51... Kg5 { [%eval 6.6] } 52. Kc3 { [%eval 6.38] } 52... Bd5 { [%eval 6.4] } 53. Kd4 { [%eval 6.91] } 53... Bh1+ { [%eval 7.39] } 54. Ke3 { [%eval 7.57] } 54... Bd5 { [%eval 9.86] } 55. Rhg6+ { [%eval 10.28] } 55... Kh5 { [%eval #23] } 56. Kf4 { [%eval 78.39] } 56... Rh8 { [%eval 67.09] } 57. h4 { [%eval 11.71] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "20"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Carlsbad Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. a4 { [%eval 0.13] } 5... Bf5 { [%eval 0.5] } 6. Ne5 { [%eval 0.33] } 6... Nbd7 { [%eval 0.17] } 7. Nxc4 { [%eval 0.6] } 7... Qc7 { [%eval 0.45] } 8. g3 { [%eval 0.69] } 8... e5 { [%eval 0.69] } 9. dxe5 { [%eval 0.44] } 9... Nxe5 { [%eval 0.5] } 10. Bf4 { [%eval 0.43] } 10... Nfd7 { [%eval 0.75] } 11. Bg2 { [%eval 0.41] } 11... f6 { [%eval 0.81] } 12. O-O { [%eval 0.78] } 12... Rd8 { [%eval 1.16] } 13. Qc1 { [%eval 0.92] } 13... Qb8? { [%eval 2.1] } { Mistake. Be6 was best. } (13... Be6) 14. Ne4?! { [%eval 1.37] } { Inaccuracy. a5 was best. } (14. a5 a6 15. Rd1 Be7 16. Ne4 O-O 17. Qc3 Be6 18. Ncd6 g5 19. Be3 Nf7 20. Nxf7 Rxf7) 14... Be7 { [%eval 1.26] } 15. Qc3 { [%eval 1.52] } 15... O-O { [%eval 1.43] } 16. Rad1 { [%eval 1.61] } 16... Be6 { [%eval 1.3] } 17. Nxe5 { [%eval 1.51] } 17... Nxe5 { [%eval 1.74] } 18. Ng5 { [%eval 1.72] } 18... fxg5?! { [%eval 2.52] } { Inaccuracy. Qc8 was best. } (18... Qc8) 19. Bxe5 { [%eval 2.52] } 19... Bf6 { [%eval 2.49] } 20. Bxb8 { [%eval 2.46] } 20... Bxc3 { [%eval 2.45] } 21. Bd6 { [%eval 2.48] } 21... Rf7 { [%eval 2.51] } 22. bxc3 { [%eval 2.37] } 22... Rfd7 { [%eval 2.44] } 23. Rb1 { [%eval 2.5] } 23... Rxd6 { [%eval 2.47] } 24. Rxb7 { [%eval 2.38] } 24... R8d7 { [%eval 2.43] } 25. Rxd7 { [%eval 2.6] } 25... Bxd7 { [%eval 2.3] } 26. Be4 { [%eval 2.52] } 26... c5 { [%eval 2.87] } 27. c4? { [%eval 1.26] } { Mistake. Bd3 was best. } (27. Bd3 Rb6 28. a5 Rb2 29. Rb1 Rxb1+ 30. Bxb1 g4 31. f4 gxf3 32. exf3 Kf7 33. Kf2 h6) 27... Bxa4?! { [%eval 2.31] } { Inaccuracy. Be6 was best. } (27... Be6 28. Bd5 Kf7 29. e4 Ra6 30. Ra1 Rb6 31. a5 Rb4 32. Re1 g4 33. f4 gxf3 34. Kf2) 28. Bd5+ { [%eval 1.82] } 28... Kf8 { [%eval 2.14] } 29. Ra1 { [%eval 2.1] } 29... Ra6 { [%eval 1.94] } 30. Ra2 { [%eval 2.75] } 30... Ke7?! { [%eval 4.02] } { Inaccuracy. g4 was best. } (30... g4 31. e4) 31. f4 { [%eval 3.73] } 31... gxf4 { [%eval 4.01] } 32. gxf4 { [%eval 3.65] } 32... Kf6 { [%eval 4.39] } 33. e4?! { [%eval 3.36] } { Inaccuracy. Kf2 was best. } (33. Kf2) 33... g5 { [%eval 4.6] } 34. f5?! { [%eval 3.1] } { Inaccuracy. fxg5+ was best. } (34. fxg5+ Kxg5) 34... h5 { [%eval 3.87] } 35. h4 { [%eval 3.97] } 35... gxh4 { [%eval 3.88] } 36. Kh2 { [%eval 3.74] } 36... Kg5?! { [%eval 5.04] } { Inaccuracy. h3 was best. } (36... h3) 37. Kh3 { [%eval 5.23] } 37... Ra5 { [%eval 5.46] } 38. Bb7 { [%eval 5.04] } 38... Kf6 { [%eval 4.98] } 39. Bd5 { [%eval 5.48] } 39... Kg5 { [%eval 5.61] } 40. Bb7 { [%eval 4.85] } 40... Kf6 { [%eval 4.89] } 41. Bc8 { [%eval 6.64] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "21"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Carlsbad Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. a4 { [%eval 0.13] } 5... Bf5 { [%eval 0.5] } 6. Ne5 { [%eval 0.33] } 6... Nbd7 { [%eval 0.17] } 7. Nxc4 { [%eval 0.6] } 7... Qc7 { [%eval 0.45] } 8. g3 { [%eval 0.25] } 8... e5 { [%eval 0.56] } 9. dxe5 { [%eval 0.5] } 9... Nxe5 { [%eval 0.51] } 10. Bf4 { [%eval 0.43] } 10... Nfd7 { [%eval 0.38] } 11. Bg2 { [%eval 0.69] } 11... Rd8 { [%eval 0.93] } 12. Qc1 { [%eval 0.63] } 12... f6 { [%eval 0.95] } 13. O-O { [%eval 0.95] } 13... Be6 { [%eval 1.05] } 14. Nxe5 { [%eval 0.7] } 14... Nxe5 { [%eval 0.57] } 15. a5 { [%eval 0.82] } 15... a6 { [%eval 0.5] } 16. Ne4 { [%eval 0.07] } 16... Bb4 { [%eval 0.57] } 17. Nc5 { [%eval 0.4] } 17... Bc8 { [%eval 0.23] } 18. Bxe5 { [%eval 0.28] } 18... fxe5 { [%eval 0.5] } 19. f4? { [%eval -0.89] } { Mistake. Qe3 was best. } (19. Qe3) 19... Bd2 { [%eval -0.75] } 20. Qc4 { [%eval -0.82] } 20... Rd4 { [%eval -0.62] } 21. Qb3? { [%eval -1.93] } { Mistake. Qc2 was best. } (21. Qc2 exf4 22. Kh1 Be3 23. Ne4 Be6 24. gxf4 Bxf4 25. e3 Rc4 26. Qe2 Be5 27. Rad1 g6) 21... exf4 { [%eval -2.04] } 22. gxf4 { [%eval -2.05] } 22... Qe7 { [%eval -1.77] } 23. Nd3 { [%eval -1.55] } 23... Be6 { [%eval -1.55] } 24. Qa3?! { [%eval -2.71] } { Inaccuracy. Qc2 was best. } (24. Qc2 Be3+ 25. Kh1 O-O 26. Ra4 Rxa4 27. Qxa4 Re8 28. Qc2 Qd6 29. b4 Bd5 30. Nc5 Bxg2+) 24... Bc4 { [%eval -2.42] } 25. Kh1 { [%eval -2.65] } 25... Qxa3 { [%eval -2.56] } 26. Rxa3 { [%eval -2.82] } 26... O-O { [%eval -2.74] } 27. Ra4 { [%eval -3.04] } 27... Rfd8 { [%eval -2.62] } 28. Ra3 { [%eval -2.94] } 28... Bxd3 { [%eval -3.0] } 29. exd3 { [%eval -2.99] } 29... Rb4 { [%eval -3.02] } 30. Rf2 { [%eval -2.92] } 30... Rxb2 { [%eval -2.64] } 31. Bf1?! { [%eval -4.08] } { Inaccuracy. Be4 was best. } (31. Be4 Rf8 32. Ra4 Rb1+ 33. Kg2 Be3 34. Rf3 Rb2+ 35. Kf1 Ba7 36. h4 Bc5 37. d4 Bd6) 31... Rd4 { [%eval -4.17] } 32. f5 { [%eval -4.96] } 32... Rf4?! { [%eval -3.5] } { Inaccuracy. Rb1 was best. } (32... Rb1 33. Ra2) 33. Rxf4 { [%eval -3.52] } 33... Bxf4 { [%eval -3.5] } 34. h3 { [%eval -4.22] } 34... Bd6 { [%eval -4.41] } 35. Ra1 { [%eval -4.47] } 35... Kf7 { [%eval -3.82] } 36. d4 { [%eval -3.41] } 36... Kf6 { [%eval -3.87] } 37. Re1 { [%eval -3.99] } 37... Bb4 { [%eval -4.37] } 38. Ra1 { [%eval -4.8] } 38... Rd2 { [%eval -4.68] } 39. Bc4 { [%eval -4.66] } 39... Rxd4 { [%eval -4.57] } 40. Be6 { [%eval -5.05] } 40... Rd3?! { [%eval -3.89] } { Inaccuracy. Rd8 was best. } { 0-1 White resigns. } (40... Rd8 41. Rb1 c5 42. h4 g6 43. Rf1 Bxa5 44. Bb3 gxf5 45. Bc2 Ke5 46. Rxf5+ Kd4 47. Rf4+) 0-1
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "22"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "E33"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... e6 { [%eval 0.2] } 2. c4 { [%eval 0.16] } 2... Nf6 { [%eval 0.28] } 3. Nc3 { [%eval 0.05] } 3... Bb4 { [%eval 0.25] } 4. Qc2 { [%eval 0.0] } 4... Nc6 { [%eval 0.47] } 5. Nf3 { [%eval 0.43] } 5... d6 { [%eval 0.7] } 6. Bd2 { [%eval 0.77] } 6... O-O { [%eval 0.86] } 7. a3 { [%eval 0.52] } 7... Bxc3 { [%eval 0.76] } 8. Bxc3 { [%eval 0.56] } 8... Qe7 { [%eval 0.83] } 9. e3 { [%eval 0.75] } 9... e5 { [%eval 0.71] } 10. d5 { [%eval 0.84] } 10... Nb8 { [%eval 0.66] } 11. Bd3 { [%eval 0.51] } 11... Nbd7 { [%eval 0.42] } 12. Ng5 { [%eval 0.26] } 12... g6 { [%eval 0.66] } 13. Ne4?! { [%eval 0.03] } { Inaccuracy. O-O was best. } (13. O-O Nxd5 14. cxd5 Qxg5 15. f4 Qe7 16. b4 c6 17. dxc6 bxc6 18. Rad1 Bb7 19. Qd2 c5) 13... Nxe4 { [%eval -0.08] } 14. Bxe4 { [%eval 0.0] } 14... Nc5 { [%eval 0.07] } 15. O-O { [%eval 0.0] } 15... Nxe4 { [%eval 0.25] } 16. Qxe4 { [%eval 0.43] } 16... Bf5 { [%eval 0.45] } 17. Qf3 { [%eval 0.38] } 17... Qh4 { [%eval 0.69] } 18. Qe2 { [%eval 0.65] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "23"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D15"]
+[Opening "Slav Defense: Alekhine Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... dxc4 { [%eval 0.2] } 5. e3 { [%eval -0.05] } 5... b5 { [%eval 0.0] } 6. a4 { [%eval -0.13] } 6... b4 { [%eval 0.0] } 7. Nb1 { [%eval -0.13] } 7... Ba6 { [%eval 0.0] } 8. Be2 { [%eval -0.07] } 8... e6 { [%eval 0.17] } 9. Ne5?! { [%eval -0.57] } { Inaccuracy. O-O was best. } (9. O-O c5 10. Nbd2 Be7 11. Bxc4 cxd4 12. Nxd4 Bb7 13. Bb5+ Nbd7 14. Bc6 Qc7 15. Bxb7 Qxb7) 9... Be7 { [%eval -0.25] } 10. O-O { [%eval -0.21] } 10... O-O { [%eval -0.3] } 11. Nxc4?! { [%eval -1.32] } { Inaccuracy. Nd2 was best. } (11. Nd2 c5) 11... c5 { [%eval -0.98] } 12. dxc5 { [%eval -1.0] } 12... Nbd7 { [%eval -1.22] } 13. c6 { [%eval -1.09] } 13... Nc5 { [%eval -0.88] } 14. Nbd2?! { [%eval -1.47] } { Inaccuracy. Qc2 was best. } (14. Qc2) 14... Qc7 { [%eval -0.96] } 15. Qc2 { [%eval -0.94] } 15... Rad8 { [%eval -0.84] } 16. Bf3?? { [%eval -2.76] } { Blunder. b3 was best. } (16. b3 Qxc6 17. Na5 Qc8 18. Bb5 Bb7 19. Nxb7 Qxb7 20. Bc4 Nfe4 21. Nxe4 Nxe4 22. Bd3 Nc3) 16... Nd5? { [%eval -1.5] } { Mistake. Rd3 was best. } (16... Rd3 17. Qb1 Rfd8 18. h3 e5 19. Be2 e4 20. b3 R3d5 21. Qc2 Qxc6 22. Rd1 h5 23. Bb2) 17. b3 { [%eval -1.6] } 17... Bf6 { [%eval -1.51] } 18. Bb2 { [%eval -1.74] } 18... Bxb2 { [%eval -1.8] } 19. Qxb2?! { [%eval -2.71] } { Inaccuracy. Nxb2 was best. } (19. Nxb2 Nc3) 19... Qxc6 { [%eval -2.98] } 20. Rfd1 { [%eval -3.48] } 20... Qc7 { [%eval -3.24] } 21. Bxd5 { [%eval -3.71] } 21... Rxd5 { [%eval -3.83] } 22. e4 { [%eval -3.68] } 22... Rd3 { [%eval -4.75] } 23. Qe5 { [%eval -5.08] } 23... Qxe5 { [%eval -5.46] } 24. Nxe5 { [%eval -5.17] } 24... Rxd2 { [%eval -5.35] } 25. Rxd2 { [%eval -5.57] } 25... Nxb3 { [%eval -5.24] } 26. Rad1 { [%eval -5.84] } 26... Nxd2 { [%eval -5.83] } 27. Rxd2 { [%eval -5.94] } 27... Rc8 { [%eval -5.89] } 28. f4 { [%eval -5.62] } 28... f6 { [%eval -4.75] } 29. Nf3 { [%eval -5.39] } 29... Kf8?? { [%eval -2.18] } { Blunder. b3 was best. } (29... b3 30. Nd4) 30. Rb2 { [%eval -2.41] } 30... Rc4? { [%eval -1.25] } { Mistake. Rb8 was best. } (30... Rb8 31. Nd4) 31. Nd2 { [%eval -1.62] } 31... Rd4 { [%eval -1.24] } 32. Nb3 { [%eval -1.37] } 32... Rxe4 { [%eval -1.49] } 33. Nc5 { [%eval -1.12] } 33... Re1+ { [%eval -1.38] } 34. Kf2 { [%eval -2.17] } 34... Rf1+ { [%eval -1.53] } 35. Ke3 { [%eval -1.51] } 35... Bc4 { [%eval -1.64] } 36. Rxb4 { [%eval -1.21] } 36... Bd5 { [%eval -1.56] } 37. Rb8+? { [%eval -3.46] } { Mistake. Rb5 was best. } (37. Rb5 Kg8) 37... Ke7 { [%eval -2.98] } 38. Rg8 { [%eval -3.39] } 38... Kd6? { [%eval -1.7] } { Mistake. Kf7 was best. } (38... Kf7 39. Rd8) 39. Ne4+ { [%eval -1.84] } 39... Bxe4?? { [%eval -0.17] } { Blunder. Ke7 was best. } (39... Ke7 40. Ng3) 40. Kxe4 { [%eval -0.23] } 40... Ra1 { [%eval -0.18] } 41. Rxg7 { [%eval -0.06] } 41... Rxa4+ { [%eval -0.07] } 42. Kf3 { [%eval -0.2] } 42... h5 { [%eval -0.03] } 43. Rf7 { [%eval -0.18] } 43... Ra3+ { [%eval -0.16] } 44. Kf2 { [%eval -0.25] } 44... f5 { [%eval -0.25] } 45. Rh7 { [%eval -0.13] } 45... Kd5 { [%eval -0.31] } 46. Rxh5 { [%eval -0.12] } 46... Ke4 { [%eval -0.1] } 47. Rh6 { [%eval -0.16] } 47... Ra6 { [%eval -0.14] } 48. Kg3 { [%eval -0.15] } 48... Rd6 { [%eval -0.17] } 49. Rh7 { [%eval -0.1] } 49... Rd3+ { [%eval -0.18] } 50. Kf2 { [%eval -0.11] } 50... Kxf4 { [%eval 0.0] } 51. Rxa7 { [%eval -0.04] } 51... Rd2+ { [%eval -0.05] } 52. Kf1 { [%eval -0.04] } 52... e5 { [%eval -0.09] } 53. Rg7 { [%eval -0.11] } 53... Ke3 { [%eval -0.14] } 54. Rg3+ { [%eval -0.25] } 54... Kd4 { [%eval -0.25] } 55. h4 { [%eval -0.13] } 55... e4 { [%eval -0.16] } 56. h5 { [%eval -0.13] } 56... Rd1+ { [%eval -0.1] } 57. Kf2 { [%eval -0.15] } 57... Rh1 { [%eval -0.22] } 58. Rg5 { [%eval -0.06] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "24"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "A90"]
+[Opening "Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... e6 { [%eval 0.2] } 2. c4 { [%eval 0.16] } 2... f5 { [%eval 0.62] } 3. g3 { [%eval 0.66] } 3... Bb4+ { [%eval 0.67] } 4. Bd2 { [%eval 0.64] } 4... Be7 { [%eval 0.69] } 5. Bg2 { [%eval 0.63] } 5... Nf6 { [%eval 0.66] } 6. Nc3 { [%eval 0.51] } 6... O-O { [%eval 0.62] } 7. Nf3 { [%eval 0.56] } 7... Ne4 { [%eval 0.77] } 8. O-O { [%eval 0.75] } 8... Bf6 { [%eval 1.19] } 9. Nxe4 { [%eval 0.86] } 9... fxe4 { [%eval 0.69] } 10. Ne1 { [%eval 0.83] } 10... Bxd4 { [%eval 1.3] } 11. Bxe4 { [%eval 1.49] } 11... Bxb2 { [%eval 1.17] } 12. Bxh7+?! { [%eval 0.46] } { Inaccuracy. Rb1 was best. } (12. Rb1 Bf6) 12... Kxh7 { [%eval 0.35] } 13. Qc2+ { [%eval 0.25] } 13... Kg8 { [%eval 0.52] } 14. Qxb2 { [%eval 0.48] } 14... Nc6 { [%eval 0.79] } 15. Nf3 { [%eval 0.69] } 15... d6?! { [%eval 1.45] } { Inaccuracy. Qf6 was best. } (15... Qf6 16. Bc3) 16. c5? { [%eval 0.33] } { Mistake. Ng5 was best. } (16. Ng5) 16... dxc5 { [%eval 0.3] } 17. Bc3 { [%eval 0.56] } 17... Qe7 { [%eval 0.51] } 18. Rad1 { [%eval 0.07] } 18... b6 { [%eval 0.27] } 19. Qc2 { [%eval -0.04] } 19... Bb7?! { [%eval 0.63] } { Inaccuracy. e5 was best. } (19... e5 20. Qe4 Bb7 21. Qd5+ Qf7 22. Qxf7+ Rxf7 23. Nxe5 Nxe5 24. Bxe5 Re8 25. f4 b5 26. a3) 20. Qg6 { [%eval 0.15] } 20... Qf7 { [%eval 0.18] } 21. Qg5 { [%eval -0.3] } 21... Rad8 { [%eval -0.24] } 22. h4? { [%eval -1.66] } { Mistake. Rxd8 was best. } (22. Rxd8) 22... Rxd1 { [%eval -1.69] } 23. Rxd1 { [%eval -1.98] } 23... Nd4? { [%eval -0.81] } { Mistake. e5 was best. } (23... e5 24. Bxe5 Nxe5 25. Qxe5 Bxf3 26. exf3 Qxf3 27. Qe1 Qc6 28. h5 Re8 29. Qc3 Qe6 30. Qd2) 24. Bxd4 { [%eval -1.02] } 24... cxd4 { [%eval -1.02] } 25. Rxd4 { [%eval -0.97] } 25... Bxf3 { [%eval -1.12] } 26. Rf4?! { [%eval -1.84] } { Inaccuracy. exf3 was best. } (26. exf3 Qxf3) 26... Qh5 { [%eval -2.16] } 27. Rxf8+ { [%eval -2.31] } 27... Kxf8 { [%eval -2.41] } 28. Qf4+ { [%eval -2.62] } 28... Qf7 { [%eval -2.52] } 29. Qxf3 { [%eval -2.68] } 29... Qxf3 { [%eval -2.84] } 30. exf3 { [%eval -2.81] } 30... e5 { [%eval -2.68] } 31. Kf1 { [%eval -2.96] } 31... b5 { [%eval -2.83] } 32. Ke2 { [%eval -2.98] } 32... c5?? { [%eval -0.35] } { Blunder. a5 was best. } (32... a5 33. Kd1 b4 34. a3 c5 35. Kc2 a4 36. g4 Kf7 37. Kb1 Kf6 38. Ka2 Ke6 39. Ka1) 33. Ke3 { [%eval -0.25] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "25"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D52"]
+[Opening "Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... c6 { [%eval 0.28] } 3. Nf3 { [%eval 0.33] } 3... Nf6 { [%eval 0.36] } 4. Nc3 { [%eval 0.2] } 4... e6 { [%eval 0.26] } 5. Bg5 { [%eval 0.0] } 5... Nbd7 { [%eval 0.34] } 6. e3 { [%eval 0.31] } 6... Qa5 { [%eval 0.22] } 7. cxd5 { [%eval 0.28] } 7... Nxd5 { [%eval 0.25] } 8. Qd2 { [%eval 0.35] } 8... N7b6 { [%eval 0.43] } 9. Bd3 { [%eval 0.56] } 9... Nxc3 { [%eval 0.4] } 10. bxc3 { [%eval 0.39] } 10... Nd5 { [%eval 0.88] } 11. Rc1 { [%eval 0.38] } 11... Nxc3 { [%eval 0.59] } 12. O-O { [%eval 0.22] } 12... Bb4 { [%eval 0.33] } 13. a3 { [%eval -0.01] } 13... Qxa3 { [%eval 0.25] } 14. Ra1 { [%eval 0.01] } 14... Qb3 { [%eval 0.0] } 15. Bc2? { [%eval -1.46] } { Mistake. Ne5 was best. } (15. Ne5 Ne4 16. Qe2 Nxg5 17. Rfb1 Qd5 18. Rxb4 O-O 19. h4 Ne4 20. Qc2 Nf6 21. g4 c5) 15... Qd5 { [%eval -1.26] } 16. e4 { [%eval -1.12] } 16... Nxe4 { [%eval -0.81] } 17. Qxb4 { [%eval -0.9] } 17... Nxg5 { [%eval -1.13] } 18. Ne5?! { [%eval -1.68] } { Inaccuracy. Nd2 was best. } (18. Nd2 a5) 18... a5 { [%eval -1.82] } 19. Qa3 { [%eval -2.04] } 19... f6 { [%eval -1.78] } 20. Bg6+?? { [%eval -8.22] } { Blunder. Bb3 was best. } (20. Bb3) 20... hxg6 { [%eval -7.92] } 21. Nxg6 { [%eval -8.53] } 21... Nf3+ { [%eval -8.38] } 22. Qxf3 { [%eval -8.2] } 22... Qxf3 { [%eval -8.21] } 23. gxf3 { [%eval -8.38] } 23... Rh5 { [%eval -8.12] } 24. Nf4 { [%eval -8.38] } 24... Rf5 { [%eval -7.97] } 25. Nd3 { [%eval -8.3] } 25... Rxf3 { [%eval -7.73] } 26. Nc5 { [%eval -8.16] } 26... b6 { [%eval -7.64] } 27. Kg2 { [%eval -8.14] } 27... Rf4 { [%eval -8.3] } 28. Nb3 { [%eval -8.91] } 28... e5 { [%eval -8.49] } 29. dxe5 { [%eval -7.96] } 29... Be6 { [%eval -8.51] } 30. Nc1 { [%eval -8.14] } 30... O-O-O { [%eval -8.36] } 31. exf6 { [%eval -8.21] } 31... Rg4+ { [%eval -8.22] } 32. Kf3 { [%eval -8.37] } 32... Rf8 { [%eval -7.61] } 33. Ke3 { [%eval -7.69] } 33... Rxf6 { [%eval -7.69] } 34. f4 { [%eval -7.62] } 34... g5 { [%eval -6.92] } 35. Nd3 { [%eval -7.15] } 35... Bc4 { [%eval -7.12] } 36. f5 { [%eval -7.63] } 36... Rh4 { [%eval -7.75] } 37. Rad1 { [%eval -7.18] } 37... Rxh2 { [%eval -7.51] } 38. Ke4 { [%eval -7.96] } 38... Re2+ { [%eval -7.44] } 39. Kf3 { [%eval -7.59] } 39... Re8 { [%eval -6.72] } 40. Kg4 { [%eval -6.75] } 40... Rd8 { [%eval -6.77] } 41. Ne5 { [%eval -7.02] } 41... Rxd1 { [%eval -7.56] } 42. Rxd1 { [%eval -7.37] } 42... Be2+ { [%eval -7.47] } 43. Kxg5 { [%eval -7.45] } 43... Rxf5+ { [%eval -7.19] } 44. Kxf5 { [%eval -7.66] } 44... Bxd1 { [%eval -7.56] } 45. Nxc6 { [%eval -8.06] } 45... a4 { [%eval -8.18] } { 0-1 White resigns. } 0-1
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "26"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "A90"]
+[Opening "Dutch Defense: Nimzo-Dutch Variation, Alekhine Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... e6 { [%eval 0.2] } 2. c4 { [%eval 0.16] } 2... f5 { [%eval 0.62] } 3. g3 { [%eval 0.66] } 3... Bb4+ { [%eval 0.67] } 4. Bd2 { [%eval 0.64] } 4... Be7 { [%eval 0.69] } 5. Bg2 { [%eval 0.63] } 5... Nf6 { [%eval 0.66] } 6. Nc3 { [%eval 0.51] } 6... O-O { [%eval 0.62] } 7. Nf3 { [%eval 0.56] } 7... Ne4 { [%eval 0.77] } 8. O-O { [%eval 0.86] } 8... b6?! { [%eval 1.8] } { Inaccuracy. Nxd2 was best. } (8... Nxd2 9. Qxd2) 9. Qc2 { [%eval 1.73] } 9... Bb7 { [%eval 1.48] } 10. Ne5?! { [%eval 0.7] } { Inaccuracy. d5 was best. } (10. d5 Nxd2 11. Nxd2 Bf6 12. Rfe1 Na6 13. a3 Bxc3 14. Qxc3 Qf6 15. Qxf6 Rxf6 16. f4 exd5) 10... Nxc3 { [%eval 0.75] } 11. Bxc3 { [%eval 0.81] } 11... Bxg2 { [%eval 0.87] } 12. Kxg2 { [%eval 0.8] } 12... Qc8 { [%eval 0.95] } 13. d5 { [%eval 0.46] } 13... d6 { [%eval 0.54] } 14. Nd3 { [%eval 0.52] } 14... e5 { [%eval 0.25] } 15. Kh1 { [%eval 0.17] } 15... c6 { [%eval 0.35] } 16. Qb3 { [%eval 0.02] } 16... Kh8 { [%eval 0.47] } 17. f4 { [%eval 0.39] } 17... e4 { [%eval 0.29] } 18. Nb4 { [%eval 0.22] } 18... c5 { [%eval 0.27] } 19. Nc2 { [%eval 0.25] } 19... Nd7 { [%eval 0.16] } 20. Ne3 { [%eval 0.29] } 20... Bf6 { [%eval 0.25] } 21. Nxf5 { [%eval 0.08] } 21... Bxc3 { [%eval 0.23] } 22. Nxd6 { [%eval 0.33] } 22... Qb8 { [%eval 0.0] } 23. Nxe4 { [%eval 0.17] } 23... Bf6 { [%eval -0.16] } 24. Nd2 { [%eval 0.17] } 24... g5?! { [%eval 0.89] } { Inaccuracy. b5 was best. } (24... b5 25. e4) 25. e4 { [%eval 0.96] } 25... gxf4 { [%eval 1.14] } 26. gxf4 { [%eval 1.28] } 26... Bd4 { [%eval 1.24] } 27. e5 { [%eval 1.36] } 27... Qe8 { [%eval 1.73] } 28. e6 { [%eval 1.25] } 28... Rg8 { [%eval 1.21] } 29. Nf3 { [%eval 1.3] } 29... Qg6 { [%eval 0.78] } 30. Rg1?! { [%eval 0.1] } { Inaccuracy. Ng5 was best. } (30. Ng5 Ne5 31. d6 Rg7 32. Rae1 Nd3 33. Rd1 Nxf4 34. Qf3 Qxg5 35. Qxa8+ Rg8 36. Qe4 Nxe6) 30... Bxg1 { [%eval 0.11] } 31. Rxg1 { [%eval 0.0] } 31... Qf6? { [%eval 1.11] } { Mistake. Qf5 was best. } (31... Qf5 32. exd7 Rxg1+ 33. Kxg1 Qxd7 34. Kf2 Qf7 35. Qc3+ Kg8 36. Qe5 Rf8 37. Kg3 h6 38. Qe4) 32. Ng5 { [%eval 0.48] } 32... Rg7?! { [%eval 1.34] } { Inaccuracy. Rg6 was best. } (32... Rg6) 33. exd7 { [%eval 1.18] } 33... Rxd7 { [%eval 1.06] } 34. Qe3 { [%eval 1.04] } 34... Re7 { [%eval 1.74] } 35. Ne6 { [%eval 1.35] } 35... Rf8?! { [%eval 2.29] } { Inaccuracy. Rae8 was best. } (35... Rae8 36. b3) 36. Qe5? { [%eval 0.8] } { Mistake. b3 was best. } (36. b3 Rfe8 37. Qg3 a6 38. a4 b5 39. cxb5 axb5 40. axb5 Rd7 41. Qg2 Rb7 42. Qc2 Rg8) 36... Qxe5 { [%eval 1.0] } 37. fxe5 { [%eval 1.11] } 37... Rf5?! { [%eval 2.18] } { Inaccuracy. Rxe6 was best. } (37... Rxe6 38. dxe6 Rf5 39. Re1 Kg7 40. b3 Kf8 41. Rd1 Rxe5 42. Rd8+ Ke7 43. Rd7+ Kxe6 44. Rxa7) 38. Re1? { [%eval 0.76] } { Mistake. Rg5 was best. } (38. Rg5 Rf2 39. h4 h6 40. Rg2 Rf5 41. Re2 Kg8 42. Kg1 a6 43. b3 b5 44. a4 Kf7) 38... h6?? { [%eval 5.32] } { Blunder. Rxe6 was best. } (38... Rxe6 39. dxe6) 39. Nd8 { [%eval 4.22] } 39... Rf2 { [%eval 4.03] } 40. e6 { [%eval 4.87] } 40... Rd2 { [%eval 5.15] } 41. Nc6 { [%eval 4.17] } 41... Re8 { [%eval 4.85] } 42. e7 { [%eval 4.9] } 42... b5 { [%eval 4.96] } 43. Nd8 { [%eval 6.33] } 43... Kg7 { [%eval 5.77] } 44. Nb7 { [%eval 6.5] } 44... Kf6 { [%eval 7.49] } 45. Re6+ { [%eval 7.6] } 45... Kg5 { [%eval 7.61] } 46. Nd6 { [%eval 7.69] } 46... Rxe7 { [%eval 7.62] } 47. Ne4+ { [%eval 7.0] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "27"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "C27"]
+[Opening "Vienna Game: Stanley Variation, Alekhine Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nc3 { [%eval 0.13] } 2... Nf6 { [%eval 0.13] } 3. Bc4 { [%eval 0.08] } 3... Nxe4 { [%eval 0.17] } 4. Qh5 { [%eval 0.27] } 4... Nd6 { [%eval 0.23] } 5. Bb3 { [%eval 0.0] } 5... Be7 { [%eval 0.0] } 6. Nf3 { [%eval -0.09] } 6... Nc6 { [%eval -0.22] } 7. Nxe5 { [%eval -0.13] } 7... Nxe5?! { [%eval 0.51] } { Inaccuracy. g6 was best. } (7... g6 8. Nxc6 dxc6 9. Qf3 O-O 10. O-O Nf5 11. d3 Nd4 12. Qd1) 8. Qxe5 { [%eval 0.3] } 8... O-O { [%eval 0.6] } 9. Nd5 { [%eval 0.75] } 9... Re8 { [%eval 0.5] } 10. O-O { [%eval 0.62] } 10... Bf8 { [%eval 0.75] } 11. Qf4 { [%eval 0.63] } 11... c6 { [%eval 0.87] } 12. Ne3 { [%eval 0.81] } 12... Qa5 { [%eval 0.75] } 13. d4?! { [%eval 0.19] } { Inaccuracy. d3 was best. } (13. d3 b6 14. a4 Qh5 15. h4 Bb7 16. Bd2 Qe5 17. Qxe5 Rxe5 18. c4 a5 19. Bc3 Re7) 13... Qh5 { [%eval 0.44] } 14. c3 { [%eval 0.57] } 14... Ne4 { [%eval 0.91] } 15. f3 { [%eval 0.78] } 15... Ng5 { [%eval 1.21] } 16. d5 { [%eval 1.12] } 16... cxd5 { [%eval 1.32] } 17. Nxd5 { [%eval 1.6] } 17... Ne6 { [%eval 1.29] } 18. Qg4? { [%eval 0.05] } { Mistake. Qg3 was best. } (18. Qg3) 18... Qg6?! { [%eval 0.86] } { Inaccuracy. Qxg4 was best. } (18... Qxg4 19. fxg4 b6 20. Be3 Ba6 21. Rf5 Rac8 22. Re1 Bd3 23. Rf3 Bg6 24. Bf2 Nc5 25. Rfe3) 19. Be3 { [%eval 1.07] } 19... b6 { [%eval 1.08] } 20. Rad1 { [%eval 0.6] } 20... Bb7 { [%eval 0.92] } 21. Qxg6 { [%eval 0.96] } 21... hxg6 { [%eval 0.97] } 22. Rfe1 { [%eval 0.91] } 22... Rac8 { [%eval 0.82] } 23. Kf2 { [%eval 0.64] } 23... Bc5?! { [%eval 1.25] } { Inaccuracy. Nc5 was best. } (23... Nc5) 24. Bxc5 { [%eval 0.87] } 24... Bxd5?! { [%eval 1.63] } { Inaccuracy. Rxc5 was best. } (24... Rxc5) 25. Bxd5?! { [%eval 0.85] } { Inaccuracy. Ba3 was best. } (25. Ba3 Bxb3 26. axb3 Rc7 27. Rd5 f6 28. Red1 Rd8 29. Be7 Re8 30. Bd6 Rb7 31. h4 Kf7) 25... Nxc5?! { [%eval 1.56] } { Inaccuracy. Rxc5 was best. } (25... Rxc5 26. Bxe6 dxe6 27. Rd7 Ra5 28. a3 Kf8 29. Red1 Re7 30. Rd8+ Re8 31. h4 g5 32. h5) 26. Rxe8+ { [%eval 1.3] } 26... Rxe8 { [%eval 1.3] } 27. b4 { [%eval 1.0] } 27... Ne6 { [%eval 1.06] } 28. Bxe6 { [%eval 1.37] } 28... dxe6 { [%eval 1.17] } 29. Rd7 { [%eval 1.08] } 29... Rc8 { [%eval 1.3] } 30. Rxa7 { [%eval 0.87] } 30... Rxc3 { [%eval 1.37] } 31. Ra8+?! { [%eval 0.61] } { Inaccuracy. a4 was best. } (31. a4 Rc2+ 32. Ke3 Rxg2 33. Ra6 Ra2 34. h4 f5 35. Kd4 Ra3 36. b5 Rxf3 37. Rxb6 Rf4+) 31... Kh7 { [%eval 0.64] } 32. a4 { [%eval 0.71] } 32... Rb3?! { [%eval 1.49] } { Inaccuracy. Rc2+ was best. } (32... Rc2+ 33. Kf1) 33. b5 { [%eval 1.39] } 33... g5?! { [%eval 2.0] } { Inaccuracy. Rb2+ was best. } (33... Rb2+ 34. Ke3) 34. Ke2? { [%eval 0.45] } { Mistake. Ra6 was best. } (34. Ra6 Ra3) 34... e5?? { [%eval 2.76] } { Blunder. Rb2+ was best. } (34... Rb2+) 35. Kd2 { [%eval 2.9] } 35... f6?! { [%eval 3.91] } { Inaccuracy. f5 was best. } (35... f5 36. Kc2) 36. Kc2 { [%eval 3.91] } 36... Rb4 { [%eval 4.0] } 37. Kc3 { [%eval 4.13] } 37... Rd4 { [%eval 4.15] } 38. Ra6 { [%eval 4.03] } 38... Kg6 { [%eval 4.5] } 39. Rxb6 { [%eval 4.54] } 39... Rxa4 { [%eval 4.4] } 40. Ra6 { [%eval 4.23] } 40... Rd4 { [%eval 4.43] } 41. b6 { [%eval 4.86] } { 1-0 Black resigns. } 1-0
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "28"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D66"]
+[Opening "Queen's Gambit Declined: Orthodox Defense, Bd3 Line"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.25] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nc3 { [%eval 0.05] } 3... d5 { [%eval 0.36] } 4. Bg5 { [%eval -0.09] } 4... Be7 { [%eval 0.29] } 5. e3 { [%eval 0.05] } 5... Nbd7 { [%eval 0.22] } 6. Nf3 { [%eval 0.13] } 6... O-O { [%eval 0.2] } 7. Rc1 { [%eval 0.16] } 7... c6 { [%eval 0.16] } 8. Bd3 { [%eval 0.16] } 8... h6 { [%eval 0.29] } 9. Bh4 { [%eval 0.42] } 9... dxc4 { [%eval 0.25] } 10. Bxc4 { [%eval 0.34] } 10... b5 { [%eval 0.05] } 11. Bd3 { [%eval 0.25] } 11... a6 { [%eval 0.33] } 12. e4?! { [%eval -0.38] } { Inaccuracy. a4 was best. } (12. a4 bxa4 13. Nxa4 Qa5+ 14. Nd2 Bb4 15. Ra1 Ra7 16. Nc5 Bxd2+ 17. Ke2 Qd8 18. Nxd7 Qxd7) 12... Nxe4 { [%eval -0.35] } 13. Bxe4 { [%eval -0.43] } 13... Bxh4 { [%eval -0.52] } 14. Bxc6 { [%eval -0.34] } 14... Ra7 { [%eval -0.5] } 15. O-O { [%eval -0.52] } 15... Nb6 { [%eval -0.23] } 16. Ne4 { [%eval -0.22] } 16... Be7 { [%eval -0.32] } 17. Ne5?! { [%eval -0.85] } { Inaccuracy. Nc5 was best. } (17. Nc5 Qd6) 17... Rc7 { [%eval -0.78] } 18. Qd3 { [%eval -0.7] } 18... Nc4 { [%eval -0.67] } 19. Nxc4 { [%eval -0.56] } 19... Rxc6 { [%eval -0.8] } 20. Ne5 { [%eval -0.92] } 20... Rxc1 { [%eval -0.58] } 21. Rxc1 { [%eval -0.75] } 21... Bb7 { [%eval -1.04] } 22. Nc5 { [%eval -1.12] } 22... Bxc5 { [%eval -1.09] } 23. Rxc5 { [%eval -1.79] } 23... Qd6 { [%eval -1.29] } 24. a4 { [%eval -1.12] } 24... bxa4 { [%eval -1.28] } 25. Nc4 { [%eval -1.26] } 25... Qf4 { [%eval -1.12] } 26. Qe3 { [%eval -0.98] } 26... Qg4 { [%eval -0.66] } 27. f3 { [%eval -0.55] } 27... Qg6 { [%eval -0.42] } 28. Nd6? { [%eval -1.69] } { Mistake. Ne5 was best. } (28. Ne5 Qb1+) 28... Bd5 { [%eval -1.71] } 29. Qc3 { [%eval -2.26] } 29... Kh7 { [%eval -1.59] } 30. Qc2 { [%eval -1.45] } 30... Qxc2 { [%eval -1.11] } 31. Rxc2 { [%eval -1.07] } 31... Kg6 { [%eval -1.21] } 32. Rc8 { [%eval -1.2] } 32... Rxc8 { [%eval -1.05] } 33. Nxc8 { [%eval -1.07] } 33... Kf6 { [%eval -1.26] } 34. Kf2 { [%eval -1.08] } 34... g5 { [%eval -1.32] } 35. Nb6 { [%eval -1.0] } 35... Bc6 { [%eval -1.5] } 36. Nc4 { [%eval -1.02] } 36... Ke7 { [%eval -1.1] } 37. Ne3 { [%eval -1.03] } 37... Kd6 { [%eval -0.77] } 38. Ke2?! { [%eval -1.31] } { Inaccuracy. g3 was best. } (38. g3) 38... f5?! { [%eval -0.78] } { Inaccuracy. h5 was best. } (38... h5 39. Kd2) 39. g3 { [%eval -0.68] } 39... Bb5+ { [%eval -0.74] } 40. Kd2 { [%eval -0.61] } 40... f4 { [%eval -0.74] } 41. gxf4 { [%eval -0.52] } 41... gxf4 { [%eval -0.37] } 42. Ng2?! { [%eval -1.12] } { Inaccuracy. Ng4 was best. } (42. Ng4 Kd5 43. Kc3 Be2 44. Ne5 a5 45. Nd3 Bxf3 46. Nxf4+ Kd6 47. Nd3 Be2 48. Ne5 h5) 42... e5 { [%eval -0.87] } 43. dxe5+ { [%eval -1.44] } 43... Kxe5 { [%eval -1.04] } 44. Kc3 { [%eval -1.23] } 44... Bf1 { [%eval -1.19] } 45. Ne1 { [%eval -1.01] } 45... Kd6 { [%eval -0.95] } 46. Nc2 { [%eval -1.32] } 46... Kc5 { [%eval -0.94] } 47. Nd4 { [%eval -0.91] } 47... Bh3 { [%eval -0.5] } 48. Ne2 { [%eval -0.47] } 48... Bg2 { [%eval -0.46] } 49. Nxf4 { [%eval -0.39] } 49... Bxf3 { [%eval -0.59] } 50. Nd3+ { [%eval -0.73] } 50... Kb5 { [%eval -0.63] } 51. Ne5 { [%eval -0.47] } 51... Bh5 { [%eval -0.71] } 52. Nc4 { [%eval -0.89] } 52... Bg4?! { [%eval -0.34] } { Inaccuracy. Kc5 was best. } (52... Kc5) 53. Nd6+ { [%eval -0.56] } 53... Kc5 { [%eval -0.44] } 54. Nf7? { [%eval -1.71] } { Mistake. Ne4+ was best. } (54. Ne4+ Kb5 55. Nf6 Be6 56. Nh5 a5 57. Nf4 Bf5 58. Ne2 Kc5 59. Nf4 Bd7 60. Nh5 Bh3) 54... h5 { [%eval -1.7] } 55. Ne5 { [%eval -1.09] } 55... Bf5 { [%eval -0.81] } 56. Nc4 { [%eval -1.11] } 56... Be4 { [%eval -0.84] } 57. Nd2 { [%eval -0.55] } 57... Bg2 { [%eval -1.03] } 58. h4 { [%eval -0.92] } 58... Kd5 { [%eval -0.59] } 59. Nc4 { [%eval -1.58] } 59... Ke4 { [%eval -1.32] } 60. Nd6+ { [%eval -1.34] } 60... Kd5 { [%eval -1.24] } 61. Ne8 { [%eval -1.07] } 61... Kc5?! { [%eval -0.46] } { Inaccuracy. Ke5 was best. } (61... Ke5 62. Ng7 Bf3 63. Kb4 Kf6 64. Nxh5+ Bxh5 65. Kxa4 Kf5 66. Kb4 Be2 67. Kb3 Kg4 68. Ka2) 62. Nf6?! { [%eval -1.12] } { Inaccuracy. Nc7 was best. } (62. Nc7 a5) 62... Bf3 { [%eval -0.86] } 63. b3 { [%eval -0.94] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "29"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Modern Variation, Alekhine Gambit"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. e4 { [%eval 0.0] } 1... Nf6 { [%eval 0.29] } 2. e5 { [%eval 0.35] } 2... Nd5 { [%eval 0.89] } 3. d4 { [%eval 0.79] } 3... d6 { [%eval 0.78] } 4. c4 { [%eval 0.58] } 4... Nb6 { [%eval 0.25] } 5. Nf3 { [%eval 0.13] } 5... Bg4?! { [%eval 0.91] } { Inaccuracy. dxe5 was best. } (5... dxe5 6. Nxe5 g6 7. Be3 Bg7 8. Nc3 c5 9. Be2 O-O 10. O-O) 6. Be2?! { [%eval 0.0] } { Inaccuracy. exd6 was best. } (6. exd6 exd6 7. h3 Bh5 8. Nc3 Be7 9. Be2 c6 10. O-O O-O) 6... dxe5 { [%eval 0.09] } 7. c5 { [%eval -0.03] } 7... e4 { [%eval 0.0] } 8. cxb6 { [%eval -0.12] } 8... exf3 { [%eval -0.18] } 9. Bxf3 { [%eval -0.28] } 9... Bxf3 { [%eval 0.0] } 10. Qxf3 { [%eval 0.05] } 10... axb6?! { [%eval 0.57] } { Inaccuracy. Nc6 was best. } (10... Nc6 11. d5) 11. Qxb7 { [%eval 0.57] } 11... Nd7 { [%eval 0.66] } 12. Bf4 { [%eval 0.2] } 12... e5 { [%eval 0.12] } 13. Bxe5 { [%eval 0.2] } 13... Nxe5 { [%eval 0.17] } 14. dxe5 { [%eval 0.14] } 14... Bb4+ { [%eval 0.16] } 15. Nc3 { [%eval 0.16] } 15... Bxc3+ { [%eval 0.29] } 16. bxc3 { [%eval 0.29] } 16... O-O { [%eval 0.25] } 17. O-O { [%eval 0.18] } 17... Qe7 { [%eval 0.17] } 18. Rfe1 { [%eval 0.33] } 18... Qc5 { [%eval 0.15] } 19. Re3 { [%eval 0.3] } 19... Ra3 { [%eval 0.33] } 20. Qf3 { [%eval 0.13] } 20... Re8?! { [%eval 0.89] } { Inaccuracy. Rd8 was best. } (20... Rd8 21. Rd1 Rxd1+ 22. Qxd1 Rxa2 23. h3 h6 24. Qd7 Ra8 25. e6 fxe6 26. Qxe6+ Kh8 27. g4) 21. h3 { [%eval 0.62] } 21... Ra5 { [%eval 0.5] } 22. Rd1 { [%eval 0.47] } 22... Qe7 { [%eval 0.44] } 23. Qc6 { [%eval 0.82] } 23... Rc5 { [%eval 0.7] } 24. Qd7 { [%eval 0.22] } 24... g6 { [%eval 0.7] } 25. f4 { [%eval 0.32] } 25... Rc4 { [%eval 0.57] } 26. Qxe7 { [%eval 0.57] } 26... Rxe7 { [%eval 0.55] } 27. Rd4 { [%eval 0.46] } 27... Rc5 { [%eval 0.44] } 28. Kf2 { [%eval 0.38] } 28... c6?! { [%eval 1.0] } { Inaccuracy. Re6 was best. } (28... Re6) 29. a4 { [%eval 1.31] } 29... Ra7 { [%eval 0.83] } 30. Rb4 { [%eval 0.42] } 30... b5 { [%eval 0.48] } 31. axb5 { [%eval 0.49] } 31... cxb5 { [%eval 0.35] } 32. Kf3 { [%eval 0.56] } 32... Rac7 { [%eval 0.58] } 33. Rb3 { [%eval 0.47] } 33... Kf8 { [%eval 0.45] } 34. g4 { [%eval 0.31] } 34... Ke7 { [%eval 0.29] } 35. f5 { [%eval 0.0] } 35... gxf5 { [%eval 0.0] } 36. gxf5 { [%eval 0.0] } 36... f6 { [%eval 0.0] } 37. Kf4 { [%eval 0.0] } 37... fxe5+ { [%eval 0.0] } 38. Rxe5+ { [%eval 0.0] } 38... Rxe5 { [%eval 0.0] } 39. Kxe5 { [%eval 0.0] } 39... Rc5+ { [%eval 0.0] } 40. Ke4 { [%eval 0.0] } 40... Kf6 { [%eval 0.0] } 41. Ra3 { [%eval 0.0] } 41... Rc4+ { [%eval 0.0] } 42. Kd3 { [%eval 0.0] } 42... Rh4 { [%eval 0.0] } 43. Rb3 { [%eval 0.0] } 43... Kxf5 { [%eval 0.0] } 44. Rxb5+ { [%eval 0.0] } 44... Ke6 { [%eval 0.0] } 45. c4 { [%eval 0.0] } 45... Rxh3+ { [%eval 0.0] } 46. Kd4 { [%eval 0.0] } 46... Kd6 { [%eval 0.0] } 47. Rb6+ { [%eval 0.0] } 47... Kc7 { [%eval 0.0] } 48. Rf6 { [%eval 0.0] } 48... Rh5 { [%eval 0.0] } 49. Kc3 { [%eval 0.0] } 49... Kb7 { [%eval 0.0] } 50. Kb4 { [%eval 0.0] } 50... Kc7 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "World Championship 16th"]
+[Site "NLD"]
+[Date "1935.??.??"]
+[Round "30"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[UTCDate "2021.11.29"]
+[UTCTime "19:28:07"]
+[Variant "Standard"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Godes Variation"]
+[Annotator "https://lichess.org/@/Lichess"]
+
+1. d4 { [%eval 0.0] } 1... d5 { [%eval 0.35] } 2. c4 { [%eval 0.29] } 2... dxc4 { [%eval 0.39] } 3. Nf3 { [%eval 0.0] } 3... Nd7?! { [%eval 0.98] } { Inaccuracy. e6 was best. } (3... e6 4. e3 c5 5. Bxc4 cxd4 6. exd4 Bb4+ 7. Nc3 Nf6 8. O-O) 4. Qa4?! { [%eval 0.0] } { Inaccuracy. e4 was best. } (4. e4 Nb6 5. Bxc4 Nxc4 6. Qa4+ c6 7. Qxc4 e6 8. Nc3 Bd6) 4... c6 { [%eval -0.01] } 5. Qxc4 { [%eval 0.01] } 5... Ngf6 { [%eval 0.51] } 6. g3?! { [%eval 0.0] } { Inaccuracy. Nbd2 was best. } (6. Nbd2 c5 7. dxc5 e6 8. c6 bxc6 9. Qc2 Be7 10. e4 a5) 6... g6 { [%eval 0.47] } 7. Nc3 { [%eval 0.72] } 7... Bg7 { [%eval 0.64] } 8. Bg2 { [%eval 0.8] } 8... O-O { [%eval 0.59] } 9. O-O { [%eval 0.68] } 9... Qa5 { [%eval 0.68] } 10. e4 { [%eval 0.31] } 10... Qh5?! { [%eval 1.21] } { Inaccuracy. e5 was best. } (10... e5) 11. Qd3? { [%eval 0.0] } { Mistake. Bf4 was best. } (11. Bf4 h6 12. Qe2 g5 13. Bc1 Nb6 14. a4 a5 15. h4 Bg4 16. Qd3 Rad8 17. hxg5 hxg5) 11... Nb6?? { [%eval 1.6] } { Blunder. e5 was best. } (11... e5 12. Qd1) 12. Ne2 { [%eval 1.45] } 12... Rd8 { [%eval 1.58] } 13. a4 { [%eval 1.42] } 13... Nbd7? { [%eval 3.04] } { Mistake. Qa5 was best. } (13... Qa5 14. Bd2 Qa6 15. Qxa6 bxa6 16. Ne5 Bb7 17. a5 Nbd7 18. Nc4 e5 19. Nd6 Rab8 20. Bc3) 14. b4 { [%eval 3.16] } 14... g5 { [%eval 3.14] } 15. Nxg5 { [%eval 2.9] } 15... Ne5? { [%eval 4.78] } { Mistake. Nf8 was best. } (15... Nf8 16. Qc2 h6 17. Nf3 Ng6 18. Ra3 Bg4 19. a5 Nd7 20. Bb2 e5 21. Re3 Rac8 22. dxe5) 16. Qc2 { [%eval 4.2] } 16... Ng6 { [%eval 4.11] } 17. h3 { [%eval 3.94] } 17... h6 { [%eval 4.5] } 18. Bf3 { [%eval 4.2] } 18... Ng4 { [%eval 3.7] } 19. hxg4 { [%eval 3.72] } 19... Bxg4 { [%eval 3.71] } 20. Bxg4 { [%eval 3.78] } 20... Qxg4 { [%eval 4.02] } 21. Nxf7 { [%eval 3.51] } 21... Kxf7 { [%eval 3.75] } 22. Qc4+ { [%eval 3.92] } 22... e6 { [%eval 4.45] } 23. f3 { [%eval 4.39] } 23... Qh5?! { [%eval 5.62] } { Inaccuracy. Bxd4+ was best. } (23... Bxd4+ 24. Qxd4 Qxg3+ 25. Nxg3 Rxd4 26. b5 cxb5 27. axb5 Rb4 28. Bxh6 Rg8 29. Rab1 Ra4 30. Rbc1) 24. Be3 { [%eval 4.78] } 24... Rg8 { [%eval 5.6] } 25. Rf2 { [%eval 5.39] } 25... Bf6 { [%eval 5.72] } 26. Raf1 { [%eval 6.01] } 26... Nh4 { [%eval 6.37] } 27. Qxe6+ { [%eval 5.69] } 27... Kxe6 { [%eval 5.71] } 28. Nf4+ { [%eval 5.96] } 28... Kf7 { [%eval 6.25] } 29. Nxh5 { [%eval 6.11] } 29... Be7 { [%eval 6.05] } 30. Kh2 { [%eval 5.98] } 30... Ng6 { [%eval 6.28] } 31. Rb2 { [%eval 6.45] } 31... Rac8 { [%eval 6.8] } 32. f4 { [%eval 6.99] } 32... Nf8 { [%eval 6.71] } 33. f5 { [%eval 6.33] } 33... Bg5 { [%eval 6.59] } 34. Bxg5 { [%eval 5.92] } 34... Rxg5 { [%eval 5.5] } 35. Nf4 { [%eval 5.23] } 35... Nh7 { [%eval 5.72] } 36. Ne6 { [%eval 5.52] } 36... Rh5+ { [%eval 6.5] } 37. Kg2 { [%eval 7.1] } 37... Nf6 { [%eval 7.04] } 38. Kf3 { [%eval 6.09] } 38... Rg8 { [%eval 7.27] } 39. Nf4 { [%eval 5.94] } 39... Rhg5 { [%eval 6.03] } 40. Rg1 { [%eval 5.79] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+

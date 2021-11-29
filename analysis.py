@@ -4,6 +4,7 @@ import chess
 import chess.pgn
 import itertools
 from statistics import mean
+import os
 
 
 def pgnProcess(pgn, event):
@@ -24,13 +25,22 @@ def pgnProcess(pgn, event):
 
         count += 1
         output[event][str(count)] = dict()
+        print(count)
 
         w = game.headers['White']
         b = game.headers['Black']
 
         evals = []
-        for node in game.mainline():
+
+        if sum(1 for _ in game.mainline()) < 10:
+            continue  # skip games shorter than 10 ply
+
+        for node in itertools.islice(game.mainline(), 200):  # no analysis after ply 200
+            if node.board().is_game_over():
+                continue  # no eval for mate played
             evals.append(max(min(node.eval().white(), chess.engine.Cp(1000)), chess.engine.Cp(-1000)).score())  # blunders above 1000 don't count
+
+        evals[0] = 35  # initial eval is 0 but should not be
 
         def difference(n, evals):
             a, b = evals
@@ -44,13 +54,17 @@ def pgnProcess(pgn, event):
 
         black_evals = cpls[::2]
         white_evals = cpls[1::2]
-        output[event][str(count)][w] = mean(white_evals)
-        output[event][str(count)][b] = mean(black_evals)
+        output[event][str(count)][w] = ('w', mean(white_evals))
+        output[event][str(count)][b] = ('b', mean(black_evals))
     return output
 
 
-event = 'lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn'
-f = open(f'analysed_pgns/{event}')
+full_output = []
 
-output = pgnProcess(f, event)
-print(output)
+events = os.listdir('./analysed_pgns')
+for event in events:
+    print(event)
+    f = open(f'analysed_pgns/{event}')
+    event_output = pgnProcess(f, event)
+    full_output.append(event_output)
+print(full_output)

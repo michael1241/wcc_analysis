@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import chess
 import chess.pgn
 import itertools
 from statistics import mean
@@ -30,7 +31,7 @@ def pgnProcess(pgn):
 
         evals = []
         for node in game.mainline():
-            evals.append(min(node.eval().white().score(mate_score=1000), 1000))  # blunders above 1000 don't count
+            evals.append(max(min(node.eval().white(), chess.engine.Cp(1000)), chess.engine.Cp(-1000))  # blunders above 1000 don't count
 
         def difference(n, evals):
             a, b = evals

@@ -5,6 +5,7 @@ import chess.pgn
 import itertools
 from statistics import mean
 import os
+import json
 
 
 def pgnProcess(pgn, event):
@@ -67,4 +68,6 @@ for event in events:
     f = open(f'analysed_pgns/{event}')
     event_output = pgnProcess(f, event)
     full_output.append(event_output)
-print(full_output)
+
+with open('analysis.json', 'w') as f:
+    f.write(json.dumps(full_output))

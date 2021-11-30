@@ -14,17 +14,17 @@ Visualize.py takes in CSV and makes some charts, examples are shown below.
 
 |Year|Game No.|         White Player          |      Black Player    |Combined ACPL|
 |:--:|:------:|------------------------------:|---------------------:|:-----------:|
-|2021|    3   |          Nepomniachtchi, Ian  |     Carlsen, Magnus  |     6.625000|
-|1978|   15   |           Kortschnoj, Viktor  |     Karpov, Anatoly  |     6.666667|
-|1987|   18   |               Kasparov, Gary  |     Karpov, Anatoly  |     6.687179|
-|1972|   16   |        Fischer, Robert James  |    Spassky, Boris V  |     6.858757|
-|2014|    9   |              Carlsen, Magnus  |  Anand, Viswanathan  |     6.947368|
+|2021|    3   |          Nepomniachtchi, Ian  |     Carlsen, Magnus  |     6.62    |
+|1978|   15   |           Kortschnoj, Viktor  |     Karpov, Anatoly  |     6.67    |
+|1987|   18   |               Kasparov, Gary  |     Karpov, Anatoly  |     6.69    |
+|1972|   16   |        Fischer, Robert James  |    Spassky, Boris V  |     6.86    |
+|2014|    9   |              Carlsen, Magnus  |  Anand, Viswanathan  |     6.95    |
 |....|  ....  |              ....             |          ...         |        ...  |
-|1886|   11   |  Zukertort, Johannes Hermann  |   Steinitz, William  |   153.589744|
-|1957|    9   |           Botvinnik, Mikhail  |    Smyslov, Vassily  |   154.896159|
-|1892|   19   |            Chigorin, Mikhail  |   Steinitz, William  |   167.129032|
-|1889|   15   |            Chigorin, Mikhail  |   Steinitz, William  |   211.977778|
-|1892|   15   |            Chigorin, Mikhail  |   Steinitz, William  |   212.326087|
+|1886|   11   |  Zukertort, Johannes Hermann  |   Steinitz, William  |   153.59    |
+|1957|    9   |           Botvinnik, Mikhail  |    Smyslov, Vassily  |   154.90    |
+|1892|   19   |            Chigorin, Mikhail  |   Steinitz, William  |   167.13    |
+|1889|   15   |            Chigorin, Mikhail  |   Steinitz, William  |   211.98    |
+|1892|   15   |            Chigorin, Mikhail  |   Steinitz, William  |   212.33    |
 
 
 

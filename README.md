@@ -31,16 +31,17 @@ Visualize.py takes in CSV and makes some charts, examples are shown below.
 
 
 # Output 2: Some graphs of average combined acpl vs. time
-![Barplot](https://github.com/Sebastien32/wcc_analysis/blob/master/barplot.png)
-![Boxenplot](https://github.com/Sebastien32/wcc_analysis/blob/master/boxenplot.png)
-![Boxplot](https://github.com/Sebastien32/wcc_analysis/blob/master/boxplot.png)
-![Stripplot](https://github.com/Sebastien32/wcc_analysis/blob/master/stripplot.png)
-![Violinplot](https://github.com/Sebastien32/wcc_analysis/blob/master/violinplot.png)
-![Scatterplot](https://github.com/Sebastien32/wcc_analysis/blob/master/scatterplot.png)
-![Regplot](https://github.com/Sebastien32/wcc_analysis/blob/master/regplot.png)
-![Lmplot](https://github.com/Sebastien32/wcc_analysis/blob/master/lmplot.png)
+![Barplot](https://github.com/michael1241/wcc_analysis/blob/master/barplot.png)
+![Boxenplot](https://github.com/michael1241/wcc_analysis/blob/master/boxenplot.png)
+![Boxplot](https://github.com/michael1241/wcc_analysis/blob/master/boxplot.png)
+![Boxplot_acpl](https://github.com/michael1241/wcc_analysis/blob/master/boxplot_colored_acpl.png)
+![Stripplot](https://github.com/michael1241/wcc_analysis/blob/master/stripplot.png)
+![Violinplot](https://github.com/michael1241/wcc_analysis/blob/master/violinplot.png)
+![Scatterplot](https://github.com/michael1241/wcc_analysis/blob/master/scatterplot.png)
+![Regplot](https://github.com/michael1241/wcc_analysis/blob/master/regplot.png)
+![Lmplot](https://github.com/michael1241/wcc_analysis/blob/master/lmplot.png)
 
 
 # Output 3: All games by ACPL vs. num moves
 Note some games are off the table in both x and y axes.
-![Gamelengthplot](https://github.com/Sebastien32/wcc_analysis/blob/master/gamelengthscatterplot.png)
+![Gamelengthplot](https://github.com/michael1241/wcc_analysis/blob/master/gamelengthscatterplot.png)

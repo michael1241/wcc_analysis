@@ -5,7 +5,7 @@ import chess.pgn
 import itertools
 from statistics import mean
 import os
-import json
+import csv
 
 
 def pgnProcess(pgn, event):
@@ -16,7 +16,7 @@ def pgnProcess(pgn, event):
         next(b, None)
         return zip(a, b)
 
-    output = {event: {}}
+    output = []
     count = 0
     while True:
 
@@ -25,12 +25,10 @@ def pgnProcess(pgn, event):
             break
 
         count += 1
-        output[event][str(count)] = dict()
-        print(count)
 
         w = game.headers['White']
         b = game.headers['Black']
-
+        year = event.split('_')[2][:4]
         evals = []
 
         if sum(1 for _ in game.mainline()) < 10:
@@ -55,19 +53,23 @@ def pgnProcess(pgn, event):
 
         black_evals = cpls[::2]
         white_evals = cpls[1::2]
-        output[event][str(count)][w] = ('w', mean(white_evals))
-        output[event][str(count)][b] = ('b', mean(black_evals))
+        output.append([event, year, count, w, mean(white_evals), len(white_evals), b, mean(black_evals), len(black_evals), mean(white_evals) + mean(black_evals)])
+        print('!', event, len(output))
     return output
 
 
 full_output = []
+headers = ['Event', 'Year', 'Game Number', 'White Player', 'White ACPL', 'White Num Moves', 'Black Player', 'Black ACPL', 'Black Num Moves', 'Combined ACPL']
 
 events = os.listdir('./analysed_pgns')
 for event in events:
-    print(event)
-    f = open(f'analysed_pgns/{event}')
-    event_output = pgnProcess(f, event)
-    full_output.append(event_output)
+    # print(event)
+    with open(f'analysed_pgns/{event}') as f:
+        event_outputs = pgnProcess(f, event)
+    for output in event_outputs:
+        full_output.append(output)
 
-with open('analysis.json', 'w') as f:
-    f.write(json.dumps(full_output))
+with open('analysis.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(headers)
+    writer.writerows(full_output)

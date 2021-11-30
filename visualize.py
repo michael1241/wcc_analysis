@@ -92,7 +92,7 @@ pd.options.display.width = 0
 
 palette = {WC: color for (WC, color) in zip(df.WC.unique(), sns.color_palette() + sns.color_palette("pastel"))}
 print(df)
-
+axes.set_ylim(0, 150)
 sns.boxplot(x='Year', y='Combined ACPL', data=df, ax=axes, hue="WC", palette=palette, dodge=False)
 axes.set_title('Combined ACPL by WC Year')
 axes.set_xticklabels(axes.get_xticklabels(), rotation=60)

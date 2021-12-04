@@ -29,16 +29,9 @@ Visualize.py takes in CSV and makes some charts, examples are shown below.
 
 
 # Output 2: Some graphs of average combined acpl vs. time
-![Barplot](https://github.com/michael1241/wcc_analysis/blob/master/barplot.png)
-![Boxenplot](https://github.com/michael1241/wcc_analysis/blob/master/boxenplot.png)
-![Boxplot](https://github.com/michael1241/wcc_analysis/blob/master/boxplot.png)
+
 ![Boxplot2](https://github.com/michael1241/wcc_analysis/blob/master/boxplot_color_champ.png)
 ![Boxplot_acpl](https://github.com/michael1241/wcc_analysis/blob/master/boxplot_colored_acpl.png)
-![Stripplot](https://github.com/michael1241/wcc_analysis/blob/master/stripplot.png)
-![Violinplot](https://github.com/michael1241/wcc_analysis/blob/master/violinplot.png)
-![Scatterplot](https://github.com/michael1241/wcc_analysis/blob/master/scatterplot.png)
-![Regplot](https://github.com/michael1241/wcc_analysis/blob/master/regplot.png)
-![Lmplot](https://github.com/michael1241/wcc_analysis/blob/master/lmplot.png)
 
 
 # Output 3: All games by ACPL vs. num moves

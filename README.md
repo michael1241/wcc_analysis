@@ -14,11 +14,11 @@ Visualize.py takes in CSV and makes some charts, examples are shown below.
 
 |Year|Game No.|         White Player          |      Black Player    |Combined ACPL|
 |:--:|:------:|------------------------------:|---------------------:|:-----------:|
-|2021|    3   |          Nepomniachtchi, Ian  |     Carlsen, Magnus  |     6.62    |
+|2021|    7   |          Nepomniachtchi, Ian  |     Carlsen, Magnus  |     5.20    |
+|2021|    3   |          Nepomniachtchi, Ian  |     Carlsen, Magnus  |     6.63    |
 |1978|   15   |           Kortschnoj, Viktor  |     Karpov, Anatoly  |     6.67    |
+|2021|   10   |              Carlsen, Magnus  | Nepomniachtchi, Ian  |     6.68    |
 |1987|   18   |               Kasparov, Gary  |     Karpov, Anatoly  |     6.69    |
-|1972|   16   |        Fischer, Robert James  |    Spassky, Boris V  |     6.86    |
-|2014|    9   |              Carlsen, Magnus  |  Anand, Viswanathan  |     6.95    |
 |....|  ....  |              ....             |          ...         |        ...  |
 |1886|   11   |  Zukertort, Johannes Hermann  |   Steinitz, William  |   153.59    |
 |1957|    9   |           Botvinnik, Mikhail  |    Smyslov, Vassily  |   154.90    |
@@ -31,9 +31,3 @@ Visualize.py takes in CSV and makes some charts, examples are shown below.
 # Output 2: Some graphs of average combined acpl vs. time
 
 ![Boxplot2](https://github.com/michael1241/wcc_analysis/blob/master/boxplot_color_champ.png)
-![Boxplot_acpl](https://github.com/michael1241/wcc_analysis/blob/master/boxplot_colored_acpl.png)
-
-
-# Output 3: All games by ACPL vs. num moves
-Note some games are off the table in both x and y axes.
-![Gamelengthplot](https://github.com/michael1241/wcc_analysis/blob/master/gamelengthscatterplot.png)
